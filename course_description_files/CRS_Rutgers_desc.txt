@@ -1,0 +1,154 @@
+Fundamentals of Big Data Curation and Management
+
+This course introduces students to the use of large data sets and prepares them for work in either a corporate data analytics world or in a major scientific archive. Students would learn the beginnings of how to design, manage and exploit large textual, graphical and numeric data collections
+
+By the end of the course, students will be able to:
+1. Define what “Big Data” commonly means, and explain its role, purpose, and impact in various industries and in research. Students will be able to describe applications in medicine, marketing and climate science.
+2. Identify and distinguish at least three kinds of data: numeric data, text data and network data. Perform at least one practical calculation with each kind of data.
+3. Describe needs and techniques for data input, including sources of data, format conversion, data description (metadata), and data quality measurement. Compare opportunities and risks in new input methods, specifically crowd-sourcing and sensors.
+4. Evaluate the use of various technologies (e.g. Perl and R) and approaches (e.g. mean, SD, box-plots) for exploratory data analysis and modeling. Use a few basic visualizations such as box plots and graphs to present data, and use geographic data to present data in a mapped format.
+5. Perform at least three specific exercises in data analysis for the three main data types: predict the next element in a numerical time series, compile a translation dictionary, and compute the shortest path in a network (abstract graph).
+6. Explain the computing needs of “big data” problems, including specifically relational databases, parallel computing and mobile computing.
+7. Visualize or model the answers to one practical question using one of the supplied datasets.
+
+Job openings; some thoughts on computer languages (R, Excel, Perl, SQL).
+Input; kinds of data; Description of desired final projects.
+Formats; how to describe networks; very basic statistics
+Quality.
+Exploratory data analysis. Differential pricing.
+Analytics. Teams for final projects.
+Databases. What is SQL?
+Parallelism.. A very little bit on cryptography.
+Final projects.
+Visualization. Kinds of plots. Time series, geography, networks
+Natural language. Statistical vs. linguistic methods.
+Sentiment analysis. Happy places and times.
+Mobile data. Marketing and privacy.
+Applications: seismology, ICPSR
+Final project presentations
+
+Week 1:
+Jim Gray, “A transformed scientific method,” the first chapter in The Fourth Paradigm, by Tony Hey, Stewart Tansley & Kristin Tolle,2009.
+Leigh Buchanan, “Save Lives by Sharing Data,” Inc. magazine, 2012. http://www.inc.com/magazine/201211/big-idea-1-save-lives-sharing-data.html.
+Jeonghyun Kim, Edward Warga, and William Moen, "Digital Curation in the Academic Library Job Market," ASIS 2012
+"Inference in an Authorship Problem," Frederick Mosteller and David Wallace, J. Am. Statistical Assoc. v. 58 issue 302, pp 275-309, 1963.
+Week 2:
+"The Universe Online," M. Jordan Raddick and Alex Szalay, Science 27 August 2010, v 329 no. 5995 p 1028-29
+"Worldwide use and impact of the NASA Astrophysics Data System digital library" Kurtz, M. J., Eichhorn, G., Accomazzi, A., Grant, C., Demleitner, M. and Murray, S. S. (2005),. J. Am. Soc. Inf. Sci., 56: 36–45
+"Drug development: Raise standards for preclinical cancer research," C. Glenn Begley & Lee M. Ellis, Nature483, 531–533 (28 March 2012)
+"Believe it or not: how much can we rely on published data on potential drug targets?" Florian Prinz, Thomas Schlange, Thomas and Khusru Asadullah, Nature Rev Drug Discovery v. 10, no.9, p 712-713
+"Cat Ownership and the Risk of Fatal Cardiovascular Diseases: Results from the Second National Health and Nutrition Examination Study Mortality Follow-up Study.” Adnan I Qureshi, Muhammad Zeeshan Memon, Gabriela Vazquez, M Fareed and K Suri, Journal of Vascular and Interventional Neurology 2009; 2(1):132-135
+Week 3:
+"Privacy Economics and Price Discrimination on the Internet," Andy Odlyzko
+http://www.dtc.umn.edu/~odlyzko/doc/privacy.economics.pdf
+  
+"Reading over your shoulder," Michael Lesk, IEEE Security & Privacy, 2009, vol 7, no. 3, p 78- 81.
+"Big Data can Make a Big Difference in Marketing," Steve McKee
+http://www.businessweek.com/articles/2012-09-14/big-data-can-make-a-big-difference-in- marketing
+Andy Odlyzko, "Why electronic publishing means people will pay different prices," Nature: http://www.nature.com/nature/focus/accessdebate/7.html
+Week 4:
+Ahmed, A.; Batagelj, V.; Fu, X.; Hong, S.-H.; Merrick, D.; Mrvar, A.; , "Visualisation and analysis of the internet movie database," APVIS '07. 6th International Asia-Pacific Symposium on Visualization, pp.17-24, 5-7 Feb. 2007
+http://www.visualcomplexity.com and other websites to be found by students.
+Week 5:
+"Computing descriptive statistics with Perl".
+http://perlgems.blogspot.com/2012/05/computing-descriptive-statistics-with.html
+Fisher,R.A. "The use of multiple measurements in taxonomic problems" Annual Eugenics, 7, Part II, 179-188 (1936); (only for the problem not the math).
+Week 6:
+"The Text Encoding Initiative at 10: Not Just an Interchange Format Anymore – But a New Research Community," Elli Mylonas, Allen Renear, Computers and the Humanities, April 1999, Volume 33, Issue 1-2, pp 1-9 [In doc-sharing]
+"Delivering Electronic Texts Over the Web: The Current and Planned Practices of the Oxford Text Archive," A. Morrison, Computers and the Humanities, April 1999, Volume 33, Issue 1-2, pp 193-198 [In doc-sharing]
+"The TEI Lite Header," http://www.lib.berkeley.edu/digicoll/bestpractices/teilite.pdf.
+      
+"Early response to false claims in Wikipedia," P.D. Magnus, First Monday, Volume 13 Number 9 - 1 September 2008
+"Robustness of Statistical Gossip and the Antarctic Ozone Hole," The IMS Bulletin, vol. 19, no. 4, 1990 p 540-545. http://www.math.uni-augsburg.de/stochastik/pukelsheim/1990c.pdf
+Gelman, I.A.; Ningning Wu; , "Combining Structured and Unstructured Information Sources for a Study of Data Quality: A Case Study of Zillow.Com," HICSS, 2011 44th Hawaii International Conference on System Sciences, pp.1-12, 4-7 Jan. 2011
+Week 7:
+"Curated databases," Peter Buneman, James Cheney, Wang-Chiew Tan, and Stijn Vansummeren. 2008.
+SIGMOD-SIGACT-SIGART symposium (PODS '08). p. 1-12
+"Systematic Development of Data Mining-Based Data Quality Tools," Dominik Luebbers, Udo Grimmer and Matthias Jarke. Proceedings of 29th International Conference on Very Large Data Bases, 2003
+http://www.vldb.org/conf/2003/papers/S17P02.pdf
+avastmachine.blogspot.com, see "Climate Smackdown: data versus models", Paul Edwards, Tuesday March 22, 2011
+"Nate Silver’s Sweep Is a Huge Win for ‘Big Data’ The data utopia awaits" by Nitasha Tiku, http://betabeat.com/2012/11/nate-silver-predicton-sweep-presidential-election-huge-win-big- data/
+Criticisms of Nate Silver: “Polling, Likely Voters, and the Law of the Commons,” by Frank Newport, http://pollingmatters.gallup.com/2012/11/polling-likely-voters-and-law-of-commons.html Nov. 9 2012, in "Polling Matters" (a Gallup blog), and also Paul Krugman, http://krugman.blogs.nytimes.com/2012/10/28/the-war-on-objectivity/
+"The Stanford Microarray Database: data access and quality assessment tools," Jeremy Gollub, Catherine A. Ball, Gail Binkley, Janos Demeter, David B. Finkelstein, Joan M. Hebert, Tina Hernandez-Boussard, Heng Jin, Miroslava Kaloper, John C. Matese, Mark Schroeder, Patrick O. Brown, David Botstein, and Gavin Sherlock, Nucl. Acids Res. (2003) 31(1): 94-96
+ 
+"Methodologies for data quality assessment and improvement." Carlo Batini, Cinzia Cappiello, Chiara Francalanci, and Andrea Maurino. 2009. ACM Comput. Surv. 41, 3, Article 16 (July 2009), 52 pages
+Andrew Odlyzko. 2003. Privacy, economics, and price discrimination on the Internet. In Proceedings of the 5th international conference on Electronic commerce (ICEC '03). ACM, New York, NY, USA, 355-366. http://dl.acm.org/citation.cfm?id=948051
+Week 8:
+Herman Anthony Carneiro and Eleftherios Mylonakis,”Google Trends: A Web-Based Tool for Real-Time Surveillance of Disease Outbreaks," Clin Infect Dis. (2009) 49(10): 1557-1564
+"Detecting influenza epidemics using search engine query data.," Ginsberg J, Mohebbi MH, Patel RS, Brammer L, Smolinski MS, Brilliant L. Nature. 2009 Feb 19; 457(7232): 1012-4.
+Paul Earle, Michelle Guy, Richard Buckmaster, Chris Ostrum, Scott Horvath, and Amy Vaughan: “OMG Earthquake! Can Twitter improve earthquake response?” Electronic Seismologist, 2010.
+Marcelo Mendoza, Barbara Poblete, and Carlos Castillo. 2010. Twitter under crisis: can we trust what we RT?. Proceedings of the First Workshop on Social Media Analytics (SOMA '10). ACM, New York, NY, USA, 71-79.
+Week 9:
+"The Unreasonable Effectiveness of Data" by Halevy, Norvig and Pereira (three important people, by the way)http://www.csee.wvu.edu/~gidoretto/courses/2011-fall- cp/reading/TheUnreasonable EffectivenessofData_IEEE_IS2009.pdf
+"What Data Can't Do" by David Brooks http://www.nytimes.com/2013/02/19/opinion/brooks-what-data-cant-do.html
+More Data Beats Better Algorithms - Or Does It? Omar Tawakol
+http://allthingsd.com/20120907/more-data-beats-better-algorithms-or-does-it/
+More Data Usually Beats Better Algorithms, by Anand Rajamaran
+http://anand.typepad.com/datawocky/2008/03/more-data-usual.html
+  
+Owen O’Malley, "Introduction to Hadoop,"
+http://archive.apachecon.com/eu2007/materials/apachecon07.pdf
+"What is Hadoop?" (from IBM) http://www-01.ibm.com/software/data/infosphere/hadoop/
+Week 10:
+David S. H. Rosenthal, Daniel C. Rosenthal, Ethan L. Miller, Ian F. Adams, Mark W. Storer, Erez Zadok. "The Economics of Long-Term Digital Storage," http://www.lockss.org/locksswp/wp-content/uploads/2012/09/unesco2012.pdf
+Tom Coughlin, "Have Hard Disk Drives Peaked?" Forbes, Oct. 3 2012
+http://www.forbes.com/sites/tomcoughlin/2012/10/03/have-hard-disk-drives-peaked/
+Lucas Mearian, "60TB disk drives could be a reality in 2016," Computerworld, May 22, 2012
+http://www.computerworld.com/s/article/9227382/60TB_disk_drives_could_be_a_reality_in_20 16
+"A Face Is Exposed for AOL Searcher No. 4417749,: MICHAEL BARBARO and TOM ZELLER Jr., The New York Times, August 9, 2006 http://www.nytimes.com/2006/08/09/technology/09aol.html
+"Why 'Anonymous' Data Sometimes Isn't,” Bruce Schneier, Wired, 12.13.07 http://www.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_12 13
+“Anonymized” data really isn’t—and here’s why not, Nate Anderson - Sept 8 2009 http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/
+“Can You Be Identified from Anonymous Data? It’s Not So Simple,” Steve Wildstrom. http://techpinions.com/can-you-be-identified-from-anonymous-data-its-not-so-simple/7627
+Privacy Versus Public Health: The Impact of Current Confidentiality Rules Daniel Wartenberg and W. Douglas Thompson
+American Journal of Public Health, Vol 100, No. 3 pp 407-412, March 2010 http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2009.166249
+Lois Beckeet, “Everything We Know (So Far) About Obama’s Big Data Tactics,” ProPublica, Nov. 29, 2012 http://www.propublica.org/article/everything-we-know-so-far-about-obamas-big-data-operation
+      
+James Bamford, “The NSA Is Building the Country’s Biggest Spy Center (Watch What You Say),” Wired, 2012.
+http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/all/
+Week 11:
+The geography of happiness: connecting twitter sentiment and expression, demographics, and objective characteristics of place
+Lewis Mitchell, Morgan Frank, Kameron Harris, Peter Dodads and Christopher Danforth http://arxiv.org/pdf/1302.3299.pdf
+Was the past a happy place? Ian Milligan, 2012
+http://activehistory.ca/2012/07/was-the-past-a-happy-place/
+Statistical machine translation gains respect, Geer, David IEEE Computer vol 38 no 10 pp 18-21 2005
+Conceptual biology, hypothesis discovery, and text mining: Swanson's legacy Tanja Bekhuis
+Biomedical Digital Libraries 2006, vol 3 no 2. http://www.bio-diglib.com/content/pdf/1742-5581-3-2.pdf
+Week 12:
+"Crowdsourcing: How and Why Should Libraries Do It?" by Rose Holley, D-Lib Magazine, http://www.dlib.org/dlib/march10/holley/03holley.html
+"Citizen Science System Assemblages: Toward Greater Understanding of Technologies to Support Crowdsourced Science," by Nathan Prestopnik and Kevin Crowston, at http://citsci.syr.edu/sites/crowston.syr.edu/files/system_assemblage.pdf
+"The Mars crowdsourcing experiment: Is crowdsourcing in the form of a serious game applicable for annotation in a semantically-rich research domain?" by J. S. S. Van 't Woud, 16th International Conference on Computer Games (CGAMES), 27-30 July 2011. In IEEEXplore, also in doc-sharing as Mars-crowds.
+"Big data: The future of biocuration" Doug Howe, Maria Costanzo, Petra Fey, Takashi Gojobori, Linda Hannick, Winston Hide, David P. Hill, Renate Kania, Mary Schaeffer, Susan St Pierre, Simon Twigger, Owen White & Seung Yon Rhee, Nature 455, 47-50 (4 September 2008)
+   
+"The BioGRID interaction database: 2013 update," Andrew Chatraryamontri, Bobby-Joe Breitkreutz, Sven Heinicke, Lorrie Boucher, Andrew Winter, Chris Stark, Julie Nixon, Lindsay Ramage, Nadine Kolas, Lara O’Donnell, Teresa Reguly, Ashton Breitkreutz, Adnane Sellam, Daici Chen, Christie Chang, Jennifer Rust, Michael Livstone, Rose Oughtred, Kara Dolinski, and Mike Tyers, Nucleic Acids Res. 2013 January; 41(D1): D816–D823.
+"Dealing with Data: A Case Study on Information and Data Management Literacy." M. A. Haendel, N. A. Vasilevsky, J. A. Wirz JA. PLoS Biol 10(5): e1001339. (2012)
+"Stealthy annotation of experimental biology by spreadsheets," Katherine Wolstencroft,, Stuart Owen, Matthew Horridge, Simon Jupp, Olga Krebs, Jacky Snoep, Franco du Preez, Wolfgang Mueller, Robert Stevens, and Carole Goble, Concurrency and Computation: Practice and Experience, Volume 25, Issue 4, pages 467–480, 2013
+Week 13:
+"How Big Data Can Boost Weather Forecasting, “Steve Hamm http://readwrite.com/2013/02/28/how-big-data-can-boost-weather-forecasting
+"Climate Science Triggers Torrent of Big Data Challenges, “Dawn Levy http://www.hpcwire.com/hpcwire/2012-08- 15/climate_science_triggers_torrent_of_big_data_challenges.html
+"ClimateWNA—High-Resolution Spatial Climate Data for Western North America" Tongli Wang, Andreas Hamann, David L. Spittlehouse, and Trevor Q. Murdock
+Journal of Applied Meteorology and Climatology, January 2012, Vol. 51, No. 1 : pp. 16-29
+"Supercomputing the Climate: NASA's Big Data Mission"
+http://www.csc.com/cscworld/publications/81769/81773- supercomputing_the_climate_nasa_s_big_data_mission
+"Collaborative for Historical Information and Analysis: Vision and work plan" Vladimir Zadorozhny, Patrick Manning, Daniel J. Bain, and Ruth Mostern Journal of World-Historical Information, vol.1, no 1.
+"Big Data: Large-Scale Historical Infrastructure from the Minnesota Population Center" Matthew Sobek, Lara Cleveland, Sarah Flood, Patricia Kelly Hall, Miriam L. King, Steven Ruggles, and Matthew Schroeder. Historical Methods, Apr-Jun2011, Vol. 44 Issue 2, p61-68
+"The Economic Impact of the Little Ice Age,” Morgan Kelly and Cormac O'Grada
+  
+"An open-database of Grape Harvest dates for climate research: data description and quality assessment," V. Daux, I. Garcia de Cortazar-Atauri,, P. Yiou, I. Chuine, E. Garnier,, E. Le Roy Ladurie, O. Mestre, and J. Tardaguila
+Clim. Past Discuss, 7, 3823–3858, 2011
+James Manyika, Michael Chui, Brad Brown, etc.
+Big Data: the next frontier for innovation, competition, and productivity http://www.mckinsey.com/Insights/MGI/Research/Technology_and_Innovation/Big_data_The_n ext_frontier_for_innovation
+"Big Data: The Management Revolution, "Andrew McAfee and Erik Brynjolfsson Harvard Business Review October 2012 http://automotivedigest.com/wp-content/uploads/2013/01/BigDataR1210Cf2.pdf
+"Recommending And Evaluating Choices In A Virtual Community Of Use," Will Hill, Larry Stead, Mark Rosenstein and George Furnas, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '95),194-201 http://www.sigchi.org/chi95/proceedings/papers/wch_bdy.htm
+Week 14:
+"Art in the age of big data," Nicola Triscott http://nicolatriscott.org/2012/09/23/art-in-the-age-of-big-data/
+"Technology That Serves to Enhance, Not Distract,” Fred Bernstein
+The New York Times March 20 2013, page A1. http://www.nytimes.com/2013/03/21/arts/artsspecial/at-cleveland-museum-of-art-the-ipad- enhances.html?pagewanted=all
+“Towards New Metrics Of Success For On-line Museum Projects,” Sebastian Chan, http://www.museumsandtheweb.com/mw2008/papers/chan-metrics/chan-metrics.html
+"Mia Ridge explores the shape of Cooper-Hewitt collections" http://labs.cooperhewitt.org/2012/exploring-shape-collections-draft/
+TEDxSydney - Sebastian Chan - "Museums of the Future" http://www.youtube.com/watch?v=YuT4I9elJnk
+"Crowdsourcing earthquake damage assessment using remote sensing imagery."
+Luke Barrington, Shubharoop Ghosh, Marjorie Greene, Shay Har-Noy, Jay Berger, Stuart Gill, Albert Yu-Min Lin, & Charles Huyck. Annals of Geophysics 54.6 (2011): 22 Mar. 2013
+"How big data is changing the oil & gas industry." Adam Farris, Analytics Nov/Dec 2012 http://www.analytics-magazine.org/november-december-2011/695-how-big-data-is-changing- the-oil-a-gas-industry
+Seismological Grand Challenges in Understanding Earth’s Dynamic Systems
+Thorne Lay, Ed. http://www.iris.edu/hq/files/publications/iris_proposals/doc/seis_plan_final.pdf
+ 

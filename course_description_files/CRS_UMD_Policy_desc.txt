@@ -1,0 +1,83 @@
+Policy Issues in Digital Curation
+
+Discussion of strategies to address intellectual property, privacy, security and other policy concerns raised by the curation of digital records and data.
+
+Policy Issues in Digital Curation will explore responses to the intellectual property, privacy, and security issues related to curation and long-term preservation of digital information. Bridging law, social science, computer science, and professional practice, this course will focus on understanding and responding to copyright and other forms of intellectual property raised by preservation copies of digital data and records; dealing with complex privacy issues in digital data and records; securing integrity and trust in digital information and content throughout the information lifecycle; and implementing security for digital information in a range of contexts. Applied group and individual work will focus on developing policy and technical responses to intellectual property, privacy, security, and accessibility issues.
+
+Demonstrate broad understanding of major information policy issues in the curation of digital records and data.
+• Describe why intellectual property, privacy, security, and access requirements exist, including how expectations and policies differ between cultures and contexts.
+• Evaluate policy opportunities and risks for curating digital records and data in professional and institutional settings.
+• Propose policy and technical approaches to digital curation challenges in areas such as intellectual property, privacy, security, and access.
+• Demonstrate knowledge of the technical and human resource dimensions of implementing and enforcing policy requirements for digital curation.
+
+
+Week 1: Overview of Policy Issues in Digital Curation
+Ekbia, H., Mattioli, M., Kouper, I., Arave, G., Ghazinejad, A., Bowman, T., Venkata Ratandeep, S., Tsou, A., Weingart, S., & Sugimoto, C. R. (2015). Big data, bigger dilemmas: A critical review. Journal of the Association for Information Science and Technology.
+boyd, danah, & Crawford, K. (2012). Critical questions for big data. Information, Communication & Society, 15(5), 662–679.
+Shilton, K. (2012). Participatory personal data: an emerging research challenge for the information sciences. Journal for the American Society of Information Science, 63(10), 1905–1915.
+Flynn, Nancy. The E-Policy Handbook: Designing and Implementing Effective E-Mail, Internet, and Software Policies. Chapter 1: Why Every Organization Needs Electronic Rules and
+Policies Based on Best Practices. AND Chapter 25: e-Policy 101: How to Draft Effective
+e-Policies for Your Organization. New York: AMACOM, 2009. Digital video tools
+“Storyboards: What Is It?” https://www.wickedproblems.com/6_storyboards.php Week 2: Module 1: Intellectual Property
+Hirtle, P. (2003). Archives or Assets? American Archivist, 66(2), 235–247. U.S. Copyright Office:
+Circular 1: Copyright Basics. http://www.copyright.gov/circs/circ01.pdf Section 107, 118: Fair Use: http://www.copyright.gov/fls/fl102.html
+Section 108: Library Provisions: http://www.copyright.gov/docs/section108/
+ARL summaries of recent copyright lawsuits
+Cambridge Press v Georgia State University: http://www.arl.org/focus-areas/court- cases/106-cambridge-press-v-georgia-state-university
+Authors Guild v Hathi Trust: http://www.arl.org/focus-areas/court-cases/105-authors- guild-v-hathi-trust
+Authors Guild v Google, Inc: http://www.arl.org/focus-areas/court-cases/2469-authors- guild-v-google-inc
+Golan v Holder: http://www.arl.org/focus-areas/court-cases/2480-golan-v-holder Greenberg v National Geographic Society: http://www.arl.org/focus-areas/court- cases/2470-greenberg-v-national-geographic-society
+Guest speaker: Robin Pike, UMD Libraries
+Week 3: Strategies: Intellectual Property
+Association of Research Libraries. (2012). Code of best practices in fair use for academic and research libraries. Washington, DC: Association of Research Libraries.
+Dryden, J. (2011). Copyfraud or Legitimate Concerns? Controlling Further Uses of Online Archival Holdings. American Archivist, 74(2), 522–543.
+Gracy, K. (2013). Ambition and Ambivalence: A Study of Professional Attitudes toward Digital Distribution of Archival Moving Images. American Archivist, 76(2), 346–373.
+Week 4: Solutions: Intellectual Property
+Anderson, R. J. (2008). Chapter 22: Copyright and DRM. Security Engineering: A Guide to Building Dependable Distributed Systems (2nd ed.). Wiley.
+Dickson, M. (2010). Due Diligence, Futile Effort: Copyright and the Digitization of the Thomas E. Watson Papers. American Archivist, 73(2), 626–636.
+Browse: Creative Commons. (2011). The power of open. Washington, D.C.: Creative Commons. Week 5: Module 2: Privacy
+Givens, C. (2014). Chapters 1 and 2: Information Privacy Fundamentals for Librarians and Information Professionals. Lanham, Boulder, New York and London: Rowman & Littlefield Publishers, Inc.
+             
+Solove, D. J. (2010). Chapter 5. Understanding Privacy. Harvard University Press.
+Zimmer, M. (2010). “But the data is already public”: on the ethics of research in Facebook. Background for the guest lecture: “Revisiting Segregation through Computational History: the
+case of the WWII Japanese American Tule Lake Segregation Center” http://www.fia.umd.edu/seedgrants/winners.shtml (Video + short summary)
+Guest Lecture: Dr. Richard Marciano on the Toule Lake records project
+Week 6: Strategies for Privacy
+Givens, C. (2014). Chapter 3. Information Privacy Fundamentals for Librarians and Information Professionals. Lanham, Boulder, New York and London: Rowman & Littlefield Publishers, Inc.
+Nissenbaum, H. (2004). Privacy as contextual integrity. Washington Law Review, 79(1), 119– 158.
+Spiekermann, S., & Cranor, L. F. (2009). Engineering Privacy. IEEE Transactions on Software Engineering, 35(1), 67–82.
+Week 7: Solutions for Privacy
+Givens, C. (2014). Chapter 6. Information Privacy Fundamentals for Librarians and Information Professionals. Lanham, Boulder, New York and London: Rowman & Littlefield Publishers, Inc.
+American Library Association. (2014, January). Privacy Tool Kit. Retrieved May 2, 2014, from http://www.ala.org/advocacy/privacyconfidentiality/toolkitsprivacy/privacy
+Week 8: Spring Break
+Enjoy!
+Week 9: Module 3: Security
+Garfinkel, S. L. (2012). The Cybersecurity Risk. Commun. ACM, 55(6), 29–32.
+Schneier, B. (2010). The Failure of Cryptography to Secure Modern Networks. Dark Reading.
+http://www.darkreading.com/blog/227700878/the-failure-of-cryptography-to-secure-
+modern-networks.html
+Abelson, H., Ledeen, K., & Lewis, H. (2008). Chapter 5: Secret Bits: How Codes Became Unbreakable. Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion (1st ed.). Addison-Wesley Professional.
+Case study: Security of mobile applications
+Week 10: Strategies for Security
+Anderson, R. J. (2008). Chapter 1: What is Security Engineering? Security Engineering: A Guide to Building Dependable Distributed Systems (2nd ed.). Wiley.
+   
+Yee, K.-P. (2005). Guidelines and strategies for secure interaction design. In L. F. Cranor & S. Garfinkel (Eds.), Security & Usability: Designing Secure Systems that People Can Use (pp. 247–273). Sebastopol, CA: O’Reilly.
+Herath, T., & Rao, H. R. (2009). Encouraging information security behaviors in organizations: Role of penalties, pressures and perceived effectiveness. Decision Support Systems, 47(2), 154–165.
+Becher, M., Freiling, F. C., Hoffmann, J., Holz, T., Uellenbeck, S., & Wolf, C. (2011). Mobile Security Catching Up? Revealing the Nuts and Bolts of the Security of Mobile Devices. In 2011 IEEE Symposium on Security and Privacy (SP) (pp. 96–111). doi:10.1109/SP.2011.29
+Week 11: Solutions for Security
+Anderson, R. J. (2008). Chapter 2: Protocols, and Chapter 4: Access Control. Security Engineering: A Guide to Building Dependable Distributed Systems (2nd ed.). Wiley.
+Bureau of Consumer Protection. (2013, February). Mobile App Developers: Start with Security. Retrieved June 21, 2013, from http://business.ftc.gov/documents/bus83-mobile-app- developers-start-security
+Week 12: Module 4: Accessibility and Usability
+Shneiderman, B. (2000). Universal usability. Communications of the ACM, 43(5), 84–91. Jaeger, Paul, and Bertot, John Carlo. (2010). Transparency and technological change: Ensuring equal and sustained public access to government information, Government Information
+Quarterly 27(4) 371-376.
+Williams, G. H. (2012). Disability, universal design, and digital humanities. In Debates in digital
+humanities. University of Minnesota Press.
+Zinn, H. (1977(). “Secrecy, Archives & the Public Interest.” The Midwestern Archivist, 2(2), 14-
+26. http://minds.wisconsin.edu/handle/1793/44118 Guest speaker: Ed Summers, Research Ferguson project Week 14: Strategies: Accessibility and Usability
+Lazar, J., & Jaeger, P. T. (2011). Reducing barriers to online access for people with disabilities. Issues in Science and Technology, (Winter), 69–82.
+Lazar, J., Elder, T., & Stein, M. (2013). Understanding the Connection Between HCI and Freedom of Information and Access Laws. Interactions, 20(6), 60–63.
+Battarbee, K., Fulton Suri, J., & Gibbs Howard, S. (2013). Empathy on the edge: scaling and sustaining a human=centered approach in the evolving practice of design. IDEO. Retrieved from http://www.ideo.com/images/uploads/news/pdfs/Empathy_on_the_Edge.pdf
+Week 15: Solutions: Accessibility and Usability
+Considering the user perspective. (2012, October 15). WebAIM. Retrieved from http://webaim.org/articles/userperspective/
+  
+How people with disabilities use the web: overview. (2013). W3C Web Accessibility Initiative. Retrieved from http://www.w3.org/WAI/intro/people-use-web/

@@ -1,0 +1,212 @@
+Data Curation
+
+LBSCI 790. Data Curation. 3 hr.; 3cr. The course surveys data practices and services of different disciplines and research teams. The course introduces students to the fundamentals of data, such as types, forms, formats, and life cycle of data; the data management and curation practices in research teams, libraries, archives, and institutional repositories; and the technical standards for data and metadata.
+
+Data curation is the activity of managing the use of data throughout its lifecycle to ensure it is available for contemporary purpose, discovery, and future reuse. The course provides an overview of data practices and services of different disciplines and research teams, and the theoretical and practical problems in data curation. The course introduces students to the fundamentals of data, such as types, forms, formats, and life cycle of data; data use and management policies; the data management and curation practices in research teams, libraries, archives, and institutional repositories; the technical standards for data and metadata; and data and metadata quality assessment and assurance.
+
+1. Identify the types, forms, formats, and lifecycle of data in different contexts
+2. Gain a basic understanding of data policies and data practices in different research settings
+3. Gain the technical skills in managing data in different research settings
+4. Develop data curation profile to provide access to data collections, repositories, and services
+
+Program and course requirements in the GSLIS are designed to ensure that graduates have met the following Student Learning Outcomes (SLOs). These SLOS (A-H) state that graduates will have the ability to:
+
+A. Assist users in gaining access to information and knowledge, including its creation, acquisition, organization and management, storage and retrieval, by demonstrating that they can:
+1. Identify, acquire, create, organize, process, store and provide access to information in all its forms for libraries, cultural institutions and other information organizations in a global environment.
+2. Identify, retrieve, evaluate and use general and specialized resources to address current and future information needs and provide related services to diverse user communities.
+B. Articulate the role and importance of ethics, values, and advocacy within the legal and historical frameworks underlying the practice of librarianship and the information professions
+C. Apply the appropriate practices and policies of established Library and Information Science professional standards in various specializations
+D. Find, analyze, assess, apply, and conduct research in Library and Information Science and other disciplines in response to gaps in knowledge and practice
+E. Contribute to a diverse, global society—including the role of addressing the needs of underserved groups--through exemplary Library and Information Science practice and research F. Identify, evaluate and implement current and emerging technologies and services to meet the evolving information needs of diverse user communities in an increasingly interconnected environment
+G. Demonstrate understanding of the importance of continuing professional development in LIS; articulate and apply principles, theories and measures underlying the role of the library in supporting lifelong learning within the community
+H. Explain and apply principles of effective management and leadership in the library and related information institutions
+
+1. Week 1 (February 3, 2016 – February 9, 2016): Course Overview and Fundamentals of Data
+Required Readings:
+a. Course syllabus
+b. Borgman, C. L. (2015). What are data? In Big data, little data, no data: Scholarship
+in the networked world (pp. 17-29). Cambridge, MA: The MIT Press.
+c. Gray, J. (2007). Jim Gray on eScience: A transformed scientific method. In: T. Hey,
+S. Tansley, & K. Tolle (Eds.), The fourth paradigm: Data intensive scientific discovery (pp. 5-12). Edmond, WA: Microsoft Research. Retrieved from http://itre.cis.upenn.edu/myl/JimGrayOnE-Science.pdf
+Weekly Tasks:
+a. Post a brief bio (no more than 300 words) to the Course Discussion Board (due by 11:59 pm on February 9, 2016; worth up to 2 points).
+b. Provide class feedback (due by 11:59 pm on February 9, 2016; worth up to 1 point).
+2. Week 2 (February 10, 2016 – February 16, 2016): Data Curation and Roles of Libraries
+Required Readings:
+a. Carlson, S. (2006). Lost in a sea of science data: Librarians are called in to archive
+huge amounts of information, but cultural and financial barriers stand in the way. The
+Chronicle of Higher Education, 52, A35.
+b. Lord, P., & Macdonald, A. (2003). E-Science curation report: Data curation for e-
+Science in the UK: An audit to establish requirements for future curation and
+provision. Bristol, UK: JISC.
+c. Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). Constructing data
+curation profiles. The International Journal of Digital Curation, 3(4), 93-103.
+doi:10.2218/ijdc.v4i3.117
+Optional Readings:
+a. Anderson, W. L. (2004). Some challenges and issues in managing, and preserving access to, long-lived collections of digital scientific and technical data. Data Science Journal, 3, 191-202.
+b. Heidorn, P. B. (2011). The emerging role of libraries in data curation and e-science. Journal of Library Administration, 51, 662-672. doi:10.1080/01930826.2011.601269
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on February 16, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 2 Discussion Board (due by 11:59 pm on February 16, 2016; worth up to 2 points).
+3. Week 3 (February 17, 2016 – February 23, 2016): Metadata and Metadata Standards
+Required Readings:
+a. Gilliland, A. J. (2008). Setting the stage. In M. Baca (Ed.), Introduction to Metadata.
+Los Angeles, CA: Getty Research Institute. Retrieved from
+http://www.getty.edu/research/publications/electronic_publications/intrometadata/setting.html
+b. Elings, M. W., & Waibel, G. (2007). Metadata for all: Descriptive standards and metadata sharing across libraries, archives, and museums. First Monday, 12, 3-5. Retrieved from http://firstmonday.org/article/view/1628/1543
+c. Hillmann, D. (2005). Using Dublin Core. Retrieved from http://www.dublincore.org/documents/usageguide/
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on February 23, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 3 Discussion Board (due by 11:59
+pm on February 23, 2016; worth up to 2 points).
+4. Week 4 (February 24, 2016 – March 1, 2016): Metadata Standards
+Required Readings:
+a. Greenberg, J. (2005). Understanding metadata and metadata schemes. Cataloging and
+Classification Quarterly, 40(3-4), 17-36. doi:10.1300/J104v40n03_02
+b. Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Robertson, T., & Vieglais, D. (2012). Darwin Core: An evolving community- developed biodiversity data standard. PLoS ONE. Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715
+c. Federal Geographic Data Committee. (2006). Content Standard for Digital Geospatial Metadata. Retrieved from http://www.fgdc.gov/metadata/csdgm/
+Optional Reading:
+Wills, C., Greenberg, J., & White, H. (2012). Analysis and synthesis of metadata goals for scientific data. Journal for the American Society for Information Science and Technology, 63, 1505-1520. doi:10.1002/asi.22683
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on March 1, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 4 Discussion Board (due by 11:59
+pm on March 1, 2016; worth up to 2 points).
+5. Week 5 (March 2, 2016 – March 8, 2016): Data Management and Use Policies Required Readings:
+a. National Science Foundation. (2015). Dissemination and sharing of research results.
+Retrieved from https://www.nsf.gov/bfa/dias/policy/dmp.jsp
+b. National Institutes of Health. (2003). NIH data sharing policy and implementation
+guidance. Retrieved from http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm
+c. National Endowment for the Humanities. (2015). Data management plans for NEH Office of Digital Humanities Proposals and Awards. Retrieved from http://www.neh.gov/files/grants/data_management_plans_2015.pdf
+d. DataONE. (2011). Data management planning. Retrieved from https://www.dataone.org/data-management-planning
+Optional Reading:
+George E. Brown, Jr. Network for Earthquake Engineering Simulation (NEES). (2013). NEEScomm Data Sharing and Archiving Policies. Retrieved from https://nees.org/resources/6218/download/Data_Sharing_and_Archiving_Policy_ 20130501.pdf
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on March 8, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 5 Discussion Board (due by 11:59
+pm on March 8, 2016; worth up to 2 points).
+6. Week 6 (March 9, 2016 – March 15, 2016): Data Repositories
+Required Readings:
+a. National Science Board. (2005). The elements of the digital data collections universe.
+In Long-lived digital data collections: Enabling research and education in the 21st century (NSB Report No. 05-40). Arlington, VA: National Science Foundation. Retrieved from http://www.nsf.gov/pubs/2005/nsb0540/nsb0540.pdf
+     
+LBSCI 790: Course Syllabus 10
+b. Cragin, M. H., Palmer, C. L., & Carlson, J. R. (2010). Data sharing, small science and institutional repositories. Philosophical Transactions of the Royal Society, 368, 4023- 4038. doi:10.1098/rsta.2010.0165
+c. Marcial, L. H., & Hemminger, B. M. (2010). Scientific data repositories on the web: An initial survey. Journal of the American Society for Information Science and Technology, 61(10), 2029-2048. doi:10.1002/asi.21339
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on March 15, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 6 Discussion Board (due by 11:59
+pm on March 15, 2016; worth up to 2 points).
+7. Week 7 (March 16, 2016 – March 22, 2016): Data Sharing and Reuse Required Readings:
+a. Borgman, C. L. (2012). The conundrum of sharing research data. Journal of the
+American Society for Information Science and Technology, 63, 1059-1078.
+doi:10.1002/asi.22634
+b. Kowalczyk, S., & Shankar, K. (2011). Data sharing in the sciences. Annual Review of
+Information Science and Technology, 45, 247-294.
+doi:10.1002/aris.2011.1440450113
+Optional Readings:
+a. Tenopir, C., Alllard, S., Douglass, K. L., Aydinoglu, A. U., Wu, L., Read, E., ... Frame, M. (2011). Data sharing by scientists: Practices and perceptions. PLoS ONE, 6(6). doi:10.1371/journal.pone.0021101
+LBSCI 790: Course Syllabus 11
+b. Campbell, E. G., Clarridge, B. R., Gokhale, M., Birenbaum, L., Hilgartner, S., Holtzman, N. A., & Blumenthal, D. (2002). Data withholding in academic genetics. Journal of the American Medical Association, 287, 473-480.
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on March 22, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 7 Discussion Board (due by 11:59
+pm on March 22, 2016; worth up to 2 points).
+Assignment 1:
+Data Practices Assignment is out (due by 11:59 pm on April 19, 2016; worth up to 20 points).
+8. Week 8 (March 23, 2016 – March 29, 2016): Data Practices Required Readings:
+a. Borgman, C. L. (2015). Data scholarship. In Big data, little data, no data:
+Scholarship in the networked world (pp. 31-53). Cambridge, MA: The MIT Press.
+b. Borgman, C. L., Wallis, J. C., & Enyedy, N. (2007). Little science confronts the data
+deluge: Habitat ecology, embedded sensor networks, and digital libraries.
+International Journal of Digital Libraries, 7, 17-30. doi:10.1007/s00799-007-0022-9
+c. Carlson, J. (2010). The Data Curation Profiles Toolkit: User guide. Retrieved from
+http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1000&context=dcptoolkit
+d. Carlson, J. (2010). The Data Curation Profiles Toolkit: Interviewer’s manual. Retrieved from http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1001&context=dcptoolkit
+  
+LBSCI 790: Course Syllabus 12
+e. Carlson, J. (2010). The Data Curation Profiles Toolkit: Interviewer worksheet. Retrieved from http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1002&context=dcptoolkit
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on March 29, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 8 Discussion Board (due by 11:59
+pm on March 29, 2016; worth up to 2 points).
+9. Week 9 (March 30, 2016 – April 5, 2016): Data and Metadata Quality Required Readings:
+a. Go, K., & Carroll, J. M. (2004). The blind men and the elephants: Views of scenario-
+based system design. Interactions, 11(6), 44-53. doi:10.1145/1029036.1029037
+b. Wand, Y., & Wang, R. Y. (1996). Anchoring data quality dimensions in ontological
+foundations. Communications of the ACM, 39(11), 86-95.
+c. Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to
+data consumers. Journal of Management Information Systems, 12(4), 5-34.
+Optional Reading:
+Wu, S., Stvilia, B., & Lee, D. J. (2012). Authority control for scientific data: The case of
+molecular biology. Journal of Library Metadata, 12, 61-82.
+doi:10.1080/19386389.2012.699822
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on April 5, 2016; worth up to 1 point).
+ 
+LBSCI 790: Course Syllabus 13
+b. Post contributions to the weekly activity to Week 9 Discussion Board (due by 11:59 pm on April 5, 2016; worth up to 2 points).
+10. Week 10 (April 6, 2016 – April 12, 2016): Data Curation Profiles Required Readings:
+a. Witt, M., Carlson, J., Brandt, D. S., & Cragin, M. H. (2009). Constructing data
+curation profiles. The International Journal of Digital Curation, 3(4), 93-103.
+doi:10.2218/ijdc.v4i3.117
+b. Carlson, J. (2010). The Data Curation Profile Toolkit: The profile template. Retrieved
+from http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1003&context=dcptoolkit
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on April 12, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 10 Discussion Board (due by 11:59
+pm on April 12, 2016; worth up to 2 points).
+Assignment 2:
+Data Curation Profile Assignment is out (due by 11:59 pm on May 17, 2016; worth up to 20 points).
+11. Week 11 (April 13, 2016 – April 19, 2016): Data Practices in the Sciences: The Case Study of Condensed Matter Physics
+Required Readings:
+a. Hinnant, C. C., Stvilia, B., Wu, S., Worrall, A., Burnett, K., Burnett, G., Kazmer, M.
+M., & Marty, P. F. (2012). Data curation in scientific teams: An exploratory study of
+ 
+LBSCI 790: Course Syllabus 14
+condensed matter physics at a national science lab. In J.-E. Mai (Chair), Proceedings of iConference 2012 (pp. 498-500). New York, NY: ACM. doi:10.1145/2132176.2132263
+b. Stvilia, B., Hinnant, C. C., Wu, S., Worrall, A., Lee, D. J., Burnett, K., Burnett, G., Kazmer, M. M., & Marty, P. F. (2015). Research project tasks, data, and perceptions of data quality in a condensed matter physics community. Journal of the Association for Information Science and Technology, 66, 246-263. doi:10.1002/asi.23177
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on April 19, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 11 Discussion Board (due by 11:59
+pm on April 19, 2016; worth up to 2 points).
+Data Practices Assignment is due by 11:59 pm on April 19, 2016.
+April 20, 2016 – April 26, 2016: No class. Happy Spring Break!
+12. Week 12 (April 27, 2016 – May 3, 2016): Data Practices in the Engineering: The Case Study of Earthquake Engineering
+Required Readings:
+a. Faniel, I. M., & Jacobsen, T. E. (2010). Reusing scientific data: How earthquake
+engineering researchers assess the reusability of colleagues’ data. Computer Supported Cooperative Work, 19, 355-375. doi:10.1007/s10606-010-9117-8
+  
+LBSCI 790: Course Syllabus 15
+b. Pejša, S, & Hacker, T. (2013). Curation of earthquake engineering research data. In Proceedings of Archiving Conference 2013 (pp. 245-250). Springfield, VA: Society for Imaging Science and Technology.
+c. Wu, S., Worrall, A., & Stvilia, B. (2016). Exploring data practices of the earthquake engineering community. Paper will be presented at iConference 2016, Philadelphia, PA.
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on May 3, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 12 Discussion Board (due by 11:59
+pm on May 3, 2016; worth up to 2 points).
+13. Week 13 (May 4, 2016 – May 10, 2016): Data Practices in the Social Sciences Required Readings:
+a. Inter-University Consortium for Political and Social Research. (2012). Guide to
+Archiving Social Science Data for Institutional Repositories (1st ed.). Retrieved from
+http://www.icpsr.umich.edu/files/datamanagement/guide-for-irs.pdf
+b. King, G. (2011). Ensuring the Data-Rich Future of the Social Sciences. Science, 331, 719–721. doi:10.1126/science.1197872
+c. Vardigan, M., & Whiteman, C. (2007). ICPSR meets OAIS: Applying the OAIS Reference Model to the social science archive context. Retrieved from http://deepblue.lib.umich.edu/handle/2027.42/60440
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on May 10, 2016; worth up to 1 point).
+  
+LBSCI 790: Course Syllabus 16
+b. Post contributions to the weekly activity to Week 13 Discussion Board (due by 11:59 pm on May 10, 2016; worth up to 2 points).
+14. Week 14 (May 11, 2016 – May 17, 2016): Data Practices in the Humanities Required Readings:
+a. Archaeology Data Service. (2009). Guides to Good Practices. Retrieved from
+http://guides.archaeologydataservice.ac.uk/
+b. Borgman, C. L. (2009). The digital future is now: A call to action for the humanities. Digital Humanities Quarterly, 3. Retrieved from http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html
+c. Kouw, M., Van den Heuvel, C., & Scharnhorst, A. (2013). Exploring uncertainty in knowledge representations: Classifications, simulations, and models of the world. In P. Wouters, A. Beaulieu, A. Scharnhorst, & S. Wyatt (Eds.), Virtual knowledge: experimenting in the humanities and the social sciences (pp. 127–149). Cambridge, MA: MIT Press.
+Weekly Tasks:
+a. Provide class feedback (due by 11:59 pm on May 17, 2016; worth up to 1 point).
+b. Post contributions to the weekly activity to Week 14 Discussion Board (due by 11:59
+pm on May 17, 2016; worth up to 2 points).
+Data Curation Profile Assignment is due by 11:59 pm on May 17, 2016.
+15. Week 15 (May 18, 2016 – May 24, 2016): Student Presentations on Data Curation Profiles (worth up to 15 points)
+   
+LBSCI 790: Course Syllabus 17
+Weekly Tasks:
+a. Post presentation slides to Week 15 Discussion Board (due by 11:59 pm on May 17, 2016).
+b. Read all the presentation slides and post your questions and/or comments to at least three other students’ presentations (due by 11:59 pm on May 24, 2016; worth up to 3 points).

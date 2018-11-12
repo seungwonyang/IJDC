@@ -1,0 +1,283 @@
+Digital Curation
+
+Management and preservation of digital objects and records throughout their lifecycle. Essential technologies and standards for building and maintaining robust, trusted digital repositories. Emphasizes the use and reuse of scholarly data, business and government records, cultural heritage materials, and other digital objects to create resources supporting communities of practice in their work. Prerequisite: LIS 60631, 60638, 80631, 80638; or graduate standing.
+
+To define digital curation as it applies in information organizations and cultural heritage institutions, as well as other corporate, scientific, and government contexts;
+• To establish the responsibilities of digital curators;
+• To explore how data, records, and other types of digital materials are created,
+used, and reused, for the purpose of understanding the lifecycle of digital
+information;
+• To investigate various methods for building and maintaining digital repositories,
+including approaches to acquisition, selection, and/or appraisal of digital material, tools for creating required technical and administrative metadata, and models for digital workflows;
+• To review the standards and processes by which trusted digital repositories are established and maintained, including risk evaluation and management, and auditing of repositories;
+• To discuss policy concerns and challenges in the areas of data ethics, intellectual property, long-term sustainability, and development of technical standards.
+
+Describe the digital curation lifecycle model and apply it to the design and implementation of digital repositories;
+Identify and define characteristics of communities of practice in the sciences, social sciences, humanities, and other user groups and institutions;
+• Articulate approaches to appraisal, selection, and disposal of digital objects for institutional repositories;
+• Assess the suitability of toolsets and other software for implementation in preservation activities;
+• Demonstrate knowledge of automatic metadata generation tools through exploration of format identification and validation software;
+• Analyze functional and institutional needs for preservation repository architecture and make recommendations for metadata standards, repositories, and other technologies suitable for achieving preservation goals;
+• Articulate requirements for the certification of a trusted digital repository and evaluate the preservation readiness of an institution by using the appropriate assessment tool;
+• Create a preservation plan to preserve a digital collection;
+• Articulate policy challenges to digital curation presented by scholarly practices,
+intellectual property restrictions, and long-term sustainability.
+
+What is Digital Curation? What Do Digital Curators Do?
+Nature of research and research communities
+  Research lifecycles
+  Workflows—how
+data/records/objects are generated, used/reused, and controlled
+Engaging communities in digital repositories building and preservation
+  Secondary uses for data
+  Appraisal, selection, and disposal
+  Purchasing and licensing of content
+  Metadata
+o Capturing
+metadata at time of data/object creation
+o Generating
+metadata to document objects and administrative activities
+o Production (data submission
+(ingest), archival storage, and dissemination)
+
+Developing Trusted Digital Repositories
+  Design and planning using the OAIS functional model
+  Auditing and certification using the RLG-NARA TDR checklist
+o Automated validation
+o Evaluation process
+o Risk management
+
+Policy Development and Implementation for Data Deposit, Preservation, Access, and Disposal
+  Ethics
+  Legal and intellectual
+property issues
+  Long-term sustainability
+  Emerging technical
+standards
+
+Preservation Planning for Digital Materials
+  Assessment of readiness for digital
+preservation/curation
+  Use of internal/external
+data to assess risk to
+
+digital materials
+  Creating sustainable plans
+for digital preservation
+
+New Horizons in Digital Curation—Digital Forensics
+
+New Horizons in Digital Curation—Curation in the Cloud
+
+
+Week 1 (January 13-19, 2014)
+Module 1: What is Digital Curation? What Do Digital Curators Do?
+Readings
+(Textbook) Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal- Schuman, 2010). Chapters 1, 3, 5, 8
+Digital Curation Centre, “Lifecycle Model,” http://www.dcc.ac.uk/lifecycle-model/ Digital Curation Centre, “What is Digital Curation?” http://www.dcc.ac.uk/digital-
+curation/what-digital-curation
+Higgins, Sarah. “Digital Curation: The Emergence of a New Discipline.” International Journal of Digital Curation 6, no. 2 (2011): 78-88.
+Inter-University Consortium for Political and Social Research. “Data Management and Curation.”
+http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/index.html. Browse website pages pertaining to digital preservation and curation.
+Lazorchak, Butch. “Digital Preservation, Digital Curation, Digital Stewardship: What’s in (Some) Names?” [blog posting], http://blogs.loc.gov/digitalpreservation/2011/08/digital-preservation-digital-curation- digital-stewardship-what’s-in-some-names/
+Scime, Erin. “The Content Strategist as Digital Curator.” [Blog posting] December 8, 2009. http://www.alistapart.com/articles/content-strategist-as-digital-curator/
+Walters, Tyler O. “Data Curation Program Development in U.S. Universities: The Georgia Institute of Technology Example.” International Journal of Digital Curation 4, no. 3 (2009): 83-92. http://www.ijdc.net/index.php/ijdc/article/viewFile/136/153
+Yakel, Elizabeth. “Digital Curation.” Archives and Manuscripts 23, no. 4 (2007): 335- 340.
+Activities and Assignments
+• Post a paragraph about yourself to the introduction board on Blackboard
+• Read all readings and resources for Module 1
+• Contribute to the Module 1 Discussion Board
+         14
+ Week 2 (January 20-26, 2014)
+Module 2: Creators and Users, pt. 1
+Creators and Users (Communities of Practice in the Sciences, Social Sciences, and Humanities)
+• Nature of research and research communities
+• Research lifecycles
+• Workflows—how data/records/objects are generated, used/reused, and controlled
+Readings
+Textbook: Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal-
+Schuman, 2010). Chapter 2, 4
+Akers, Katherine G. and Jennifer Doty. "Disciplinary Differences in Faculty Research Data Management Practices and Perspectives. International Journal of Digital Curation 8, no. 2 (2013): 5-26.
+Fear, Kathleen, “’You made it, you take care of it’: Data Management as Personal Information Management,” International Journal of Digital Curation 6, no. 2 (2011): 53-77.
+Key Perspectives. “Data Dimensions: Disciplinary Differences in Research Data Sharing, Reuse, and Long Term Viability.” Digital Curation Centre, January 18, 2010. http://www.dcc.ac.uk/sites/default/files/SCARP%20SYNTHESIS_FINAL.pdf
+Kirkham, Ruth, et al. “Building a Virtual Research Environment for the Humanities.” JISC Final Report (February 2007). http://ora.ouls.ox.ac.uk/objects/uuid:7cbef3b5- 6f1b-4c1a-a7e5-5acc77fbe3d9
+Lightfoot, David W. “Social and Behavioral Scientists Building Cyberinfrastructure.” First Monday 12, no. 6 (2007). http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1907/1789
+Our Cultural Commonwealth: The Report of the American Council of Learned Societies Commission on Cyberinfrastructure for the Humanities and Social Sciences (American Council of Learned Societies, 2006). Skim. http://www.acls.org/uploadedFiles/Publications/Programs/Our_Cultural_Commonwe alth.pdf
+Revolutionizing Science and Engineering Through Cyberinfrastructure: Report of the National Science Foundation Blue-Ribbon Advisory Panel on Cyberinfrastructure.
+        15
+NSF, 2003. Skim. http://www.nsf.gov/cise/sci/reports/atkins.pdf
+Schreibman, Susan, Ray Siemens, and John Unsworth. “The Digital Humanities and Humanities Computing: An Introduction.” in A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. Read introductory chapter and skim chapters of interest. http://www.digitalhumanities.org/companion/
+Wenger, Etienne, Richard A. McDermott, and William Snyder. Cultivating Communities of Practice: A Guide to Managing Knowledge (Harvard Business School Press, 2002). Read: Chapter One, Communities of Practice and Their Value to Organizations, and Chapter Two, Communities of Practice and Their Structural Elements. Available electronically through the KSU catalog.
+Activities
+• Choose one of the following workflow tools and explore its purpose and functionality:
+a. myExperiment (social networking site for scientists), http://www.myexperiment.org/. See also the video (5 minutes) about myExperiment at http://www.youtube.com/watch?v=x83pzMMw7lk
+b. Taverna, http://www.taverna.org.uk/
+c. Trident Workbench, http://tridentworkflow.codeplex.com/ See also the
+video about Trident (1.5 hours):
+http://research.microsoft.com/apps/video/dl.aspx?id=137320
+• Create a blog posting of at least 500 words that answers the following questions about the workflow tool that you chose to explore:
+             Assignment
+1. What is the purpose of the tool?
+2. What community or communities of practice would be most
+likely to use this tool?
+3. Describe the activities and workflows that are supported by this
+tool (be sure to describe how data, records, and/or digital
+objects are generated, used, reused, and controlled/archived.
+4. Explain the value of this tool for users in managing their work,
+and for archivists in preserving the material generated by this tool.
+Case Study #1 (Curation Needs for Communities of Practice)—due February 2, 2014
+See instructions for Case Study #1 on Blackboard.
+Week 3 (January 27-February 2, 2014)
+  16
+Module 3: Creators and Users, pt. 2
+• Engaging communities in digital repositories building and preservation
+• Secondary uses for data
+Readings
+Textbook: Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal-
+Schuman, 2010). Chapter 9, 10, 15.
+Foster, Nancy Fried and Susan Gibbons, “Understanding Faculty to Improve Content Recruitment for Institutions,” D-Lib Magazine 11, no. 1 (Jan. 2005). http://www.dlib.org/dlib/january05/foster/01foster.html
+Kim, Jihyun. “Motivating and Impeding Factors Affecting Faculty Contributions to Institutional Repositories.” Journal of Digital Information 8, no. 2 (2007). http://journals.tdl.org/jodi/article/view/193/177
+Lesk, M. (2008). “Recycling Information: Science Through Data Mining.” International Journal of Digital Curation, 3, no. 1 (2008): 154-157. http://www.ijdc.net/index.php/ijdc/article/view/71/50.
+NINCH Guide. “XII. Assessment of Projects By User Evaluation.” The NINCH Guide to Good Practice in the Digital Representation and Management of Cultural Heritage Materials. http://www.nyu.edu/its/pubs/pdfs/NINCH_Guide_to_Good_Practice.pdf
+Salo, Dorothea. “Innkeeper at the Roach Motel.” Library Trends 57:2 (Fall 2008): 98- 123. http://minds.wisconsin.edu/handle/1793/22088
+Seaman, David. “Discovering the Information Needs of Humanists When Planning an Instiutional Repository,” D-Lib Magazine 17, no. 3/4 (Mar./Apr. 2011). http://www.dlib.org/dlib/march11/seaman/03seaman.html
+Troll Covey, Denise. “Recruiting Content for the Institutional Repository: The Barriers Exceed the Benefits.” Journal of Digital Information 12, no. 3 (2011): 1-18. http://works.bepress.com/denise_troll_covey/56/
+Activities
+• Contribute to the Module 3 Discussion Board Week 4 (February 3-9, 2014)
+         17
+Module 4: Collection Building and Maintenance, pt. 1
+• Appraisal/selection, retention, and disposal
+• Purchasing and licensing of content
+Readings
+Textbook: Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal-
+Schuman, 2010). Chapter 11.
+Bray, Paula. “Open Licensing and the Future for Collections.” In Museums and the Web 2009: Proceedings. Eds. Jennifer Trant and David Bearman. Toronto: Archives & Museum Informatics, 2009. http://www.archimuse.com/mw2009/papers/bray/bray.html
+Gutmann, M., K. K. Schürer, D. Donakowski, and Hilary Beedham. “The Selection, Appraisal, and Retention of Digital Social Science Data.” Data Science Journal 3 (30 December 2004): 209-221. http://www.digitalpreservation.gov/partners/documents/data-pass_selection_data.pdf
+Harris, Lesley Ellen. “When to License.” In Licensing Digital Content: A Practical Guide for Librarians. 2nd ed. Chicago: ALA, 2009. 1-15.
+Harvey, Ross, and Dave Thompson. “Automating the Appraisal of Digital Materials.” Library Hi Tech 28, no. 2 (2010): 313-322.
+Inter-University Consortium for Political and Social Research. “Selection and Appraisal” and “Collection Development Policy.” http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/lifecycle/selection.ht ml http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/policies/colldev.html
+Assignment
+• Contribute to the Module 4 Blog (post review of online appraisal tool) Week 5 (February 10-16, 2014)
+Module 5: Collection Building and Maintenance, pt.2
+• Metadata
+o Generating metadata to document objects and administrative activities; o Capturing metadata at time of data/object creation
+       18
+o Production (data submission (ingest), archival storage, and dissemination) Readings
+Textbook: Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal- Schuman, 2010). Chapters 6, 12, 13, and 14.
+Ashenfelder, Michael. “21st Century Shipping: Network Data Transfer to the Library of Congress.” D-Lib Magazine 15, no. 7/8 (2009). http://www.dlib.org/dlib/july09/ashenfelder/07ashenfelder.html
+Caplan, Priscilla. “Preservation Metadata.” DCC Digital Curation Manual. Digital Curation Centre, 2006. http://www.dcc.ac.uk/resources/curation-reference- manual/completed-chapters/preservation-metadata
+Donnelly, Martin. Digital Curation Centre Case Studies and Interviews: JSTOR/Harvard Object Validation Environment (JHOVE). DCC, 2006. http://www.dcc.ac.uk/sites/default/files/documents/publications/case- studies/jhove.pdf
+“How It Works—LOCKSS.” http://www.lockss.org/lockss/How_It_Works
+Johnson, Leslie. “Identifying and Implementing Modular Repository Services: Transfer and Inventory.” Proceedings of DigCCurr2009: Digital Curation: Practice, Promise and Prospects; April 1-3, 2009; Chapel Hill, North Carolina. Chapel Hill: School of Library and Information Science, University of North Carolina at Chapel Hill, 2009, 145-148. http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=980C8B91CE66892F7DE8 BD386D219527?doi=10.1.1.178.4517&rep=rep1&type=pdf
+“Meeting the Challenge: Digital Content Transfer Tools (BagIt),” [Description and Video] http://www.digitalpreservation.gov/series/challenge/data-transfer-tools.html and http://www.digitalpreservation.gov/videos/bagit0609.html
+Polfreman, Malcolm and Shrija Rajbhandari. MetaTools—Investigating Metadata Generation Tools: Final Report (JISC, 2008). http://www.jisc.ac.uk/media/documents/programmes/reppres/metatoolsfinalreport.pdf
+Reich, Victoria and David Rosenthal. "Distributed Digital Preservation: Private LOCKSS Networks as Business, Social, and Technical Frameworks." Library Trends 57, No. 3 (2009): 461-475. https://www.ideals.illinois.edu/bitstream/handle/2142/13604/LibraryTrends573_reich .pdf?sequence=2
+van Ballegooie, Marlene and Wendy Duff. “Archival Metadata.” DCC Digital Curation Manual. Digital Curation Centre, 2005. http://www.dcc.ac.uk/resources/curation-
+              19
+reference-manual/completed-chapters/archival-metadata
+Assignments and Activities
+• Metadata Identification and Characterization Tools Exercise, due February 16, 2014:
+o Choose a tool to explore and write a mini-review that summarizes your experiences with it (instructions and rubric are on Blackboard). Tools include:
+  New Zealand Metadata Extraction Tool (Windows/Unix), http://meta-extractor.sourceforge.net/
+  JHOVE (Windows/Unix), http://sourceforge.net/projects/jhove/
+  DROID (Digital Record Object Identification) (platform-
+independent, requires Java),
+http://www.nationalarchives.gov.uk/information-
+management/projects-and-work/droid.htm
+  EMET (Embedded Metadata Extraction Tool) (Mac/Windows; requires Adobe Air 2.0, a freeware program), http://www.artstor.org/global/g-html/download-emet-public.html
+• Watch demo of BagIt Library and Transfer Utility:
+o “BagIt: Transferring Content for Digital Preservation” (Video, 3 minutes)
+at https://www.youtube.com/watch?v=l3p3ao_JSfo
+• Read about and watch demo of LOCKSS (several links online via Blackboard)
+Week 6 (February 17-23, 2014)
+Module 6: Developing Trusted Digital Repositories
+• Design and planning using the OAIS functional model o Preservation services
+o iRODS
+• Auditing and certification using the RLG-NARA TDR checklist
+o Automated validation
+o Evaluation processes
+• Risk management
+o DRAMBORA Readings
+Textbook: Harvey, Ross. Digital Curation: A How-To-Do-It Manual (New York: Neal- Schuman, 2010). Chapters 7 and 14.
+           20
+Center for Research Libraries. “Continuity Factors [for digital preservation repositories].”
+http://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and- certifying/crl-continuity-factors
+---. “Core Requirements [for digital preservation repositories].” January, 2007.
+http://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and- certifying/core-re
+---. “CRL Ratings Schema [for digital preservation repositories].”
+http://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and- certifying/crl-ratings
+DCC, “Frequently Asked Questions About DRAMBORA,” http://www.dcc.ac.uk/digital- curation/digital-curation-faqs/drambora
+HATII (Humanities Advanced Technology and Information Institute), University of Glasgow. “An Approach to Audit and Certification.” July 2007. http://www.repositoryaudit.eu/participate/docs/DCC_and_DPE_Approach.pdf
+“Introduction to iRODS.” https://www.irods.org/index.php/Introduction_to_iRODS
+iRODS videos (see https://www.irods.org/index.php/iRODS_Videos)
+Knight, Gareth and Mark Hedge. “Modelling OAIS Compliance for Disaggregated Preservation Services.” International Journal of Digital Curation 2, no. 1 (2007): 62- 72. http://www.ijdc.net/index.php/ijdc/article/view/25/14
+Moore, Reagan and Arcot Rajasekar. “Preservation Environment Federation: White Paper.” https://www.irods.org/pubs/DICE_Moore-Preservation_White_Paper-08.pdf
+Ross, Seamus and Andrew McHugh. “Preservation Pressure Points: Evaluating Diverse Evidence for Risk Management.” http://www.repositoryaudit.eu/images/PreservationPressurePoints.pdf
+Sinclair, Pauline, et al. “Are You Ready? Assessing Whether Organisations are Prepared for Digital Preservation.” International Journal of Digital Curation 6, no. 1 (2011): 268-281. http://www.ijdc.net/index.php/ijdc/article/view/178/247
+Steinhart, Gail, Dianne Dietrich, and Ann Green. “Establishing Trust in a Chain of Preservation: The TRAC Checklist Applied to a Data Staging Repository (DataStaR).” D-Lib Magazine 15, no. 9/10 (Sept./Oct. 2009). http://www.dlib.org/dlib/september09/steinhart/09steinhart.html
+Trustworthy Repositories Audit & Certification: Criteria and Checklist. Version 1.0. CRL and OCLC, Feb. 2007. http://www.crl.edu/sites/default/files/attachments/pages/trac_0.pdf
+                 21
+Walters, Tyler O. and Robert H. McDonald. “Creating Trust Relationships for Distributed Digital Preservation Federations.” Proceedings of iPres 2008. http://www.bl.uk/ipres2008/presentations_day2/31_Walters.pdf
+Activities and Assignments
+• Contribute to the Module 6 Discussion Board
+• DRAMBORA Exercise:
+o DRAMBORA is a web resource for auditing digital repositories, found at: http://www.repositoryaudit.eu/;
+o View DRAMBORA walkthrough (found on Blackboard) and complete exercise (write 2-3 page memorandum, due February 23, 2014).
+Week 7 (February 24-March 2, 2014)
+Module 7: Policy Development and Implementation for Data Deposit, Preservation, Access, and Disposal
+• Ethics
+• Legal and intellectual property issues
+• Long-term sustainability
+• Emerging technical standards
+Readings
+Bradley, Kevin. “Defining Digital Sustainability.” Library Trends 56, no. 1 (2007): 148- 163.
+http://www.ideals.illinois.edu/bitstream/handle/2142/3772/Bradley561.pdf?sequence =2
+Charlesworth, Andrew. “Digital Curation, Copyright, and Academic Research.” International Journal of Digital Curation 1, no. 1 (2006): 17-32. http://www.ijdc.net/index.php/ijdc/article/viewFile/7/3
+Guthrie, Kevin, Rebecca Griffiths, and Nancy Maron. “Sustainability and Revenue Models for Online Academic Resources.” Ithaka, 2008. http://sca.jiscinvolve.org/wp/files/2008/06/sca_ithaka_sustainability_report-final.pdf
+“The Section 108 Study Group Report.” March 2008.
+http://www.section108.gov/docs/Sec108StudyGroupReport.pdf
+Strategies for Sustaining Digital Libraries. Katherine Skinner, Martin Halbert, eds. (Atlanta: Emory University, 2008).
+         22
+http://florida.theorangegrove.org/og/file/f4ae8113-16ed-9549-e50e- 125131b80cb6/1/StrategiesforSustainingDigitalLibraries.pdf
+Walters, Tyler and Katherine Skinner. New Roles for New Times: Digital Curation for Preservation. Association of Research Libraries, March 2011. http://www.arl.org/storage/documents/publications/nrnt_digital_curation17mar11.pdf
+Policy resources from the Digital Curation Centre (browse through):
+http://www.dcc.ac.uk/resources/policy-and-legal
+Activities and Assignments
+• Contribute to the Module 7 Blog
+Week 8 (March 3-9, 2014)
+Preservation Planning for Digital Materials
+• Assessment of Readiness for Digital Preservation/Curation
+• Use of Internal/External Data to Assess Risk to Digital Materials
+• Creating Sustainable Plans for Digital Preservation
+Readings
+Becker, Christoph, Hannes Kulovits, and Andreas Rauber, “Trustworthy Preservation Planning with Plato,” ERCIM News 80 (Jan. 2010): 24-25. http://ercim- news.ercim.eu/images/stories/EN80/EN80-web.pdf
+Bishoff, Liz. “Digital Preservation Plan: Ensuring Long-Term Access and Authenticity of Digital Collections,” Information Standards Quarterly 22.2 (Spring 2010): http://www.niso.org/apps/group_public/download.php/4250/FE_Bishoff_Digital_Pr eservation_Plan_isqv22no2.pdf
+Burns, C. Sean, Amy Lana, and John M. Budd. "Institutional Repositories: Explorations of Cost and Value." D-Lib Magazine 19.1/2 (2013). http://www.dlib.org/dlib/january13/burns/01burns.html
+Kenney, Anne R. and Nancy Y. McGovern, “The Five Organizational Stages of Digital Preservation,” from Digital Libraries: A Vision for the 21st Century: A Festschrift in Honor of Wendy Lougee on the Occasion of her Departure from the University of Michigan, Ann Arbor, MI: MPublishing, U. of Michigan Library, 2003, http://quod.lib.umich.edu/s/spobooks/bbv9812.0001.001/1:11?rgn=div1;view=fullte xt
+             23
+Northeast Document Conservation Center, “Planning for Digital Preservation: A Self- Assessment Tool,”
+http://nedcc.org/assets/media/documents/DigitalPreservationSelfAssessmentfinal.pd f
+Activities and Assignments
+• Contribute to the Module 8 Blog
+• Preservation Planning (PLATO) Exercise—due March 9, 2014:
+o Review the PLATO website: http://www.ifs.tuwien.ac.at/dp/plato/intro.html (you may find the case studies at http://www.ifs.tuwien.ac.at/dp/plato/intro_casestudies.html to be particularly interesting)
+o Complete PLATO walkthrough and exercise (found on BB Learn); o Turn in 2-page mini-paper by March 9, 2014
+Week 9 (March 10-16, 2014)
+Module 9: New Horizons in Digital Curation—Digital Forensics Readings
+John, Jeremy Leighton. “Digital Forensics and Preservation.” DPC Technology Watch Report 12-03 (November 2012). http://www.dpconline.org/component/docman/doc_download/810-dpctw12-03pdf
+Kirschenbaum, Matthew G. Richard Ovenden, Gabriela Redwine. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. Washington, DC: Council on Library and Information Resources, 2010. http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf
+Knight, Gareth. “The Forensic Curator: Digital Forensics as a Solution to Addressing the Curatorial Challenges Posed by Personal Digital Archives,” International Journal of Digital Curation 7.2 (2012): 40-63. http://www.ijdc.net/index.php/ijdc/article/view/218/287
+Lee, Christopher A. et al., “BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions.” D-Lib Magazine 18.5/6 (2012). http://www.dlib.org/dlib/may12/lee/05lee.html
+Activities and Assignments
+• Contribute to the Module 9 Blog
+         24
+• Case Study #2 (Data Management Plan Analysis)—due March 23, 2014; see instructions for Case Study #2 on Blackboard.
+Week 10 (March 17-23, 2014)
+Module 10: New Horizons in Digital Curation—Curation in the Cloud Readings
+Aitken, Brian, Patrick McCann, Andrew McHugh, Kerry Miller, “Digital Curation and the Cloud,” Report for JISC and Digital Curation Centre, 2012. http://www.jisc.ac.uk/media/D/0/1/%7BD01C1CDB-AF99-4A20-A9BC- 12E73DB224DD%7DCuration-in-the-Cloud.pdf
+Brewer, James, Tracey Popp, and Joy Perrin, “REDDNET and Digital Preservation in the Open Cloud: Research at Texas Tech University Libraries on Long-Term Archival Storage,” Journal of Digital Information 13.1 (2012): http://journals.tdl.org/jodi/index.php/jodi/article/viewArticle/5875/5877
+Rosenthal, David S. H. and Daniel L. Vargas. “Distributed Digital Preservation in the Cloud,” 8th International Digital Curation Conference (January 2013), http://www.lockss.org/locksswp/wp-content/uploads/2013/01/IDCC2013.pdf
+Walker, E., Brisken, W., Romney, J., “To Lease or Not to Lease from Storage Clouds,” Computer 43.4 (April 2010): 44-50.
+Activities and Assignments
+• Contribute to the Module 10 Blog
+• Complete the course evaluation (login at http://ssi.kent.edu)

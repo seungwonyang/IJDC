@@ -1,0 +1,120 @@
+DIGITAL CURATION
+
+This course focuses on the creation of a multimodal personal research archive and the theories of digital curation writ large that inform its production.
+As researchers, our interest in the archive as a site of theoretical and pragmatic inquiry has been transformed by emergent media, and specifically, the new affordances of digitization in terms of access, storage, circulation and searchability. As such, both the ways in which we generate for the archive, and our reliance on what we can extract from it, have become increasingly important conceptual and methodological issues. Arguably, ontologies of the archive -- which remain largely based on authenticity, rivalry, and the originality of artefacts and official records -- are always challenged by new and emergent media.
+This seminar will attempt to follow some of these discussions as they intersect different fields of scholarship and practice: media archaeology, feminist, queer, and post-colonial theories, and communication and media studies. Together, we will engage with the archive as place, concept and representational practice.
+To do this, we will walk you through the necessary steps in creating a personal research archive using the free open source content management system, Wordpress, as well as exploring tools for non-linear database driven media, such as Korsakow, and other options tailored to your needs and particular areas of interest. This class should nudge you along your current research trajectory, while also, hopefully, challenging your research direction in positive ways.
+This course includes engagement with theories of production, weekly class discussions, screenings, readings, student presentations, collaborative in-class work, field trips, lectures and guest lectures, workshops, media archaeological interventions, and hands-on demonstrations... all this to help you gain a better understanding of the research tools at your disposal, deepen your knowledge of those you are currently using, as well as introduce new ones. All production work follows from a critical engagement with media and an awareness of methodology, positionally, and process.
+A laptop is required for the course. You will also be required to purchase server space and a domain name if you do not already have one (the how-to pertaining to this will be covered in class). No specific technical skills are required for this course other than an openness an eagerness to learn.
+
+JAN 13 Data Self
+Buy domain name and server space.
+Start: http://www.codecademy.com/tracks/web
+Allan Sekula. 1986. “The Body and the Archive.” October; Vol. 39 (Winter, 1986), pp. 3-64. The MIT Press.
+Rob Horning. 2013. “Safe in Our Archives http://thenewinquiry.com/blogs/ marginal-utility/safe-in-our-archives/ and “Notes on the Data Self” http:// thenewinquiry.com/blogs/marginal-utility/dumb-bullshit/
+Rita Riley. 2013. “Dataveillance and Countersurveillance” In “Raw Data” is an Oxymoron. Ed by Lisa Gitelman. Massachusetts Institute of Technology Press. 121-145.
+Finding Vivian Maier http://www.vivianmaier.com/ and https:// www.youtube.com/watch?v=2o2nBhQ67Zc
+JAN 20 CAMPUS CLOSED
+Continue readings from Data Self.
+JAN 27 Database Logics
+Guest Speaker: Kirstyn Jean Leuner
+Wendy HK Chun. 2008. “The Enduring Ephemeral, or the Future Is a Memory.” Critical Inquiry. Vol. 35, No. 1 (Autumn 2008), pp. 148-171. The University of Chicago Press http://www.jstor.org/stable/10.1086/595632
+Video: http://video.dma.ucla.edu/video/wendy-chun-the-enduring- ephemeral-or-the-future-is-a-memory/19
+Ramesh Srinivasan "Considering how digital culture enables a multiplicity of knowledges" (Lift09 EN) https://vimeo.com/5520100
+             3
+ Lev Manovich “Database as Symbolic Form” http://classes.dma.ucla.edu/ Spring06/259M/readings/manovich-lev_rev2.pdf
+OPTIONAL Brett Stalbaum “An Interpretative Framework for Contemporary Database Practice in the Arts” http://classes.dma.ucla.edu/Spring06/259M/ readings/stalbaum_brett.pdf
+OPTIONAL Christiane Paul. The Database as System and Cultural Form: Anatomies of Cultural Narratives http://visualizinginfo.pbworks.com/f/db-system- culturalform.pdf
+OPTIONAL Alan Lui. 2008. Local Transcendence: Essays on Postmodern Historicism and the Database. University Of Chicago Press (November 28, 2008)
+Feb 3 Objects
+Guest Speaker: William Walker Sampson: Born-Digital
+Yuk Hui. 2013. “Archive Manifesto” http://www.metamute.org/editorial/lab/ archivist-manifesto
+Susan Yee. 2007. “Evocative Objects: Things We Think With” edited by Sherry Turkle. Cambridge, MA, USA: MIT Press, 2007. p 42 http://site.ebrary.com/lib/ newcastle/Doc?id=10185586&ppg=42 MIT Press.
+Jane Bennett. 2010. Chapter 2 “The Agency of Assemblages” in Vibrant Matter: A Political Ecology of Things (a John Hope Franklin Center Book) Duke University Press Books.
+Jane Bennett. Artistry and Agency in a World of Vibrant Matter | The New School http://www.youtube.com/watch?v=q607Ni23QjA
+Sara Ahmed. 2006. “Chapter 1: Orientation Toward Objects” In Queer Phenomenology: Orientations, Objects, Others p.25 - 63.
+Feb 10 Ownership
+Presentation on readings by: ___________________________ Watch Vivian Maier BBC Film
+            4
+ Josephine Bosma. 2011. “The Gap between Now and Then: On the Conservation of Memory” Nettitudes: Let's Talk Net Art http:// www.barnesandnoble.com/w/nettitudes-josephine-bosma/1102270963
+Jane Anderson. 2009. (Colonial) Archives and (Copyright) Law, NOMOREPOTLUCKS, No. 4. July–Aug. 2009, http://www.nomorepotlucks.org/ article/copie-no4/colonial-archives-andcopyright-law
+Katie Shilton and Ramesh Srinivasan. 2010. "Participatory Appraisal and Arrangement for Multicultural Archival Collections" Archivaria 63: Special Section on Archives and Culture http://rameshsrinivasan.org/wordpress/wp-content/ uploads/2010/04/6-Shilton-Srinivasan-Multicultural-Archives-final.pdf
+Elizabeth A. Povinelli "The Woman on the Other Side of the Wall: Archiving the Otherwise in Postcolonial Digital Archives"
+Feb 17 Dirty Data
+Complete: http://www.codecademy.com/tracks/web
+Presentation on readings by: ___________________________
+Jennifer Gabrys. 2011. Digital Rubbish: A natural history of electronics. Ann Arbor, MI: University of Michigan Press, 2011. “Introduction” p. 1-19 and “Four: Museum of Failure: The Mutability of Electronic Memory” p. 101-125 http:// www.digitalculture.org/books/digital-rubbish/
+Richard Maxwell and Toby Miller. Greening the Media 2012. Chapter 2 “Words” and Chapter 3 “Screens”. Oxford University Press. (Norlin Library—Stacks HM1206 .M3759 2012)
+Kyle Chayka. 2012. “The Aesthetics of Data Storage” http://hyperallergic.com/ 58330/the-aesthetics-of-data-storage/
+James Glanz. 2012. "Power, Pollution and the Internet" New York Times (September 22, 2012) http://www.nytimes.com/2012/09/23/technology/data- centers-waste-vast-amounts-of-energy-belying-industry-image.html? pagewanted=all&_r=0
+Mél Hogan. 2013. “The Archive’s Underbelly: Facebook’s Storage Centers” in Television New Media. Sage. 2013.
+                 5
+ Feb 24
+Media Archaeology
+Visit to the Media Archaeology Lab: Tour and Talk by Kyle Bickoff
+Matthew G. Kirschenbaum "Every Contact Leaves a Trace": Storage, Inscription, and Computer Forensics" In Mechanisms: New Media and the Forensic Imagination. The MIT Press Cambridge, Massachusetts London, England 25-78
+Jussi Parikka. 2010. CTheory Interview Archaeologies of Media Art
+www.ctheory.net/articles.aspx?id=631
+Trevor Owens. 2012. “Media Archaeology and Digital Stewardship: An interview with Lori Emerson” http://blogs.loc.gov/digitalpreservation/2012/10/media- archaeology-and-digital-stewardship-an-interview-with-lori-emerson/
+Mar 3
+Non Linear
+Lecture and Workshop by Matt Soar Media Arts at the Brakhage Center
+Matt Soar. 2014. Chapter 10: “Making (with) the Korsakow System: Database Documentaries as Articulation and Assemblage.” 246-279.
+Monika Kin Gagnon. R69. http://www.archivingr69.ca/
+Mar 10 Error 404
+Presentation on readings by: ___________________________
+Lisa Gitelman. 2006. Chapter 4 New Media </Body> in Always Already New The MIT Press, Cambridge Massachusetts. pp. 123-150.
+New Aesthetics, New Anxieties. 2012. CURATORIAL READINGS 5. A BLOGPOST AS EXHIBITION 6. COLLECT, REMIX, CONTRIBUTE -> CURATE? 7. ERROR 404: NO AESTHETIC FOUND. pp. 26-38. http://aaronland.info/NA.html
+Mar 17 Media Ecology
+      6
+ Presentation on readings by: ___________________________
+Rossiter. 2012.
+Design: A Glossary of Network Ecologies
+Depletion
+“Dirt Research” In Wiedemann, C. and Zehle, S.
+ Jussi Parikka. 2013. An Alternative Deep Time of the Media: a Geologically Tuned Media Ecology http://vimeo.com/72676524#
+OPTIONAL Matthew Fuller. 2005. Media Ecologies: Materialist Energies in Art and Technoculture. Cambridge, MA: The MIT Press.
+OPTIONAL Jody Berland. 2009. North of Empire: Essays on the Cultural Technologies of Space. Duke University Press Books.
+Mar 24 March Break
+Mar 31 Archival Agency
+Special Collections (class visit) with Amanda Brown.
+Arjun Appadurai “Archive and Aspiration” http://entreculturas.info/system/docs/ 10/original/Appadurai._Archive_and_Aspiration.pdf?1276464953
+Eric Ketelaar. 2002. "The Archive as a Time Machine" The ICT-industry and public sector partnership: to promote the preservation and accessibility of the European archival heritage Closing Speech of the DLM-Forum 2002 Barcelona, 8 May 2002 http://www.mybestdocs.com/ketelaar-e-dlm2002.htm
+Mike Featherstone. 2006. "Archive" Theory Culture Society 23: 591 http:// tcs.sagepub.com/content/23/2-3/591
+Tara MacPherson. 2012. Part III: Chapter 9 “Why are the Digital Humanities So White? or Thinking the Histories of Race and Computation” In Debates in the Digital Humanities http://www.jstor.org/stable/10.5749/j.ctttv8hq p. 139-160
+. Theory on Demand #8. xm:lab. http://
+  xmlab.org/fileadmin/hbk/download/pdf/maad/
+  wiedemann_zehle_2012_depletiondesign.pdf
+p.47–52
+          7
+ Apr 7
+Queering the Catalog
+Presentation on readings by: ___________________________
+Emily Drabinski. 2013. “Queering the Catalog: Queer Theory and the Politics of Correction Author(s): The Library Quarterly, Vol. 83, No. 2 (April 2013), p. 94-111 The University of Chicago Press http://www.jstor.org/stable/10.1086/669547
+Anjali Arondekar. 2005. “Without a Trace: Sexuality and the Colonial Archive.” Journal of the History of Sexuality, Volume 14, Numbers 1/2, January 2005/April 2005, pp. 10-27
+Ann Cvetkovich. 2002. “In the Archives of Lesbian Feeling: Documentary and Popular Culture,” Camera Obscura 49 vol. 17, no. 1 (2002): 107– 147.
+Elizabeth Freeman. 2010. “Chapter 1: Junk Inheritance, Bad Timing” In Time
+Binds: Queer Temporalities, Queer Histories
+Apr 14
+Performing the Archive
+Presentation on readings by: ___________________________
+Amma Y. Ghartey-Tagoe Kootin. 2012. Brakhage Center Lunchtime Series. http:// www.youtube.com/watch?v=Y5x8gGRz1cA (3 parts)
+Diana Taylor. “Acts of Transfer” from The Archive and the Repertoire: Performing Cultural Memory in the Americas. Durham: Duke UP, 2003
+Lisa Nakumura. 2006. “Cybertyping and the Work of Race in the digital Reproduction.” In New Media Old Media A History and Theory Reader Edited by Wendy Hui Kyong Chun and Thomas Keenan.
+Coco Fusco. 1994. “The Other History of Intercultural Performance” in TDR (1988-) vol. 38, No. 1 (Spring 1994) pp 143-167. http://www.csun.edu/~vcspc00g/ 301/CFusco-OtherHistory-TDR.pdf
+Apr 21 Deep Storage
+       8
+Presentation on readings by: ___________________________
+Jaimie Baron. 2007. "Contemporary Documentary Film and "Archive Fever": History, the Fragment, the Joke." Velvet Light Trap: A Critical Journal of Film & Television; Fall2007, Issue 60, p13-24, 12p, 3 Black and White Photographs https://web.ebscohost.com/ehost/detail?sid=87819611-cfa3-408c- a88a-30eaa5981ebf %40sessionmgr112&vid=3&hid=111&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d %3d#db=aph&AN=27057983
+Apr 28 The Cloud
+Final presentations.
+Sean Cubitt, Robert Hassan and Ingrid Volkmer 2011. “Does cloud computing have a silver lining?”Media, Culture & Society 33(1) 149–158
+Eben Moglen - Freedom in The Cloud ISOC-NY1710-02 Eben Moglen's "Freedom in The Cloud' presentation at NYU Feb 5 2010. http:// www.youtube.com/watch? v=QOEMv0S8AcA&list=PL4NPFfvsEuw76gqC7NhAc3SJaH3l-dRQP and http:// isoc-ny.org/1338
+Alexis C. Madrigal. 2013. “The Hut Where the Internet Began” in The Atlantic JUL 7 2013, 11:18 PM ET http://www.theatlantic.com/technology/archive/ 2013/07/the-hut-where-the-internet-began/277551/
+Vannevar Bush“As We May Think” in The Atlantic JUL 1 1945
+http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+OPTIONAL Andrew Blum. 2013. Tubes: A Journey to the Center of the Internet. Ecco; Reprint edition (May 28, 2013)
+Essays by Geoffrey Batchen and Benjamin Buchloch. 1998. p. 45-60 in Deep
+ Storage: Collecting, Storing, and Archiving in Art. Munich and New York: Prestel,
+ 1998.
+ 

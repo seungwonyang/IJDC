@@ -1,0 +1,33 @@
+Digital Curation and Preservation
+
+This course provides students with an understanding of the theoretical principles and practical aspects of digital curation and preservation within libraries, museums, archives and other institutions administering data and digital content. Students examine critical issues and challenges surrounding long- term digital preservation and curation. Topics examined include digitization and preservation standards; selection criteria; copyright and professional ethics; the data curation lifecycle; strategies for preservation; metadata; integrity and authenticity of digital content; trusted digital repositories; risk management; and current research and development. The goals of this course are 1) to increase the students’ awareness and understanding of the multiplicity of digital curation and preservation issues, and 2) to develop their knowledge further through hands-on practical skills learned while curating and preserving data and digital content.
+
+Identify and discuss the primary considerations involved in curating and preserving data and digital
+content;
+2. Recall and comprehend standards for the preservation of data, digital files, and digitized analog
+materials (e.g., documents, photographs, audio, film, and video);
+3. Understand and apply selection criteria used in data curation and digital preservation strategies;
+4. Acknowledge and identify ethical and rights issues involved in curation and preservation of digital
+content;
+5. Compare curation and preservation options and make recommendations based on the suitability of
+a given method to the goals of a project;
+6. Evaluate and discriminate among different short-term and long-term strategies for digital
+preservation, including refreshing, migration, and emulation;
+7.
+8. Identify and define the main types of metadata required for data curation and the preservation of digital content;
+9. Assess the risks associated with data, digital records and other digital content and identify potential options for reducing risk;
+
+Understand the role of digital repositories and data archives in digital curation and preservation strategies;
+11. Analyze and develop curation and preservation strategies appropriate for the long-term storage of data, digital records and other digital content;
+12. Understand and acknowledge historic and current research perspectives on key digital curation and digital preservation and challenges.
+
+Introduction and fundamental concepts for digital curation and digital preservation;
+2. Digitization and preservation standards;
+3. Selection criteria, and the role of copyright and professional ethics;
+4. The lifecycle of data and digital content;
+5. Formats and strategies for preservation;
+6. Metadata to support access, management, and preservation;
+7. Maintaining the integrity and authenticity of digital materials;
+8. Establishment and certification of trusted digital repositories;
+9. Risk management; and,
+10. Current research and development.

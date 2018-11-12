@@ -1,0 +1,221 @@
+Digital Forensics for Curation of Digital Collections
+
+Students will learn about hardware, software, principles and methods for capturing and curating digital data that have been stored on removable media (ie: hard drives, floppy disks, USB memory sticks). This course addresses common storage devices and interfaces; write-blocking equipment and its role in acquisition of data; levels of representation; basic filesystem structures; role and importance of hash values and hex views of bitstreams; software used to conduct forensics tasks; considerations for incorporating forensics into curation workflows; and legal and ethical issues. Students will have the opportunity to use a range of state-of-the-art digital forensics hardware and (commercial and open-source) software and explore ways that they can be applied by information professionals in a variety of collecting contexts.
+
+Understand the major levels of representation in digital collections
+• Investigate implications of diferent levels of representation for digital
+curation activities
+• Working familiarity with hardware and software for the acquisition of
+data from storage media
+• Understand implications of digital foresnics tools and methods for long-
+term curation of digital data
+
+Altheide, Cory, Harlan Carvey and Ray Davidson. Digital Forensics with Open Source Tools. Waltham, MA: Syngress, 2011.
+Casey, Eoghan. Handbook of Digital Forensics and Investigation. Boston: Academic, 2010.
+ 
+Week 1 (August 20) - Course Introduction and
+Overview
+• Course scope, content and expectations
+• Recources available to you, including lab classroom (Manning 117) and
+forensics lab (Manning 213)
+Week 2 (August 27) - Context and Motivation
+• Applying digital forensics to digital curation
+• Overview of digital forensics
+• Industry, field, tools and methods
+• Different types of forensics and the main focus of this course (dead vs.
+live forensics)
+Read/Watch:
+           
+S - Garfinkel, Simson. "Digital Forensics." American Scientist 101 (2013): 370- 377.
+W - Installing BitCurator as a Virtual Machine using VirtualBox. https://www.youtube.com/watch?v=ttfLavXwpj8
+W - Lee, Christopher A., Kam Woods, Matthew Kirschenbaum, and Alexandra Chassanoff. "From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions." September 30,
+2013. http://www.bitcurator.net/docs/bitstreams-to-heritage.pdf
+W - Kirschenbaum, Matthew G., Richard Ovenden, and Gabriela Redwine. "Digital Forensics and Born-Digital Content in Cultural Heritage Collections." Washington, DC: Council on Library and Information Resources,
+2010. http://www.clir.org/pubs/reports/pub149/pub149.pdf
+Other Related Readings:
+R - Carrier, Brian. "Digital Investigation Foundations." In File System Forensic
+Analysis, 3-16. Boston, MA: Addison-Wesley, 2005.
+S, R - Jones, Andy and Craig Valli. "An Introduction to Digital Forensics." In Building a Digital Forensic Laboratory: Establishing and Managing a Successful Facility, 6-18. Burlington, MA: Butterworth-Heinemann and Syngress Publishing, Inc., 2009.
+W - Lee, Christopher A. “Archival Application of Digital Forensics Methods for Authenticity, Description and Access Provision.” Comma 2, no.14 (2012): 133-139.
+W - Lee, Christopher A., Matthew Kirschenbaum, Alexandra Chassanoff, Porter Olsen, and Kam Woods. "BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions." D-Lib Magazine 18, No. 5/6 (May/June 2012). http://www.dlib.org/dlib/may12/lee/05lee.html
+W - Lee, Christopher A., Porter Olsen, Alexandra Chassanoff, Kam Woods, Matthew Kirschenbaum, and Sunitha Misra. “From Code to Community: Building and Sustaining BitCurator through Community Engagement.” September 30, 2014. http://www.bitcurator.net/wp- content/uploads/2014/11/code-to-community.pdf
+      
+W - Ross, Seamus and Ann Gow. "Digital Archaeology: Rescuing Neglected and Damaged Data Resources." London: British Library, 1999.http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/p2.pdf
+Week 3 (September 3) - Nature of Digital Information: Layers of Representation
+• Explanation of multiple levels of representation
+• Introduction to filesystems as a particularly important layer for forensics
+and curation
+Read:
+S, R - Carrier, Brian. "File System Analysis." In File System Forensic
+Analysis, 173-210. Boston, MA: Addison-Wesley, 2005.
+S, R - Farmer, Dan, and Wietse Venema. "The Spirit of Forensic Discovery."
+In Forensic Discovery, 3-15. Upper Saddle River, NJ: Addison-Wesley, 2005.
+W - Lee, Christopher A. “Digital Curation as Communication Mediation.” In Handbook of Technical Communication, edited by Alexander Mehler, Laurent Romary, and Dafydd Gibbon, 507-530. Berlin: Mouton De Gruyter, 2012. http://www.ils.unc.edu/callee/p507-lee.pdf
+Other Related Readings:
+R - Carrier, Brian. "FAT Concepts and Analysis" (211-252), "NTFS Concepts" (273-299), and "Ext2 and Ext3 Concepts and Analysis" (397-?)."File System Analysis." In File System Forensic Analysis, 173-210. Boston, MA: Addison- Wesley, 2005.
+R - Farmer, Dan, and Wietse Venema. "File System Basics." In Forensic Discovery, 39-58. Upper Saddle River, NJ: Addison-Wesley, 2005. [focus is on Unix filesystems]
+S - "FAT File System." In EnCase Computer Forensics I, 269-286. Pasadena, CA: Guidance Software, 2009
+Week 4 (September 10) - Three Essential Forms of Representation: Hashes, Hex Dumps and File Signatures
+  
+• Hashes and Hex views of data
+• Role of hash libraries
+• Use of file signatures (magic numbers) to identify file types
+Thursday, September 10 at 2:00 PM - individual assignment topic proposal due to instructors
+Read:
+S, R - Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. Redmond, WA: Microsoft Press, 1999. [Bytes and Hex (180- 189)]
+W - Friedl, Steve. "An Illustrated Guide to Cryptographic Hashes." 2005. http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
+W - "Magic Number Definition." Linux Information Project (LINFO). http://www.linfo.org/magic_number.html
+Week 5 (September 17) - Dealing with Hardware
+• Explanation of various ports and drive types
+• Showcasing of different hardware options (e.g. FRED)
+• Characteristics of storage
+• Dealing with old media (e.g. 5.25-inch floppies)
+• Write blockers
+Read:
+S, R - Carrier, Brian. "Computer Foundations." In File System Forensic
+Analysis, 17-45. Boston, MA: Addison-Wesley, 2005.
+W - Olsen, Porter. "Building a Digital Curation Workstation with BitCurator (update)." August 2, 2013. http://www.bitcurator.net/2013/08/02/building-a- digital-curation-workstation-with-bitcurator-update/
+W - "Use Guide for the FC5025 Floppy Disk Controller." Maryland Institute for Technology in the Humanities. http://mith.umd.edu/vintage- computers/fc5025-operation-instructions
+S, R - White, Ron and Timothy Edward Downs. How Computers Work. 10th Edition. How It Works Series. Indianapolis, IN: Que, 2014. [The Ghostly
+      
+Legos of Computing (8-17), How Computers Remember (19-27), How the Workaday Floppy Drive Ruled (138-139), How Little Bits Add Up to Big Changes (158-159), How Small Mutations Pay Off Big (162-167), How Devices Capture Light (216-217)]
+Week 6 (September 24) - Introduction to Basic Tools and Techniques (Building Blocks)
+• Regular expressions
+• Unix commands
+• Overview of BitCurator tools and supported tasks
+• Overview of Forensic Tool Kit (FTK) features and functions
+Read:
+W - BitCurator Quick Start Guide. Read lastest version available
+from: http://wiki.bitcurator.net
+W - Cook, Timothy. "A Regular Expression Search Primer for Forensic Analysts." SANS Institute. March 29, 2011. http://www.bitcurator.net/save-the- date-announcing-the-2nd-annual-bitcurator-social-mixer-at-saa/
+S, R - Jones, Keith J., Richard Bejtlich, and Curtis W. Rose. "Forensic Tool Analysis: An Introduction Using Linux for Analyzing Files of Uknown Origin" (301-343) and "An Introduction to Perl" (625-636). In Real Digital Forensics: Computer Security and Incident Response. Upper Saddle River, NJ: Addison- Wesley, 2006.
+Other Related Readings:
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. Current Computer Forensics Tools.."In Guide to Computer Forensics and Investigation, 260-284. Fourth Edition. Boston, MA: Cengage Learning, 2010.
+Week 7 (October 1) - Forensic Acquisition
+• What disk images are and why to create them
+• How to create disk images
+• Disk imaging package formats
+   
+LAB - create disk image and view disk image in two ways: 1) mount using MagicDisk and 2) view forensically with FTK Imager and BitCurator environment
+Read/Watch:
+W - Creating a Disk Image using Guymager in
+BitCurator. http://www.youtube.com/watch?v=MshOHXIPIUY
+S, R - Jones, Keith J., Richard Bejtlich, and Curtis W. Rose. "Part 3: Acquiring a Forensic Duplication" (Before you Jump Right In..." (163-169), "Commercial-Based Forensic Duplications" (171-185), and "Noncommercial- Based Forensic Duplications" (187-204). In Real Digital Forensics: Computer Security and Incident Response. Upper Saddle River, NJ: Addison-Wesley, 2006.
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. Guide to Computer Forensics and Investigation. Fourth Edition. Boston, MA: Cengage Learning, 2010. [Excerpt on write-settings in Windows (p. 106-109)]
+W - Report on Warhol Amiga Image Recovery Project. CMU Computer Club. March 9,
+2014. http://studioforcreativeinquiry.org/public/warhol_amiga_report_v10.pdf
+Other Related Readings:
+R - Carrier, Brian. "Hard Disk Data Acquisition" (47-66), "Volume Analysis" (69-80), and "PC-Based Partitions" (81-110). In File System Forensic Analysis. Boston, MA: Addison-Wesley, 2005.
+S - "EnCase Concepts." In EnCase Computer Forensics I, 45-47. Pasadena, CA: Guidance Software, 2009.
+W - Garfinkel, Simson L. "AFF: A New Format for Storing Hard Drive Images." Communications of the ACM 49, no. 2 (2006): 85-
+87. http://simson.net/clips/academic/2006.CACM.AFF.pdf
+S, R - Jones, Andy and Craig Valli. "Management of the Collection of Evidence." In Building a Digital Forensic Laboratory: Establishing and Managing a Successful Facility, 128-137. Burlington, MA: Butterworth- Heinemann and Syngress Publishing, Inc., 2009.
+   
+W - Mastrapa, Gus. "The Geeks Who Saved Prince of Persia’s Source Code From Digital Death." Wired. April 20,
+2012. http://www.wired.com/2012/04/prince-of-persia-source-code/
+Week 8 (October 8) - Capturing and Extracting High- Level Metadata
+• Creating a case and loading disk image data
+• Basic software features
+• Common tasks supported
+LAB - fiwalk and BitCurator reporting tools; exporting metadata using FTK
+Thursday, October 8 at 2:00 PM - Individual assignment full draft due for peer review
+Read:
+W - DFXML Schema. https://github.com/dfxml-working-group/dfxml_schema
+W - Garfinkel, Simson. "Digital Forensics XML and the DFXML Toolset." Digital Investigation 8, (2012): 161-174.
+W, S - Woods, Kam, Alexandra Chasanoff, and Christopher A. Lee. "Managing and Transforming Digital Forensics Metadata for Digital Collections."
+In Proceedings of the Tenth International Conference on Digital Preservation (iPRES), Lisbon, Portugal, September 2-6, 2013.http://purl.pt/24107/1/iPres2013_PDF/Managing%20and%20Transformin g%20Digital%20Forensics%20Metadata%20for%20Digital%20Collections.pdf
+Other Related Readings:
+Rowell, Chelcie Juliet, and Sarah Potvin. “Preservation Metadata for Digital Forensics: A Report of the ALCTS PARS Preservation Metadata Interest Group Meeting, American Library Association Annual Meeting, Las Vegas, June 2014.” Technical Services Quarterly 32, no. 3 (2015): 320-325.
+W - Woods, Kam, Christopher Lee, and Sunitha Misra. “Automated Analysis and Visualization of Disk Images and File Systems for Preservation.”
+    
+In Proceedings of Archiving 2013 (Springfield, V A: Society for Imaging Science and Technology, 2013), 239-244.
+Week 9 (October 15) - No Class (Fall Break)
+Week 10 - (October 22) - Identifying Potentially Revealing Information in Disk Images or Directores
+• Data carving
+• Idenifying important "features"
+LAB - Bulk Extractor and identify_file_names to generate annotated feature files
+Tuesday, October 14 at 2:00 PM - indvidual assignment final version due Read/Watch:
+S, R - Farmer, Dan, and Wietse Venema. "The Persistence of Deleted File Information.." In Forensic Discovery, 145-60. Upper Saddle River, NJ: Addison-Wesley, 2005.
+W - Garfinkel, Simson Simson, Digital media triage with bulk data analysis and bulk_extractor. Computers and Security 32: 56-72 (2013)http://simson.net/clips/academic/2013.COSE.bulk_extractor.pdf
+W - Garfinkel, Simson L. and Abhi Shelat. "Remembrance of Data Passed: A Study of Disk Sanitization Practices." IEEE Security and Privacy 1, (2003): 17- 27.http://www.myoops.org/twocw/harvard/distribution/lectures/8/articles8.pdf
+W - Locating Personally Identifiable Information with bulk_extractor. http://www.youtube.com/watch?v=coDc9lxxMak
+Other Related Readings:
+W - "Bulk Extractor." Forensics
+Wiki. http://www.forensicswiki.org/wiki/Bulk_extractor
+W - Garfinkel, Simson L. "Forensic Feature Extraction and Cross-Drive Analysis." Digital Investigation 3S (2006): S71-
+    
+81. http://simson.net/clips/academic/2006.DFRWS.pdf [See especially: Sections 1-3, p.S71-75]
+W - Garfinkel, Simson L. "Using bulk_extractor for digital forensics triage and cross-drive analysis." Tutorial at Digital Forensics Research Workshop. August 8th, 2012.http://simson.net/ref/2012/2012-08- 08%20bulk_extractor%20Tutorial.pdf [Very detailed (130 slides)]
+W - "Lest We Remember: Cold Boot Attacks on Encryption Keys." http://www.youtube.com/watch?v=JDaicPIgn9U
+Week 11 (October 29) - Digging into Specific Files and File Types
+LAB - exiftool, FITS, DROID, JHOVE, file (Unix command)
+Read:
+W - Garfinkel, Simson L. and James Migletz. "New XML Office Document Files: Implications for Forensics." IEEE Security and Privacy (March/April 2009): 38-44.http://simson.net/clips/academic/2009.IEEE.DOCX.pdf
+W - Banerjee, Kyle and Maija Anderson. "Batch metadata assignment to archival photograph collections using facial recognition software." Code4Lib Journal 21 (2013).http://journal.code4lib.org/articles/8486
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. "E-Mail Investigations." In Guide to Computer Forensics and Investigation, 452-487. Fourth Edition. Boston, MA: Cengage Learning, 2010.
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. "Recovering Graphics Files." In Guide to Computer Forensics and Investigation, 382-415. Fourth Edition. Boston, MA: Cengage Learning, 2010.
+Other Related Readings:
+W - Farid, Hany. "Digital Image Forensics." Dartmouth
+College. http://cs.darthmouth.edu/farid/downloads/tutorials/digitalimageforensi cs.pdf
+        
+O - Memon, Nasir D. and Husrev T. Sencar, ed. Digital Image Forensics: There Is More to a Picture Than Meets the Eye. New York, NY: Springer, 2013. http://search.lib.unc.edu/search?R=UNCb7233136.
+Migletz, James J. "Automated Metadata Extraction." Master's Thesis, Naval Postgraduate School, 2008.
+W - Schroader, Amber. Paraben
+Corporation. http://www.techsec.com/pdf/Monday/Amber%20Schroader%20- %20E-Mail%20Forensics.pdf
+Week 12 (November 5) - Identifying User Artifacts and Traces of Internet Activity
+• Windows artifacts (including the Registry)
+• Mac artifacts
+Read:
+W - Garfinkel, Simson and David Cox. "Finding and Archiving the Internet Footprint." In First Digital Lives Research Conference: Personal Digital Archives for the 21st Century. London, UK,
+2009. http://simson.net/clips/academic/2009.BL.InternetFootprint.pdf
+O - Gessiou, E., Volanis, S., Athanasopoulos, E., Markatos, E.P., Ioannidis, S. "Digging Up Social Structures from Documents on the Web." In Proceedings of the Global Communications Conference (GLOBECOM). IEEE, 2012: 744- 750. http://dx.doi.org/10.1109/GLOCOM.2012.6503202
+S, R - Jones, Keith J., Richard Bejtlich, and Curtis W. Rose. "Web Browsing Activity Reconstruction" (247-271) and "E-Mail Activity Reconstruction" (273-289). In Real Digital Forensics: Computer Security and Incident Response. Upper Saddle River, NJ: Addison-Wesley, 2006.
+S, R - Pittman, Ryan D. and Dave Shaver. "Windows Forensic Analysis."
+In Handbook of Digital Forensics and Investigation,, edited by Eoghan Casey, 209-300. Boston: Academic, 2010. [Note areas to focus on mentioned in class.]
+Other Related Readings:
+W - "Facebook Forensics." Valkyrie-X Security Research Group, July 5, 2011. http://www.fbiic.gov/public/2011/jul/facebook_forensics-finalized.pdf
+      
+S, R - Jones, Keith J., Richard Bejtlich, and Curtis W. Rose. "Microsoft Windows Registry Reconstruction." In Real Digital Forensics: Computer Security and Incident Response, 291-299. Upper Saddle River, NJ: Addison- Wesley, 2006.
+S, R - Kokocinski, Anthony. "Macintosh Forensic Analysis." In Handbook of Digital Forensics and Investigation,, edited by Eoghan Casey, 353-382. Boston: Academic, 2010.
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. "Understanding the Windows Registry."In Guide to Computer Forensics and Investigation, 230-237. Fourth Edition. Boston, MA: Cengage Learning, 2010.
+W - RegRipper. https://code.google.com/p/regripper/wiki/RegRipper Week 13 (November 12) - Incorporating Digital
+Forensics into Archival Workflows Read:
+W - AIMS Work Group, “AIMS Born-Digital Collections: An Inter- Institutional Model for Stewardship,” January
+2012. http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf
+W - Dietrich, Dianne, and Frank Adelstein. “Archival Science, Digital Forensics, and New Media Art.” Digital Investigation 14 (2015): S137- S145.http://www.sciencedirect.com/science/article/pii/S1742287615000493
+W - Erway, Ricky. "Swatting the Long Tail of Digital Media: A Call for Collaboration." Dublin, OH: OCLC Research, 2012.http://www.oclc.org/content/dam/research/publications/library/2012/2012 -08.pdf
+W - Gengenbach, Martin J. “'The Way We Do it Here': Mapping Digital Forensics Workflows in Collecting Institutions.” A Master’s Paper for the M.S. in L.S degree. August, 2012.http://digitalcurationexchange.org/system/files/gengenbach-forensic- workflows-2012.pdf
+Other Related Readings:
+       
+S, R - Jones, Andy and Craig Valli. "Workload Management and the Outsourcing Option." In Building a Digital Forensic Laboratory: Establishing and Managing a Successful Facility, 220-232. Burlington, MA: Butterworth- Heinemann and Syngress, 2009.
+W - Kirschenbaum, Matthew G., Erika L. Farr, Kari M. Kraus, Naomi Nelson, Catherine Stollar Peters, Gabriela Redwine and Doug Reside. "Digital Materiality: Preserving Access to Computers as Complete Environments."
+In Proceedings of the Sixth International Conference on Digital Preservation (iPRES), San Francisco, California, October 5-6, 2009, 105-112: California Digital Library, 2009. http://escholarship.org/uc/item/7d3465vg
+Week 14 (November 19) - Access to Forensically- Acquired Data - Technical, Ethical and Legal Considerations
+• Redaction
+• Access systems
+• Donor agreements
+• Ethical issues
+Read:
+W - Hilton, Christopher, Dave Thompson, and Natalie Walters. "Trust Me, I'm an Archivist: Experiences with Digital Donors." Ariadne 65
+(2010). http://www.ariadne.ac.uk/issue65/hilton-et-al/
+W - Misra, Sunitha, Christopher A. Lee, and Kam Woods. “A Web Service for File-Level Access to Disk Images.” Code4Lib Journal 25
+(2014). http://journal.code4lib.org/articles/9773
+S - Nelson, Naomi L, et al. "Gift/Purchase Agreements." In Managing Born- Digital Special Collections and Archival Materials, 122-126. SPEC Kit 329. Washington, DC: Association of Research Libraries, 2012. [Includes three short documents: donor agreements and policies from Duke University, Bentley Historical Library, and Beinecke Rate Book and Manuscript Library]
+W - Pyatt, Timothy D. "Deed of Gift Addenda for Collections with Electronic Records." Pennsylvania State University.
+2012. https://scholarsphere.psu.edu/files/0k225b067
+    
+W - Redwine, Gabriela, Megan Barnard, Kate Donovan, Erika Farr, Michael Forstrom, Will Hansen, Jeremy Leighton John, Nancy Kuhl, Seth Shaw, and Susan Thomas. "Born Digital: Guidance for Donors, Dealers, and Archival Repositories." Washington, DC: Council on Library and Information Resources, 2013. http://www.clir.org/pubs/reports/pub159/pub159.pdf
+Other Related Readings:
+W - Lee, Christopher A. "Computer-Supported Elicitation of Curatorial Intent." In Dagstuhl Seminar Proceedings 10291, Automation in Digital Preservation, edited by Andreas Rauber, Jean-Pierre Chanod, Seamus Ross, and Milena Dobreva.
+2010. http://www.dagstuhl.de/Materials/Files/10/10291/10291.LeeCal.Paper.pd f
+W - Woods, Kam and Geoffrey Brown. "From Imaging to Access - Effective Preservation of Legacy Removable Media." In Archiving 2009: Preservation Strategies and Imaging Technologies for Cultural Heritage Institutions and Memory Organizations: Final Program and Proceedings, 213-218. Springfield, VA: Society for Imaging Science and Technology, 2009.http://www.digpres.com/publications/woodsbrownarch09.pdf
+Week 15 (November 26) - Synthesis, Conclusions and Future Projections
+Wednesday, November 25 - group assignment due at 5pm Thursday, November 26 - No class session (Thanksgiving Break) Read:
+W - Bell, Graeme B. and Richard Boddington. "Solid State Drives: The Beginning of the End for Current Practice in Digital Forensic Recovery?" Journal of Digital Forensics, Security and Law 5, no. 3 (2010). http://ojs.jdfsl.org/index.php/jdfsl/article/viewFile/21/45
+S, R - Doherty, Eamon P. "The Cell Phone." In Digital Forensics for Handheld Devices, 1-40. Boca Raton, CRC Press, 2013.
+     
+W - Garfinkel, Simson L. "Digital Forensics Research: The Next 10 years." Digital Investigation 7 (2010): S64-
+73. http://dfrws.org/2010/proceedings/2010-308.pdf
+Other Related Readings:
+S, R - Nelson, Bill, Amelia Phillips, and Christopher Steuart. "Cell Phone and Mobile Device Forensics." In Guide to Computer Forensics and Investigation, 496-509. Fourth Edition. Boston, MA: Cengage Learning, 2010.
+

@@ -1,0 +1,198 @@
+Introduction to Digital Curation (Fall 2016)
+
+Digital curation can be thought of as an entire process of management and care for digital content. Ensuring a long-term preservation, access, and reuse of digital content is also a major concern. In this introductory course, we will explore various aspects of digital and data curation including its definition, lifecycle, relevant technologies, data repositories, (web) archiving, preservation, and so on. Students will be engaged in a term project (teams), homework assignments (individually), and activities (individually).
+
+Discuss definitions and perspectives of digital and data curation.
+Explore various technologies which form the technical basis of digital and data curation. Acquire hands-on experience for digital and data curation.
+
+Course introduction
+What is digital curation
+Data curation - part 1: overview
+Data curation - part 2: ingest
+Data curation - part 3: processing
+Data curation - part 4: repository management
+Data curation - part 5: dissemination
+Digitization
+Metadata, Protocols for metadata harvesting
+Digital preservation
+File formats, transformation, and migration
+Web archiving
+Current and future trends
+
+1. Digital_curation_for_science,digital_libraries,individuals(Beagrie,2006).pdf
+Abstract link: http://ijdc.net/index.php/ijdc/article/view/6
+2. DigCurV_curriculum_framework(MolloyandGow,2014).pdf
+Abstract link: http://ijdc.net/index.php/ijdc/article/view/9.1.231
+3. (Optional)DCC_curation_lifecycle_model(Higgins,2008).pdf
+Abstract link: http://ijdc.net/index.php/ijdc/article/view/69
+
+
+1. Guidetosocialsciencedatapreparationandarchiving:bestpracticethroughoutthedata lifecycle (5th edition), ICPSR (2012)
+File in Moodle: Reading_dataprep(ICPSR, 2012).pdf (pages 7-18)
+2. UKDataArchivetrainingmanual
+Follow and read ’View More In the Introduction’ and ’View More on Staffing and Manage- ment’
+Website: http://data-archive.ac.uk/curate/archive-training-manual
+3. Akmon, D., Zimmerman, A., Daniels, M. and Hedstrom, M. (2011). The application of
+archival concepts to a data-intensive environment: working with scientists to understand
+data management and preservation needs.
+Link: http://deepblue.lib.umich.edu/bitstream/handle/2027.42/86738/Akmonetal2011. pdf?sequence=1
+  File in Moodle: Reading_datamgmt(Akmon, 2011).pdf
+
+  • TheSelection,Appraisal,andRetentionofSocialScienceData.Gutmann,M.P.,K.SchÃijrer, D. Donakowski, and H. Beedham. Data Science Journal (2004) 3:209-221. http://www.digitalpreservation.gov/partners/documents/data-pass_selection_ data.pdf
+• HowtoAppraiseandSelectResearchDataforCuration,A.Whyte&A.Wilson(2010).Dig- ital Curation Centre. http://www.dcc.ac.uk/resources/how-guides/appraise-select-data
+
+• Strategic Directions: Appraisal Policy, US National Archives and Records Administration (2007).
+  http://www.archives.gov/records-mgmt/initiatives/appraisal.html
+• Appraisal,DataPreservationAlliancefortheSocialSciences(Data-PASS).
+http://www.data-pass.org/sites/default/files/appraisal.pdf
+RESOURCES
+• ICPSRCollectionDevelopmentPolicy.
+  http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/policies/colldev.
+  html
+• UKDataServiceCollectionDevelopmentPolicy.
+  http://ukdataservice.ac.uk/media/398725/cd227-collectionsdevelopmentpolicy.
+  pdf
+• UKDataServiceAppraisalCriteriaandGrid.
+http://ukdataservice.ac.uk/media/455175/cd234-collections-appraisal.pdf
+
+ ICPSRGuidetoSocialScienceDataPreparationandArchiving
+     http://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/
+• DataEnhancement,ICPSR:DataManagement
+     http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/lifecycle/ingest/
+     enhance.html
+  • HowWeCurateData:OurQualityControl,UKDataArchive.
+http://data-archive.ac.uk/curate/archive-quality
+1
+• ReviewProceduresforUKDataServiceReShareself-depositdatarepository.
+http://reshare.ukdataservice.ac.uk/reshare-review-procedures/
+• Codebook,InstituteforHealthandCareResearchQualityHandbook.
+  http://www.emgo.nl/kc/preparation/data%20collection/3%20Codebook.html
+• ICPSRGuidetoCodebooks.
+http://www.icpsr.umich.edu/files/deposit/Guide-to-Codebooks_v1.pdf
+
+DataSealofApproval(DSA)-Assessment.
+     http://datasealofapproval.org/en/assessment/
+• Digital Repository Audit Method Based on Risk Assessment (DRAMBORA), Digital Cura- tion Centre & Digital Preservation Europe. http://www.repositoryaudit.eu/img/drambora_flyer.pdf
+• Trusted Repositories Audit and Certification (TRAC): Criteria and Checklist, Center for Research Libraries (2007). http://www.crl.edu/sites/default/files/attachments/pages/trac_0.pdf
+1
+  
+• AuditandCertificationofTrustworthyDigitalRepositories:MagentaBook(2011).
+  http://public.ccsds.org/publications/archive/652x0m1.pdf
+• CertificationofWorldDataSystemmembers,WorldDataSystem.
+http://www.icsu-wds.org/files/wds-certification-summary-11-june-2012.pdf
+• NetworkofExpertiseinLong-termStorageofDigitalResources(NESTOR)SealforTrust- worthy Digital Archives. http://files.d-nb.de/nestor/materialien/nestor_mat_17_eng.pdf
+UKDataServiceuseradviceandtraining
+  http://ukdataservice.ac.uk/use-data/advice
+• UKDataServicecasestudiesofre-use
+http://ukdataservice.ac.uk/use-data/data-in-use/case-studies
+• UKDataServiceteachingwithdata
+  http://ukdataservice.ac.uk/use-data/teaching
+• UKDataServicenewsandevents
+http://ukdataservice.ac.uk/news-and-events.aspx
+• UKDataServicevideotutorials
+  http://ukdataservice.ac.uk/use-data/tutorials
+• UKDataServicesecondarydataanalysis
+http://ukdataservice.ac.uk/use-data/secondary-analysis
+1
+• UKDataServicecitingdata
+http://ukdataservice.ac.uk/use-data/citing-data
+• ICPSRResourcesforInstructors
+  https://www.icpsr.umich.edu/icpsrweb/instructors/index.jsp
+• ICPSRResourcesforstudents
+  https://www.icpsr.umich.edu/icpsrweb/ICPSR/support/students
+• ICPSRYouTubeChannel
+  http://www.youtube.com/user/icpsrweb
+
+   Smith, Abby. (1999). Why Digitize? Washington, DC: Council on Library & Information Resources. http://www.clir.org/pubs/reports/reports/pub80-smith/pub80.pdf
+• Liu,Y.Q.(2004).Bestpractices,standards,andtechniquesfordigitizinglibrarymaterials: A snapshot of library digitization practice in the US. Online Information Review, 28(5), 338-345.
+http://1.usa.gov/1hqD1dQ
+• JanetGertz.PreservationandSelectionforDigitization.
+     http://bit.ly/1Lk3u4s
+• AssessingTheCostsofConversion(readdigitizationpartinp.10-18)
+     http://www.lib.umich.edu/files/services/dlps/moa4_costs.pdf
+• Brown,M.S.andSealesW.B.(2000).Beyond2DImages:Effective3DImagingforLibrary Materials
+http://bit.ly/1RtJIcb
+1
+ DigitalImagingTutorial
+  https://www.library.cornell.edu/preservation/tutorial/contents.html
+• NorthCarolinaCulturalHeritageCenter:DigitizationGuidelines.
+http://www.digitalnc.org/about/policies/digitization-guidelines/
+• LibraryofCongressTechnicalStandardsforDigitalConversionofTextandGraphicMate- rials
+  http://memory.loc.gov/ammem/about/techStandards.pdf
+DIGITIZATION PROJECTS
+• Google books library projects. (Large scale efforts to scan books in 18 libraries and make them searchable) https://en.wikipedia.org/wiki/Google_Books_Library_Project
+• Michigandigitizationproject(UofMichiganwasoneofGoogle’spartnersfortheGoogle books project).
+http://www.lib.umich.edu/michigan-digitization-project
+• Band,J.(2006).TheGoogleLibraryProject:BothSidesoftheStory.
+  http://quod.lib.umich.edu/p/plag/5240451.0001.002?rgn=main;view=fulltext
+• Opencontentallianceproject.
+  http://www.opencontentalliance.org/
+  https://openlibrary.org/
+
+  ReadabouttheearlyhistoryofDublinCore(DC)metadata:
+Weibel, Stuart. (1995). Metadata: The Foundations of Resource Description. D-Lib Mag- azine, 1(1).
+http://www.dlib.org/dlib/July95/07weibel.html
+• ComparetheDCelementsabovewiththelatestversion:
+Dublin Core Element Set Version 1.1.(note that the number of elements are different) http://dublincore.org/documents/dces/
+• Theprinciplesandpracticalitiesofmetadataforthetwoprominentmetadatainitiatives- Dublin Core Metadata Initiative and IEEE Learning Object Metadata Group:
+Duval, E., Hodgins, W., Sutton, S., Weibel, S. L. (2002). Metadata Principles and Practicali- ties. D-Lib Magazine, 8(4). http://www.dlib.org/dlib/april02/weibel/04weibel.html
+
+ Metadata Encoding and Transmission Standard (METS): Primer and Reference Manual (Read Ch.1 for introduction and Ch.2 for descriptive, administrative, and technical meta- data in METS)
+http://www.loc.gov/standards/mets/METSPrimerRevised.pdf
+• PREMIS (PREservation Metadata: Implementation Strategies) (Read Section 1, and see how it is related to OAIS model that you already learned about) http://www.oclc.org/content/dam/research/activities/pmwg/premis-final.pdf
+• Breeding, M. Understanding the Protocol for Metadata Harvesting of the Open Archives Initiative (We will study this topic in the next week, and this article gives a good overview) http://librarytechnology.org/repository/item.pl?id=9944
+SEMANTIC WEB
+• Greenberg,J.,StuartSutton,S.,&Campbell,D.G.(2003).Metadata:AFundamentalCom- ponent of the Semantic Web. Bulletin of the American Society for Information Science and Technology, 29(4), 16-18. http://www.asis.org/Bulletin/Apr-03/greenbergetal.html
+• Jacob,E.K.(2003).OntologiesandtheSemanticWeb.BulletinoftheAmericanSocietyfor Information Science and Technology, 29(4), 19-22. http://www.asis.org/Bulletin/Apr-03/jacob.html
+
+ EarlyhistoryandmotivationsofOAI-PMH:
+Carl Lagoze, Herbert Van de Sompel. The Open Archives Initiative: Building a Low-Barrier Interoperability Framework. JCDL, pp.54-62, First ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL’01), 2001. http://www.openarchives.org/documents/jcdl2001-oai.pdf
+• Thelatestversion2.0ofOAI-PMH.Seethedetailsofhowserviceprovidersrequestmeta- data records to data providers through HTTP GET requests with example records:
+Van de Sompel, H., and Lagoze, C. The Open Archives Initiative Protocol for Metadata Harvesting. Protocol Version 2.0 of 2002-06-14, Document Version http://www.openarchives.org/OAI/2.0/openarchivesprotocol.htm
+• AnefforttoextendOAI-PMHforinteroperability:
+Rao Shen , Jun Wang , Edward A. Fox. (2002). A Lightweight Protocol between Digital Libraries and Visualization Systems. Second International Workshop on Visual Interfaces to Digital Libraries.
+http://vw.indiana.edu/visual02/Shen.pdf
+1
+  
+• Another effort to extend OAI-PMH. The author, Hussein Suleman (admin and developer for the Union Archive in NDLTD system) critiques components of OAI-PMH and tests the feasibility of extending OAI-PMH:
+Suleman, Hussein and Fox, Edward A. (2002) Beyond Harvesting: Digital Library Compo- nents as OAI Extensions. Technical Report TR-02-25, Computer Science, Virginia Tech. http://eprints.cs.vt.edu/archive/00000625/01/cstr_2002_odl_1.pdf
+• Multiple software tools supporting OAI-PMH version 2.0 (latest version). Some tools are for data providers, some are for service providers. Popular digital archive/library software - DSpace, EPrints, and Fedora all support OAI-PMH. https://www.openarchives.org/pmh/tools/tools.php
+• Easy-to-readoverviewarticle.
+Marshall Breeding. (2002). Understanding the Protocol for Metadata Harvesting of the Open Archives Initiative. Computers in Libraries. September 2002. http://librarytechnology.org/repository/item.pl?id=9944
+
+Significant properties of digital objects and how they might be used for digital preserva- tion.
+    http://bit.ly/1KXzPO7
+2. DigitalpreservationstrategyatBritishLibrary.
+  http://bit.ly/1P9rkYb
+3. Preservationstrategiesfordigitallibraries,LeedsUniversity,UK.
+  http://bit.ly/1PmoY6B
+4. Casestudy:digitalpreservationstrategiesforasmallprivatecollege.
+  http://bit.ly/1WwcUFQ
+5. DigitalpreservationpoliciesattheOdumArchive,UNC,ChapelHill.
+  http://bit.ly/1OoDfkB
+
+  1. Easy-to-readsummaryoffileformatsandpreservationissues.
+     http://bit.ly/1Ma4VGr
+2. Comprehensiveexplanationaboutdifferentimageformats.
+http://www.1stwebdesigner.com/different-image-formats/
+3. Read8.TheEmulationSolutionforadetailedexplanationofanemulationapproach.
+     http://www.clir.org/pubs/reports/rothenberg/criteria.html
+4. Estimating the risk involved with file formats in terms of preservation purposes (confer- ence proceeding): A Risk Analysis of File Formats for Preservation Planning. http://bit.ly/1RShFmG
+
+
+1. Video: Why Archive the Web? An overview video from the International Internet Preser- vation Consortium, where the Internet Archive is a member. https://www.youtube.com/watch?v=7vfmpSMrDWY
+2. Readabouttherationale,problemsinvolved(cultural,economic,legal,selection,access, etc.), strategies for archiving the Web, protecting such archives’ market value, as well as unresolved issues in the early days of the Web archiving.
+Peter Lyman, Archiving the World Wide Web (2002). Download the paper from Moodle, read pages 38-51.
+3. SeethecomparsionsofdifferentWebarchivingapproachesincludingintensivevs.exten- sive approach, cost vs. quality, etc. See especially the comparison between the archiving efforts of the Internet Archive and Bibliotheque nationale de France (BNF) regarding 2002 French elections as a use case.
+Julien Masanees, Web Archiving Methods and Approaches - A Comparative Study (2005). Download the paper from Moodle.
+4. ReadaboutabitmoreintelligentWebcrawlingapproachcalled"focusedcrawling"aswell as the idea of "tunneling" approach.
+Donna Bergmark, Carl Lagoze, and Alex Sbityakov. Focused Crawls, Tunneling, and Digital Libraries (2002). Download the paper from Moodle.
+1
+  
+5. (Optional Reading) if you’re interested in the fundamental idea of the PageRank algo- rithm, which is the basis for the Google search engine, read this paper. (In a simple term, a webpage that is linked by many other webpages will have higher PageRank score. Also, a webpage that is linked by another webpage with a high PageRank score, will also have a higher score.)
+Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999) The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford In- foLab. http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
+or download "page.pdf" from Moodle.
+
+Preparing the workforce for digital curation (2015).pdf.
+Now is the Future Now.pdf.
+

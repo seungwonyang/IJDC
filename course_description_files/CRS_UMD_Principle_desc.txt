@@ -1,0 +1,64 @@
+Principles of Digital Curation
+
+This course explores various dimensions and contexts of digital curation. For the purpose of this class, digital curation encompasses all activities involving the management, representation, and preservation of both born-digital and turned- digital information for current and future use. We shall reflect on current efforts that respond to the opportunities and the attendant challenges and demands of ever-increasing digital data and networked information infrastructure. To do this, we shall also look into the infrastructure necessary for handling digital collections as well as the knowledge and skills necessary for effective management of digital curation systems and programs.
+This course will take a comparative approach in examining the principles, standards, and practices that institutions apply over digital collections. While traversing various forms and practices—from institutional repositories, digital libraries, cyberinfrastructure, and virtual archives to practices of digital preservation, data curation, electronic records management, web archiving and digital assets management—we shall examine the role of electronic and networked technology in the long-term preservation of and access to digital assets and digital heritage collections. As a foundation course for the Curation and Management of Digital Assets (CMDA) certificate, this course is designed to provide students with a broad understanding of current trends, issues, and challenges in managing digital collections, as well as a greater appreciation of the changing landscape of digital collections contemporary landscape.
+
+This course presents an introductory overview for the CMDA program with the goal of providing a framework for digital curators in training by introducing key concepts, models, and skills.
+
+Identify and assess key models, strategies, and standards for digital curation;
+● Articulate an understanding of key concepts and approaches to digital
+preservation;
+● Evaluate digital curation policies and methods for organizational
+implementation in designing plans for the stewardship of digital assets;
+● Develop a basic conceptual model about cloud computing infrastructure that
+supports digital curation;
+● Identify resources that support professional, digital curation practices in
+various sorts of organizations;
+● Identify and assess the data needs of a designated community;
+● Create a digital curation plan for an institution and/or a collection, prioritize
+recommendations, and communicate recommendations to stakeholders.
+
+Digital Curation: Introductions and Definitions
+● Neil Beagrie, “Digital Curation for Science, Digital Libraries, and Individuals,” International Journal of Digital Curation 1(1) (2006): 3-16, http://ijdc.net/index.php/ijdc/article/view/6/2.
+● Selections from Margaret Hedstrom, et al., “Preparing the Workforce for Digital Curation,” National Academies Press (2015), http://www.nap.edu/download.php?record_id=18590.
+● Elizabeth Yakel, “Digital Curation,” OCLC Systems and Services 23(4) (2007): 335-340.
+● Christine Borgman (2015), “Provocations,” in Big Data, Little Data, No Data (MIT Press).
+Curation in the Cloud: The Concepts and Basics of Infrastructure
+● Brian Aitken, Patrick McCann, Andrew McHugh, and Kerry Miller (2012), “Digital Curation and the Cloud Final Report” (JISC white paper), http://www.webarchive.org.uk/wayback/archive/20140616164656/http:/ /www.jisc.ac.uk/whatwedo/programmes/preservation/CurationCloud.aspx.
+● Daniel Pitti (2005), “Technology and the Transformation of Archival Description,” Journal of Archival Organization 3:9-22.
+● Charles Severance, “Programming on the Web” and “HTML and CSS” from Using Google App Engine (O’Reilly Media, 2009).
+    1
+Digital Preservation: Open Archival Information Systems, or, the OAIS Reference Model
+● Brian F. Lavoie, The Open Archival Information System Reference Model: Introductory Guide, January 2004. Available: http://www.dpconline.org/docs/lavoie_OAIS.pdf.
+● Mary Vardigan and Cole Whiteman, “ICPSR meets OAIS: applying the OAIS reference model to the social science archive context,” Archival Science 7 (2007): 73–87. doi: 10.1007/s10502-006-9037-z
+Acquiring and Appraising Content
+● Angus Whyte and Andrew Wilson, (2010) "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre. http://www.dcc.ac.uk/resources/how-guides.
+● Ross Harvey and Dave Thompson, (2010) “Automating the Appraisal of Digital Materials,” Library HiTech 28(2): 313-322.
+Submitting and Ingesting: SIPs and Formats
+● UC Libraries. Preparing to Submit Objects to the Digital Preservation Repository.
+http://www.cdlib.org/services/uc3/docs/PreparingForDPRSubmission.pdf.
+● Library of Congress, “Sustainability of Digital Formats,”
+http://www.digitalpreservation.gov/formats/intro/intro.shtml.
+A Matter of Trust: Characteristics of Trusted Digital Repositories, Assessing, and
+Auditing
+● Christoph Becker and Andreas Rauber, (2011) “Decision Criteria in Digital Preservation: What to Measure and How,” Journal of the American Society for Information Science and Technology 62(6): pp. 1009–1028.
+● Requirements for Bodies Providing Audit and Certification of Candidate Trustworthy Digital Repositories, 2014 (Magenta Book). URL: http://public.ccsds.org/publications/archive/652x1m2.pdf.
+Significant Properties: Context and Metadata
+● Simone Sacchi and Jerome P. McDonough, “Significant Properties of Complex Digital Artifacts: Open Issues from a Video Game Case Study,” Proceedings of the iConference 2012, February 7–10, 2012, Toronto, Ontario, Canada.
+● Gareth Knight, “Significant Properties of Email,” JISC (2010). URL: http://www.significantproperties.org.uk/email-testingreport.pdf.
+● Ryan Edge and Myung-Ja Han, “Building a Sustainable Metadata Workflow for Audio-visual Resources: University of Illinois Library’s Medusa Digital Preservation Repository,” IFLA (2013).
+      2
+Research Data Curation and Data Management Plans
+● Dharma Akmon, Ann Zimmerman, Morgan Daniels, and Margaret Hedstrom, (2011) “The application of archival concepts to a data-intensive environment: working with scientists to understand data management and preservation needs,” Archival Science 11 (3-4): pp. 329-348.
+● Jake Carlson and M. Witt, M. (2007). Conducting a Data Interview. Presented at the IDCC, Washington DC, December 12.
+● Daniel Noonan and Tamar Chute (2014), “Data Curation and the University Archives,” American Archivist 77:201-240.
+Archival Storage Management and Repository Technologies
+● Reagan W. Moore, Arcot Rajasekar, and Michael Wan (2005), “Data Grids, Digital Libraries, and Persistent Archives: An Integrated Approach to Sharing, Publishing, and Archiving Data,” Proceedings of the IEEE (93/3).
+● David Rosenthal (2010), “Keeping Bits Safe: How Hard Can it Be?” Queue 8/10 at http://queue.acm.org/detail.cfm?id=1866298.
+Disseminating: Uses and Users of Digital Collections
+● David Seaman, “Discovering the Information Needs of Humanists When Planning an Institutional Repository,” D-Lib Magazine 17 (3/4) (March/April 2011). http://www.dlib.org/dlib/march11/seaman/03seaman.html.
+● Gobinda Chowdhury, (2010),"From digital libraries to digital preservation research: the importance of users and context", Journal of Documentation 66(2) (2010): pp. 207-223.
+● Nancy Fried Foster and Susan Gibbons, “Understanding Faculty to Improve Content Recruitment for Institutional Repositories,” D-Lib Magazine 11(1) (2005), http://www.dlib.org/dlib/january05/foster/01foster.html.
+Access Systems: Digitization Management
+● Paul Conway (2013), “Preserving Imperfection: Assessing the Incidence of Digital Imaging Error in Hathi Trust,” Preservation, Digital Technology, & Culture 42 (1): 17-30. http://deepblue.lib.umich.edu/handle/2027.42/99522
+● Melissa Terras (2008), “Digital Images and Memory Institutions,” in Digital Images for the Information Professional (Ashgate), 99-139.

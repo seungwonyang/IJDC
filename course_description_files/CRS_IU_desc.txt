@@ -1,0 +1,134 @@
+DIGITAL CURATION 
+
+Upon successful completion of this course, students should be able to: 
+• Demonstrate  knowledge  of  research,  policy  and  current  practice  in  curating  and  preserving  digital data; 
+• Reflect on researchers’ and practitioners’ realQworld experiences in performing digital curation; 
+• Demonstrate  knowledge  of  the  Digital  Curation  Centre  (DCC)  Curation  Lifecycle  Model  and  be 
+able to apply it as a framework for understanding digital curation in various contexts; and 
+become familiar with digital curation computing environments and curating digital materials based on hands-on experience
+
+Week 1 – January 12, 2016  Topic: Overview of Class and Digital Curation  Required reading:  
+• Syllabus  Discussion reading: 
+• Abbott, D. (2008). "What is Digital Curation?". DCC Briefing Papers: Introduction to  Curation. Edinburgh: Digital Curation Centre. Handle: 1842/3362. Available online:  http://www.dcc.ac.uk/resources/briefingQpapers/introductionQcuration  
+• Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital  Curation, 3(1), 134Q140. 
+• Yakel, E. (2007). Digital curation. OCLC Systems & Services: International digital library  perspectives, 23(4), 335Q340. 
+ 
+Week 2 – January 19, 2016  Topic: Create or Receive (Part I) and the National Digital Newspaper Program  Discussion reading: 
+• Harvey, D. R. (2010). Digital curation: a howHtoHdoHit manual. New York: NealQSchuman  Publishers. [On Reserve at Wells Library] 
+• Day, M. (2005). Metadata, DCC Digital Curation Manual, S.Ross, M.Day (eds).  http://www.dcc.ac.uk/resource/curationQmanual/chapters/metadata/  
+• Caplan, P. (2006). Preservation Metadata, DCC Digital Curation Manual, S.Ross, M.Day (eds),  http://www.dcc.ac.uk/resource/curationQmanual/chapters/preservationQmetadata  
+• Pennock, M. (2006b). Managing Digital Cultural Heritage Resources: From Digital Creation  to Digital Curation. Information Scotland, 4(5).  http://www.slainte.org.uk/publications/serials/infoscot/vol4(5)/vol4(5)article6.htm 
+Workshop reading: 
+• National Digital Newspaper Program: A partnership between the Library & the  National Endowment for the Humanities (National Digital Newspaper Program)  http://www.loc.gov/ndnp/  
+• About the Program (National Digital Newspaper Program) (Library of Congress)  http://www.loc.gov/ndnp/about.html  
+• Chronicling America (Library of Congress) http://chroniclingamerica.loc.gov  
+• Sweeney, M. (2007). The National Digital Newspaper Program: Building on a Firm Foundation. 
+Serials Review, 33(3), 188Q189. http://dx.doi.org/10.1080/00987913.2007.10765120  
+         
+ 
+9 
+Week 3 – January 26, 2016 
+Topic: Create or Receive (Part II) and Getting Materials “Ready” for Digital Curation  Discussion reading: 
+• Consultative Committee for Space Data Systems (CCSDS). (2002). Reference model for an open  archival information system (OAIS) recommendation for space data system standards; blue  book (Blue Book. Washington, DC: CCSDS Secretariat.  http://public.ccsds.org/publications/archive/650x0b1s.pdf  
+• Miller, K. (2012). 5 Steps to Research Data Readiness. DCC Briefing Papers. Edinburgh: Digital  Curation Centre. http://www.dcc.ac.uk/resources/briefingQpapers/fiveQstepsQresearchQdataQ readiness#sthash.iXgAGjSH.dpuf 
+• Walters, T., & Skinner, K. (2011). New roles for new times: Digital curation for preservation.  Association of Research Libraries.  https://vtechworks.lib.vt.edu/bitstream/handle/10919/10183/nrnt_digital_curation17mar11.p df?sequence=1&isAllowed=y 
+• Beagrie, N., Lavoie, B., & Woollard, M. (2010). Keeping Research Data Safe 2: Final Report.  JISC. http://repository.essex.ac.uk/2147/1/keepingresearchdatasafe2.pdf 
+• Harvey,  D.  R.  (2010).  Digital  curation:  a  howHtoHdoHit  manual.  New  York:  NealQSchuman  Publishers. [On Reserve at Wells Library] 
+• Jones, S. (2009). A report on the range of policies required for and related to digital curation,  version 1.2, (DCC, Glasgow).  http://www.dcc.ac.uk/sites/default/files/documents/adocs/reports/DCC_Curation_Policies_Rep ort.pdf 
+Lab reading: 
+• Smith, M., Barton, M., Bass, M., Branschofsky, M., McClellan, G., Stuve, D., ... & Walker, J. H.  (2003). DSpace: An Open Source Dynamic Digital Repository. DHLib Magazine, 9(1).  http://www.dlib.org/dlib/january03/smith/01smith.html 
+ 
+Week 4 – February 2, 2016  Topic: Appraise and Select (Part I) and Web Archiving at the Library of Congress  Discussion reading: 
+• Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for  Curation". DCC HowQto Guides. Edinburgh: Digital Curation Centre. Available online:  http://www.dcc.ac.uk/sites/default/files/documents/How%20to%20Appraise%20and% 20Select%20Research%20Data.pdf 
+• Harvey, R. (2007). Appraisal and Selection in DCC Digital Curation Manual, Ross, S. &, Day, M.  (eds). http://www.dcc.ac.uk/resource/curationQmanual/chapters/appraisalQandQselection  
+Workshop reading: 
+• Web Archiving (The Library of Congress) http://www.loc.gov/webarchiving/  
+• Collections with Archived Web Sites (The Library of Congress) 
+http://loc.gov/websites/collections/ 
+• Brown, A. (2006). Archiving websites: a practical guide for information management 
+professionals. London: Facet. [On reserve at Wells Library] 
+     
+ 
+10 
+Week 5 – February 9, 2016 
+Topic: Appraise and Select (Part II) and Architectural, Engineering and Landscape Records at  the Library of Congress 
+Discussion reading: 
+• Esanu, J., Davidson, J., Ross, S., & Anderson, W. (2004). Selection, appraisal, and retention of  digital scientific data: Highlights of an ERPANET/CODATA workshop. Data Science Journal, 3,  227Q232.  
+• Gutmann, M., Schürer, K., Donakowski, D., & Beedham, H. (2004). The selection, appraisal, and  retention of social science data. Data Science Journal, 3, 209Q221. 
+Workshop reading: 
+• Historic American Buildings Survey/Historic American Engineering Record/Historic  American Landscapes Survey. https://www.loc.gov/collections/historicQamericanQ buildingsQlandscapesQandQengineeringQrecords/aboutQthisQcollection/ 
+ 
+Week 6 – February 16, 2016  Topic: Ingest and American Folklife Center Audio and Visual Collections at the Library of  Congress 
+Discussion reading: 
+• Depositing and ingesting Digital Objects. Digital Curation Centre.  http://www.dcc.ac.uk/resources/external/toolsQservices/depositingQandQingestingQdigitalQ objects [Note: explore all of the resources listed on the website that are designed to help digital  curators incorporate new content into a digital repository, from collectionQbuilding through data  transfer and the accessioning process] 
+Workshop reading: 
+• Home. The American Folklife Center at the Library of Congress.  http://www.loc.gov/folklife/index.html 
+• About Us. The American Folklife Center at the Library of Congress.  http://www.loc.gov/folklife/aboutafc.html 
+Lab reading: 
+• Kirschenbaum, M.G., Ovenden, R., & Redwine, G. (2010). Digital forensics and bornHdigital  content in cultural heritage collections. Council on Library and Information Resources. Retrieved  from: http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf.  
+• Lee,  C.,  Kirschenbaum,  M.  G.,  Chassanoff,  A.,  Olsen,  P.,  &  Woods,  K.  (2012).  BitCurator:  Tools  and  Techniques  for  Digital  Forensics  in  Collecting  Institutions.  DHLib  Magazine,  18(5).  http://www.dlib.org/dlib/may12/lee/05lee.html 
+• Olsen, P. (2013). Building a Digital Curation Workstation with BitCurator (update).  http://www.bitcurator.net/buildingHaHdigitalHcurationHworkstationHwithHbitcuratorHupdate/ 
+ 
+Week 7 – February 23, 2016  Topic: Preservation Action (Part I) and the Media Digitization and Preservation Initiative  (MDPI) 
+Discussion reading: 
+• Rothenberg, J. (1999). Avoiding Technological Quicksand: Finding a Viable Technical Foundation  for Digital Preservation. A Report to the Council on Library and Information Resources. Council 
+ 
+11 
+on Library and Information Resources. 
+http://www.clir.org/pubs/reports/reports/rothenberg/pub77.pdf 
+• Kenney, A. R., & Rieger, O. (2000). Moving theory into practice: digital imaging for 
+libraries and archives. Research Libraries Group.  
+• Brylawski, S., Lerman, M., Pike, R., and Smith, K. (2015). ARSC Guide to Audio 
+Preservation. A Report to the Council on Library and Information Resources. Council on Library 
+and Information Resources. http://www.clir.org/pubs/reports/pub164/pub164.pdf  Workshop reading:  
+• Media Preservation Initiative Task Force. (2011). Meeting the Challenge of Media Preservation:  Strategies and Solutions. Indiana University Bloomington. https://mdpi.iu.edu/doc/strategiesQ solutions.pdf 
+• MDPI Initiative. https://mdpi.iu.edu/initiative/index.php 
+• MDPI Process. https://mdpi.iu.edu/process/index.php 
+• MDPI Timeline. https://mdpi.iu.edu/timeline/index.php 
+ 
+ 
+Week 8 – March 1, 2016  Topic: The Media Digitization and Preservation Initiative (MDPI)   Required reading: 
+• Casey, M. (2009). Media Preservation Survey: A Report. Indiana University Bloomington.  https://mdpi.iu.edu/doc/survey.pdf 
+ 
+ 
+Week 9 – March 8, 2016  Topic: Preservation Action (Part II) and Digital Preservation  Discussion reading: 
+• Galloway, P. (2004). Preservation of digital objects. Annual Review of Information  Science and Technology, 38, 549Q590.  
+• Yakel, E. (2001). Digital preservation. Annual Review of Information Science and Technology,  35, 337Q378. 
+• Lauriault, T. P., Craig, B. L., Taylor, D. F., & Pulsifer, P. L. (2007). Today's data are part  of tomorrow's research: Archival issues in the sciences. Archivaria, 64, 123Q179. 
+ 
+Week 10 – March 15, 2016 
+SPRING BREAK  
+ 
+ 
+Week 11 – March 22, 2016  Topic: Preservation Action (Part III) and Digital Preservation  Required reading: 
+• McGovern, N. Y., & McKay, A. C. (2008). Leveraging shortQterm opportunities to  address longQterm obligations: A perspective on Institutional Repositories and Digital  Preservation Programs. Library trends, 57(2), 262Q279. 
+• McGovern, N. Y., & Skinner, K. (2012). Aligning National Approaches to Digital  Preservation (Tallinn, Estonia) Educopia Institute Publ.  https://educopia.org/sites/educopia.org/files/publications/Aligning_National_Approac hes_to_Digital_Preservation.pdf 
+ 
+12 
+• Pennock, M. (2006a). Digital Preservation: Continued Access to Authentic Digital  Assets. JISC. 
+http://www.dcc.ac.uk/sites/default/files/documents/publications/digitalpreservationb
+p.pdf  Lab reading: 
+• Rajasekar, A., Moore, R., Hou, C. Y., Lee, C. A., Marciano, R., de Torcy, A., ... & Tooby,  P. (2010). iRODS Primer: integrated ruleQoriented data system. Synthesis Lectures on  Information Concepts, Retrieval, and Services, 2(1), 1Q143. 
+ 
+  Week 12 – March 29, 2016  Topic: Store  Discussion reading: 
+• Consultative Committee for Space Data Systems (CCSDS). (2002). Reference model for an open  archival information system (OAIS) recommendation for space data system standards; blue  book (Blue Book. Washington, DC: CCSDS Secretariat.  http://public.ccsds.org/publications/archive/650x0b1s.pdf  
+• Storage and security. MANTRA. Research Data Management Training. University of  Edinburgh. http://datalib.edina.ac.uk/mantra/storageandsecurity/ 
+ 
+Week 13 – April 5, 2016  Topic: Access, Use and Reuse (Part I) and SEAD Project   Discussion reading: 
+• Faniel, I. M., & Jacobsen, T. E. (2010). Reusing scientific data: How earthquake  engineering researchers assess the reusability of colleagues’ data. Computer Supported  Cooperative Work (CSCW), 19(3Q4), 355Q375. 
+• Borgman, C. L. (2012). The conundrum of sharing research data. Journal of the  American Society for Information Science and Technology, 63(6), 1059Q1078. 
+• Tenopir, C., Allard, S., Douglass, K., Aydinoglu, A. U., Wu, L., Read, E., ... & Frame, M.  (2011). Data sharing by scientists: practices and perceptions. PloS one, 6(6), e21101. 
+Workshop reading: 
+• Sustainable Environment Actionable Data (SEAD). http://seadQdata.net   
+Week 14 – April 12, 2016 
+Topic: Access, Use and Reuse (Part II)  Discussion reading: 
+• Rusbridge, C. (2007). Create, curate, reQuse: The expanding life course of digital  research data. 
+• Corti, L., and Thompson, P. (2012). Secondary analysis of archived qualitative data, in C. Seale, G.  Gobo, F. Gubrium and D. Silverman (eds.) Qualitative Research Practice, London: Sage  Publications Ltd. 
+• Faniel, I. M., Kriesberg, A., & Yakel, E. (2015). Social scientists' satisfaction with data reuse.  Journal of the Association for Information Science and Technology. 
+• Yakel., E., Frank, R.D., & Suzuka, K. (2015, November). Educational Records of Practice:  Preservation and Access Concerns. Paper presented at 12th International Conference on Digital  Preservation (iPRES’2015), Chapel Hill, NC. 
+ 
+13 
+Week 15 – April 19, 2016 
+Topic: Transform  Discussion reading: 
+• File formats and transformation. MANTRA. Research Data Management Training.  University of Edinburgh  http://datalib.edina.ac.uk/mantra/fileformatandtransformation/ 
+  Week 16 – April 26, 2016  FINAL PRESENTATIONS 

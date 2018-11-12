@@ -1,0 +1,119 @@
+Digital Curation
+
+This course provides an overview of digital curation as a lifecycle management strategy to manage, evaluate, collect, organize, preserve, share, and support the use and re-use of digital assets. The course introduces digital curation models, infrastructures, standards, initiatives, and technical tools; and covers the concepts and skills involved in creating and managing an integrated and sustainable digital cultural heritage repository as a trusted body of digital information for current and future use.
+
+Identify and describe the basic concepts of digital curation and preservation
+Create outreach tools to educate targeted audience about the basic functions/processes of digital curation and preservation
+Interpret and apply professional standards and requirements relevant to digital curation and preservation
+Demonstrate the understanding of data management planning process to work with digital content creators
+Analyze and evaluate digital curatorial activities and technical tools
+
+Course Introduction
+Course Syllabus; Assignments; Group Projects
+Class 2 (1/17)
+Introduction to Digital Curation
+Harvey. "Introduction." "Curation and Curators." "Sharing Knowledge and Collaborating." Digital Curation, pp. 3-18, 55- 63, 93-102.
+Beagrie, Neil. "Digital Curation for Science, Digital Libraries, and Individuals." IJDC 1/1 (Autumn 2006): 3-16.
+Constantopoulos, Panos, and Costis Dallas. "Aspects of a Digital Curation Agenda for Cultural Heritage." 2008 IEEE International Conference on Distributed Human-Machine Systems. Athens, Greece: IEEE.
+Dallas, Costis. "An Agency-oriented Approach to Digital Curation Theory and Practice." International Cultural Heritage Informatics Meeting (ICHIM07): Proceedings, J. Trant and D. Bearman (eds). Toronto: Archives & Museum Informatics. 2007. October 24, 2007.
+Yakel, Elizabeth. "Digital Curation." OCLC Systems & Services 23/4 (2007): 335-340.
+ 
+Class 3 (1/24)
+Conceptual Models
+Harvey. "Conceptual Models." Digital Curation, pp. 33-44. Higgins, Sarah. “The DCC Curation Lifecycle Model.” IJDC 3/1
+4
+                                   (2008).
+Constantopoulos, Panos et al. "DCC&U: An Extended Digital
+Curation Lifecycle Model." IJDC 1/4 (2009): 43-45.
+Lavoie, Brian. "Meeting the Challenges of Digital Preservation: The OAIS Reference Model." OCLC Newsletter, No. 243 (January/February 2000): 26-30.
+         Class 4 (1/31)
+         Data Creation and Management
+      Harvey. "Defining Data." "Designing Data." "Creating Data." Digital Curation, pp. 45-51, 105-130.
+Brown, Adrian. “Selecting File Formats for Long-Term Preservation.” London: The National Archives (Auguest 2008).
+Cunningham, Adrian. "Digital Curation/Digital Archiving: A View from the National Archives of Australia." American Archivist 71/2 (Fall/Winter 2008): 530-543.
+Frigoli, Julia et al. "Developing and Communicating Responsible Data Management Policies to Trainees and Colleagues." Science and Engineering Ethics, 2010 Apr 27.
+Schmidt, Lisa, Cynthia Ghering, and Shawn Nicholson. "Digital Curation Planning at Michigan State University." Library Resources & Technical Services 55/2 (April 2011): 104-118.
+           Class 5 (2/7)
+        Digital Appraisal and Acquisition
+       Harvey. "Deciding What Data to Keep." "Ingesting Data." Digital Curation, pp.131-159.
+Digital Preservation Coalition. "Decision Tree for Selection of Materials for Long-Term Retention." (2006)
+Faundeen, John and Lyndon R. Oleson. “Scientific Data Appraisals: The Value Driver for Preservation Efforts.” PV 2007 Conference.
+Harvey, Ross. "Appraisal and Selection." DCC Briefing Paper (2007).
+Waugh, Andrew. "The Design and Implementation of an Ingest Function to a Digital Archive." D-Lib 13/11-12 (November/December 2007).
+Witt, Michael and Jake R. Carlson. "Conducting a Data Interview." Purdue Libraries. Libraries Research Publication (2007).
+    5
+         Class 6 (2/14)
+       Digital Repository Infrastructures (I)
+      Data management plan assignment due
+Harvey. "Storing Data." Digital Curation, pp. 181-198.
+Baker, Karen S., and Lynn Yarmey. "Data Stewardship: Environmental Data Curation and a Web-of-Repositories." IJDC 2/4 (2009): 12-27.
+Gladney, Henry M. "Long-Term Preservation of Digital Records: Trustworthy Digital Objects." American Archivist 72 (Fall/Winter 2009): 401-435.
+Knight, Gareth, and Mark Hedges. "Modelling OAIS Compliance for Disaggregated Preservation Services." IJDC 1/2 (2007): 62-72.
+LeFurgy, William. "Levels of Service for Digital Repositories." D-LIb Magazine 8/5 (May 2002).
+Ross, Seamus and Andrew McHugh. “The Role of Evidence in Establishing Trust in Repositories,” D-Lib12, 7/8 (July/August 2006).
+           (2/21)
+             NO CLASS (Administrative Monday)
+                        Class 7 (2/28)
+  Digital Repository Infrastructures (II)
+Caplan, Priscilla. "The Florida Digital Archive and DAITSS: A Model for Digital Preservation." Library Hi Tech 28/2 (2010): 224-234.
+Lynch, Clifford A. "Institutional Repositories: Essential Infrastructure for Scholarship in the Digital Age" ARL Bimonthly Report 226 (February 2003): 1-7.
+Smith, MacKenzie et al. "DSpace: An Open Source Dynamic Digital Repository." D-Lib 9/1 (2003).
+Staples, Thornton et al. "The Fedora Project: An Open-source Digital Object Repository Management System." D-Lib 9/4 (2003).
+         (3/6)
+                 NO CLASS (Spring Recess)
+                        Class 8 (3/13)
+       Digital Preservation Strategies/Solutions
+       Harvey. "Preservation Planning and Policy." Digital Curation, pp. 83-92.
+   6
+                       (I)
+            Brown, Adrian. "Developing Practical Approaches to Active Preservation." IJDC 1/2 (2007): 3-11.
+Hitchcock, Steve, and David Tarrant. "Characterising and Preserving Digital Repositories: File Format Profiles." Ariadne 30/66 (2011).
+Jantz, Ronald, and Michael J. Giarlo. "Digital Preservation: Architecture and Technology for Trusted Digital Repositories." D-Lib 11/6 (June 2005).
+Kenney, Anne R. and Nancy Y. McGovern. “The Five Organizational Stages of Digital Preservation.” In Digital Libraries: A Vision for the 21st Century: A Festschrift in Honor of Wendy Lougee on the Occasion of her Departure from the University of Michigan. Ann Arbor, MI: MPublishing, University of Michigan Library, 2003.
+         Class 9 (3/20)
+  Digital Preservation Strategies/Solutions (II)
+  Harvey. "Preserving Data." Digital Curation, pp.161-179. Barateiro, Jose et al. “Designing Digital Preservation Solutions:
+A Risk Management-Based Approach.” IJDC 5/1 (2010): 4-17. Digital Preservation Coalition. Handbook. Section 4.3.2.
+Preservation Strategies.
+Paradigm Project. Workbook on Digital Private Papers. Chapter 8: Digital Preservation Strategies.
+Rosenthal, David S.H. "Format Obsolescence: Assessing the Threat and the Defenses." Library Hi Tech 28/2 (2010): 195- 210.
+van der Hoeven et al. "Emulation for Digital Preservation in Practice: The Results." IJDC 2/2 (2007): 123-132.
+           Class 10 (3/27)
+              Data Contextualization & Representation
+            Digital curation project case study due
+Harvey. "Description and Representation of Information," pp. 65-82.
+Bekiari, C., Constantopoulos, P., & Doerr, M. "Information Design for Cultural Documentation." DELOS Conference 2007, Pisa.
+Dappert, Angela, and Markus Enders, “Using METS, PREMIS and MODS for Archiving eJournals,” D-Lib 14/9-10
+    7
+                                   (September/October 2008).
+Gelernter & Lesk. "Use of Ontologies for Data Integration and
+Curation." IJDC 1/6 (2011): 70-78.
+Kim, Yunhyong and Seamus Ross. "Automating Metadata Extraction: Genre Classification." Proceedings of the UK e- Science All Hands Meeting, Nottingham, UK. (2006).
+         Class 11 (4/3)
+  Data Use and Reuse
+Case study presentations
+Harvey. "Using and Reusing Data," Digital Curation, pp. 199- 216.
+Carlson, Samulelle and Ben Anderson. "What Are Data? The Many Kinds of Data and Their Implications for Data Re-use." Journal of Computer-Mediated Communication 12/2 (2007).
+Charlesworth, Andrew. "Digital Curation, Copyright, and Academic Research." IJDC 1/1 (Autumn 2006): 17-32.
+Faniel, Ixchel M. and Ann Zimmerman. "Beyond the Data Deluge: A Research Agenda for Large-Scale Data Sharing and Reuse." IJDC 1/6 (2011): 58-69.
+van den Heuvel, Charles et al. "Annotators and Agents in a Web- based Collaboratory: Disclosing Cartographical Collections." J. Trant and D. Bearman (eds). Museums and the Web 2010: Proceedings. Toronto: Archives & Museum Informatics. March 31, 2010.
+             Class 12 (4/10)
+              Digital Scholarship: Digital Humanities and e-Science
+            Case study presentations
+Harvey. "The Changing Landscape." Digital Curation, pp. 19- 31.
+Altman, Micah et al. "Digital Preservation through Archival Collaboration: The Data Preservation Alliance for the Social Sciences." American Archivist 72 (Spring/Summer 2009): 170- 184.
+ARL Joint Task Force on Library Support for E-Science. “Agenda for Developing e-Science in Research Libraries.” November 2007.
+O'Donoghue, Jean, and Jano I. van Hemert. "Using the DCC Lifecycle Model to Curate a Gene Expression Database: A Case
+    8
+Study." IJDC 3/4 (2009): 57-70.
+Svensson, Patrik . "The Landscape of Digital Humanities."
+Digital Humanities Quarterly 4/1 (Summer 2010).
+Vardigan, Mary and Cole Whiteman. “ICPSR meets OAIS: Applying the OAIS Reference Model to the Social Science Archive Context." Archival Science 7 (2007): 73–87.
+Westra, Brian. “Data Services for the Sciences: A Needs Assessment.” Ariadne 64 (2010).
+Class 13 (4/17)
+Digital Preservation Outreach Group Projects
+Case study presentations
+Class 14 (4/24)
+Preservation Week Presentations
+Digital preservation outreach presentation due
+Digital preservation outreach written assignment due by April 27

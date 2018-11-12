@@ -1,0 +1,138 @@
+html,body{
+	width: 1700px;
+    height: 3000px;
+}
+.conatinerView{
+	height:100%;
+	width:100%;
+	
+}
+.ChartView{
+	height:100%;
+	width:75%;
+	float:left;
+}
+.chartOptions{
+	height:0.5%;
+	width:25%;
+	float:left;
+	padding-left:110px
+}
+#heatmap{
+	height:100%;
+	width:100%;
+}
+.histoView{
+	height:100%;
+	width:33%;
+	float:left;
+}
+.histoOptions{
+	height:0.5%;
+	width:50%;
+	float: left;
+}
+#histogram{
+	height:97%;
+	width:100%;
+}
+.docView{
+	height:100%;
+	width:32%;
+	float:left;
+}
+.heatmap {
+  font-size: 8px;
+  font-family: Arial;
+}
+
+rect.bordered {
+  stroke: #E6E6E6;
+  stroke-width:2px;   
+}
+text.mono {
+  font-size: 8px;
+  font-family: Arial;
+  fill: gray;
+}
+/* text.topic {
+  font-size: 8px;
+  font-family: Arial;
+  fill: gray;
+} */
+
+text.legendElement {
+  font-size: 10px;
+}
+text.hover {
+  font-weight: bold;
+  fill: red;
+  font-background: #000;
+}
+.heatmap_tooltip {
+  text-align: center;
+  font-family: Arial;
+  font-size: 7pt;
+  color: white;
+  position: relative;
+  background: gray;
+  border: 2px solid green;
+  padding: 2px;
+  border-radius: 4px ;
+  border-top-left-radius: 4px ;
+  border-top-right-radius: 4px ;
+  border-bottom-right-radius: 4px ;
+  border-bottom-left-radius: 4px ;
+  width: 50px;
+  z-index:10000;
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  opacity: 0.7;
+}
+.heatmap_tooltip:after, .heatmap_tooltip:before {
+  top: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+/* .heatmap_tooltip:after {
+  border-color: red;
+  border-top-color: #FFFFF;
+  border-width: 5px;
+  left: 50%;
+  margin-left: -10px;
+} */
+ .heatmap_tooltip:before {
+ border-color: rgba(44, 62, 80, 0);
+    border-top-color: green;
+    border-width: 8px;
+    left: 65%;
+    margin-left: -16px;
+}
+
+    text {
+        font: 10px sans-serif;
+        color: white;
+    }
+    text.value {
+        font-size: 50%;
+        fill: white;
+    }
+
+    .axisHorizontal path{
+        fill: none;
+    }
+
+    .axisHorizontal .tick line {
+        stroke-width: 1;
+        stroke: rgba(0, 0, 0, 0.2);
+    }
+
+    .bar {
+        fill: gray;
+        fill-opacity: .9;
+    }

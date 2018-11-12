@@ -1,0 +1,88 @@
+Digital Curation
+
+This course covers the life-cycle and value-added management of digital content for future use, re-use and access. It addresses strategies, principles, and practices of digital preservation, digital curation, institutional repositories, trusted digital repositories, metadata, and file format, and other digital content management at cultural heritage institutions. The course consists of lectures, guest lectures, tours, student presentations, and group discussion.
+Learning Outcomes of the Course
+To understand fundamental principles and strategies for digital preservation and digital curation of cultural heritage materials;
+To identify major digital preservation projects;
+To understand the characteristics, implementation and evaluation of institutional
+repositories;
+To identify the features of digital curation as a new profession and discipline; and
+To recognize legal, technical, and cultural issues related to digital preservation and
+digital curation in cultural heritage institutions.
+
+Session 1: January 12, 2016
+Topics: Overview of the course; definitions of digital preservation and digital curation; terminology of digital preservation and digital curation.
+Gladney. PDI. Cha 1. Ball. PCIR. Cha 1 & 2.
+Palmer, C. L., Wickett, K. M., Weber, N. M., Muñoz, T., & Renear, A. H. (2013). Foundations of Data Curation: The Pedagogy and Practice of “Purposeful Work” with Research Data. Archive Journal, 3. Retrieved from http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the- pedagogy-and-practice-of-purposeful-work-with-research-data/
+Digital Curation Centre. http://www.dcc.ac.uk (accessed on Jan. 1, 2016).
+Online activity: go to the following site and study the tutorial.
+Cornell University. “Digital Preservation Management Tutorial: Implementing Short-term Strategies for Long-term Problems.” http://www.icpsr.umich.edu/dpm/dpm- eng/timeline/index.html.
+Session 2: January 19, 2016
+Topics: OAIS model, AIP, SIP, DIP; Digital Curation Lifecycle Model.
+Ball. PCIR. Cha 4.
+Lavoie, B. “The Open Archival Information System Reference Model: Introductory Guide (2nd Edition).” DPC Technology Watch Report Series 04-01. October 2014. http://dx.doi.org/10.7207/TWR14-02 (accessed on Jan. 1, 2016).
+2
+Lynch, Clifford. "Institutional Repositories: Essential Infrastructure for Scholarship in the Digital Age," ARL Bimonthly Report, 226 (2003). http://www.arl.org/storage/documents/publications/arl-br-226.pdf (accessed on Jan. 1, 2016).
+Digital Curation Lifecycle Model. http://www.dcc.ac.uk/docs/publications/DCCLifecycle.pdf (accessed on Jan. 1, 2016).
+Higgins, S. (2008). The DCC Curation Lifecycle Model. The International Journal of Digital Curation, 3(1), 134–140.
+Sabharwal, A. 2015. Digital Curation in the Digital Humanities: Preserving and Promoting Archival and Special Collections. Cha 5. Digital curation lifecycle in practice, pp. 95-108.
+Beagrie, N., Charlesworth, A., & Miller, P. (2014). The National Archives Guidance on Cloud Storage and Digital Preservation (No. 1st). Crown. Available at https://www.nationalarchives.gov.uk/documents/archives/cloud-storage-guidance.pdf. Chapter 1 (accessed on Jan. 1, 2016).
+Session 3: January 26, 2016 Group project Part 1 In-class metadata exercise Topics: Metadata in institutional repositories.
+Ball. PCIR. Cha 7 and 8.
+PREservation Metadata Implementation Strategies (PREMIS). Available at http://www.loc.gov/standards/premis (accessed on Jan. 1, 2016).
+Metadata Object Description Schema (MODS). Available at http://www.loc.gov/standards/mods (accessed on Jan. 1, 2016).
+Metadata Encoding and Transmission Standard (METS). Available at http://www.loc.gov/standards/mets (accessed on Jan. 1, 2016).
+Dublin Core Metadata Element Set. Available at http://dublincore.org/documents/dces (accessed on Jan. 1, 2016).
+Session 4: February 2, 2016 Group project Part 2 due Topics: IR implementation; systems tools & applications; presentation of group project Part2.
+Ball. PCIR. Cha 3, 5, and 10.
+Electronic Resource Preservation and Access Network (ERPANET). “Risk Communication Tool.” (2003). http://www.erpanet.org/guidance/docs/ERPANETRiskTool.pdf (accessed on Jan. 1, 2016).
+Browse the PLANET site at http://planets-project.eu/ & read the brochure (2009) at http://planets-project.eu/docs/comms/PLANETS_BROCHURE.pdf (accessed on Jan. 5, 2016).
+3
+Markey, Karen, Soo Young Rieh, Beth St. Jean, Jihyun Kim, and Elizabeth Yakel. “Executive Summary” and “Chapter 9: Discussion of Census Findings.” In Census of Institutional Repositories in the United States: MIRACLE Project Research Findings. Washington DC: CLIR, 2007. http://www.clir.org/pubs/reports/pub140/pub140.pdf (accessed on Jan. 1, 2016).
+Session 5: February 9, 2016
+Topics: IR implementation continued; selection and copyright of digital collections.
+McGinley, M. (2007). The Legal Environment of Digital Curation – A Question of Balance for the Digital Librarian. In L. Kovács, N. Fuhr, & C. Meghini (Eds.), Research and Advanced Technology for Digital Libraries (pp. 534–538). Springer Berlin Heidelberg. Available at http://link.springer.com/chapter/10.1007/978-3-540-74851-9_62 (accessed on Jan. 1, 2016).
+Browse Digital Collections Program. http://www.mcgill.ca/library/find/digitization (accessed on Jan. 1, 2016).
+Explore eScholarship@McGill. http://www.mcgill.ca/library/find/escholarship (accessed on Jan. 1, 2016).
+Canadian Association of Research Libraries Canadian digitization projects. http://www.carl- abrc.ca/en/scholarly-communications/digitization.html (accessed on Jan. 1, 2016).
+Session 6: February 16, 2016
+Topics: Big data, open data, open government initiatives. Guest speaker: TBA
+Wirtz, Bernd W. & Birkmeyer, Steven (2015). Open Government: Origin, Development, and Conceptual Perspectives, International Journal of Public Administration 38 (5): 381- 396.
+Open Government Partnership. http://www.opengovpartnership.org (accessed on Jan. 1, 2016).
+Kitchin, R. (2014). Big Data, new epistemologies and paradigm shifts. Big Data & Society, 1(1).
+Why Data Management. http://whydatamanagement.org (accessed on Jan. 1, 2016).
+Session 7: February 23, 2016 Group project Part 3 IR implementation due Topics: Digital preservation strategy; file format.
+Ball. PCIR. Cha 8 and 9.
+Gladney, PDI. Cha 7.
+Library of Congress. 2013. Sustainability of Digital Formats
+Planning for Library of Congress Collections. http://www.digitalpreservation.gov/formats/
+4
+Go to the PRONOM database: http://apps.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new (accessed on Jan. 1, 2016).
+Park, Eun G. and Oh, Sam. 2012. “Examining Attributes of Open Standard File Formats for Long-term Preservation and Open Access,” Information Technology and Libraries, 31 (4): 44-65.
+Session 8: March 1, 2016 – study break
+Session 9: March 8, 2016
+Topics: Issues on digital repositories; evaluation of digital repositories.
+Ball. PCIR. Cha 11.
+Marill, J. L., & Luczak, E. C. (2009). Evaluation of Digital Repository Software at the
+National Library of Medicine. D-Lib Magazine, 15 (5/6).
+Center for Research Libraries. Trustworthy Repositories Audit & Certification: Criteria and Checklist. Version 1.0. February 2007. http://www.crl.edu/sites/default/files/attachments/pages/trac_0.pdf (accessed on Jan. 1, 2016).
+Digital Curation Centre (DCC) and DigitalPreservationEurope (DPE). Digital Repository Audit Method Based on Risk Assessment (DRAMBORA) toolkit. 1.0 (2007), 1-28. http://www.repositoryaudit.eu (accessed on Jan. 1, 2016).
+Session 10: March 15, 2016 Group project Part 4 In-class IR evaluation exercise Topics: Digital curation education; digital curator as a new professional; eBook, eLearning. Guest speaker: TBA
+Higgins, S. (2011). Digital Curation: The Emergence of a New Discipline. The International Journal of Digital Curation, 6(2), 78–88.
+Molloy, L., Gow, A., & Konstantelos, L. (2014). The DigCurV Curriculum Framework for Digital Curation in the Cultural Heritage Sector. International Journal of Digital Curation, 9(1), 231–241.
+Lee, C. A., & Tibbo, H. R. (2011). Where’s the Archivist in Digital Curation? Exploring the Possibilities through a Matrix of Knowledge and Skills. Archivaria, 72, 123–168.
+What is a Digital Curator? http://www.nypl.org/blog/2011/04/04/what-digital-curator http://www.nypl.org/blog/2011/04/04/what-digital-curator (accessed on Jan. 1, 2016).
+DigCurv at http://www.digcur-education.org/ (accessed on Jan. 1, 2016).
+Digital Curation Blog. http://digitalcuration.blogspot.ca (accessed on Jan. 1, 2016).
+Session 11: March 22, 2016
+Topics: Research and issues on digital preservation and curation; Digital humanity.
+5
+Guest speaker: TBA Gladney. PDI. Cha 2 and 5.
+Browse McGill Digital Humanity Center’s site at http://www.mcgill.ca/digital-humanities (accessed on Jan. 1, 2016).
+UCLA Center for Digital Humanities. http://www.cdh.ucla.edu (accessed on Jan. 1, 2016).
+University College London Center for Digital Humanities. https://www.ucl.ac.uk/dh/ (accessed on Jan. 1, 2016).
+CenterNet at http://digitalhumanities.org/centernet (accessed on Jan. 1, 2016).
+Session 12: March 29, 2016 Presentation 1 of final paper
+Topic: Panel discussion and presentation 1 of Final Paper
+Session 13: April 5, 2016 Presentation 2 of final paper & final paper due Topic: Panel discussion and presentation 2 of final paper.
+Turn in your paper to Prof. Park’s mailbox or email it to epc.park@gmail.com by April 5, 4pm, 2016

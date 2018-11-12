@@ -1,0 +1,255 @@
+Digital Preservation and Curation
+
+We are all aware that digital technologies are changing every aspect of our lives. They have transformed how we create, play, work, and share. Ensuring the long term access to digital materials generated through our use of these technologies has become a cornerstone of the information professions. There is an expectation that information professionals are cognisant of the challenges to the preservation and curation of digital materials and the approaches to addressing them. This course will enable students to acquire just that knowledge.
+This course examines the creation, curation, conservation, and preservation of digital materials in both the public and private sectors and enables students to develop an appreciation of the principles of management of digital information in the context of digital longevity. Students gain an understanding of the organizational, technical, social, and economic challenges encountered when enabling the long-term availability of digital materials. It provides an introduction to key models, workflows (from pre-ingest to dissemination), policies, characteristics of digital repositories, standards, metadata, annotation, audit and certification, technical approaches from hardware preservation to emulation, and future research challenges that need to be addressed if the preservation landscape is to be transitioned out of an arts and craft mode.
+
+Summarizing the challenges and approaches to digital preservation within the context of institutions working with documents and data (demonstrated in class activities and assignments 1, 3, and 4);
+
+describing core research issues and directions in the area of digital curation and preservation (partially demonstrated in assignment 1 and 3 and more fully in assignment 4);
+organising practical activities (e.g. format identification, preservation options identification and assessment) related to digital preservation (demonstrated in class activities and assignment 2, 3 and 4);
+implementing workflow modelling, metadata definition, and ingest process management (demonstrated in class activities and assignment 1, 3 and 4);
+using knowledge related to digital object assessment, and audit and certification of digital repositories to manage curation and preservation processes (demonstrated in class activities and assignment 3 and 4);
+applying a working knowledge of the techniques and practices that underlie digital curation (demonstrated in assignments 2, 3 and 4);
+
+characterize preservation scenarios and identify key issues in given environments (demonstrated in assignments 1, 3 and 4 and in class activities);
+explaining the issues of authenticity, integrity, and reliability in relation to digital preservation and curation (demonstrated in assignment 3 and 4); and
+integrating digital curation and preservation requirements in approaches to defining and establishing a digital repository (demonstrated in assignment 3 and 4).
+
+Introduction to Digital Preservation and Curation
+Team Activity: Damaging files using the Cologne Tool (developed by Prof Manfred Thaller for DELOS Preservation Summer School)
+Discussion Focus: Lessons from file testing and preservation challenges
+Required Reading:
+Yakel, Elizabeth (2007). Digital Curation. OCLC Systems & Services: International Digital Library Perspectives 23, no. 4 (November 6, 2007): 335–40. doi:10.1108/10650750710831466.
+Duranti, L. (1995). Reliability and authenticity: The concepts and their implications. Archivaria 39, 1–10. [e-article]
+
+UNESCO Charter on the preservation of Digital Heritage. Retrieved from
+http://portal.unesco.org/en/ev.php-
+URL_ID=17721&URL_DO=DO_TOPIC&URL_SECTION=201.html
+Team Digital Preservation. (2009, 1 May). Digital Preservation and Nuclear Disaster: An Animation. [Video from Youtube]. Retrieved from http://www.youtube.com/watch?v=pbBa6Oam7-w
+Recommended readings:
+Ross, S. (2006). Approaching digital preservation holistically. In A. Tough and M. Moss (Eds.), Information Management and Preservation. (pp. 115-153). Oxford: Chandos Press. [Available on the course blackboard site.]
+Gantz, J. F. (2008). The diverse and exploding digital universe: An updated forecast of worldwide information growth through 2011. (International Data Corporation (IDC), white paper, pp. 1-15). Retrieved from http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital- universe.pdf
+Supplementary Sources:
+National Library of Australia (2003). UNESCO Guidelines for the preservation of digital heritage. Retrieved from http://unesdoc.unesco.org/images/0013/001300/130071e.pdf
+Tibbo, H. (2003). On the nature and importance of archiving in the digital age. Advances in Computers 57, 1–67. [e-article] http://dx.doi.org.myaccess.library.utoronto.ca/10.1016/S0065- 2458(03)57001-2
+Garrett, J. & Waters, D. (1996). Preserving digital information: Report of the task force on archiving of digital information. (The Commission on Preservation and Access and RLG). Retrieved from http://www.rlg.org/legacy/ftpd/pub/archtf/final-report.pdf.
+Hedstrom, M. (1997). Digital preservation: A time bomb for digital libraries. Computers and the Humanities 31(3), 189-202. Retrieved from http://www.uky.edu/~kiernan/DL/hedstrom.html (also in UNC Library E- Journals)
+Ross, S. (2000). Changing trains at Wigan: Digital preservation and the future of scholarship. (National Preservation Office occasional paper). Retrieved from http://www.bl.uk/blpac/pdf/wigan.pdf
+
+Lecture and Discussion Focus: Information Encoding, Representation, and File Formats
+Team Activity: File Type Identification Challenge
+(Each group will be given a set of files to identify. The names will be meaningless and the file extensions will be deleted. The objective will be to work out what types of files they are, to save them with meaningful names and appropriate extensions, and to explain what tools and strategies your team used to complete the task in coherent, consistent, robust, and documented way.)
+Required Readings:
+Adrian Brown (2008, August). “Selecting File Formats for Long-Term
+  Christoph Becker, iSchool at UToronto Page 9
+Syllabus for INF 2122H: Digital Preservation and Curation
+            Preservation”. Retrieved from
+http://www.nationalarchives.gov.uk/documents/selecting-file-formats.pdf
+Pearson, D. &Webb, C. (2007). Defining File Format Obsolescence: A Risky Journey. IJDC 2008, Vol. 3, No. 1, pp. 89-106. Retrieved from http://www.ijdc.net/index.php/ijdc/article/view/76
+Sites to Review:
+ PRONOM. http://www.nationalarchives.gov.uk/PRONOM/Default.aspx
+ Sustainability of digital formats.
+http://www.digitalpreservation.gov/formats/index.shtml
+ Review the visual explanations of file formats at http://imgur.com/a/MtQZv#0
+o Portable Network Graphics (PNG) v1.03
+o TIF: Tagged Image File Format v1.00
+o GIF: the Graphics Interchange Format v1.00 o JFIF: the JPEG File Interchange Format
+Recommended Optional Readings:
+Rosenthal, D. (2010). Format obsolescence: Assessing the threat and the defenses. Library Hi-Tech, 28(2), 195-210. [e-article] http://dx.doi.org.myaccess.library.utoronto.ca/10.1108/07378831011047613
+Todd, M. (2009, October). Technology Watch Report: File Formats for Preservation. DPC Technology Watch Series Report 09-02. Retrieved from http://www.dpconline.org/component/docman/doc_download/375-file- formats-for-preservation
+Supplementary Resources
+Petrov, P. & Becker, C. (2012). Large-scale content profiling for preservation analysis. In: 9th International Conference on Preservation of Digital Objects (IPRES 2012), Toronto. Retrieved from http://publik.tuwien.ac.at/files/PubDat_213858.pdf
+Kim, Y. & Ross, S. (2011, December 5-7). Digital forensics formats: Seeking a digital preservation storage format for web archiving. International Digital Curation Conference (IDCC 2011). Retrieved from http://eprints.gla.ac.uk/62565/1/62565.pdf
+Rog, J. & van Wijk, C. (2007). Evaluating file formats for long-term preservation. White Paper. The Netherlands: National Library of the Netherlands. Retrieved from http://www.kb.nl/hrd/dd/dd_links_en_publicaties/publicaties/KB_file_for mat_evaluation_method_27022008.pdf
+Databases
+ERPANET. (2003, April 9-11). The long-term preservation of databases. ERPANET Workshop Report, Bern. Retrieved from http://www.erpanet.org/events/2003/bern/Bern_Report_final.pdf
+Heuscher, S., Järmann, S., Keller-Marxer, P., Möhle, F. (2004, October 5-7). Providing authentic long-term archival access to complex relational data.
+                  Christoph Becker, iSchool at UToronto Page 10
+Syllabus for INF 2122H: Digital Preservation and Curation
+         European Space Agency symposium. Ensuring Long-Term Preservation and Adding Value to Scientific and Technical Data. Retrieved from http://arxiv.org/pdf/cs.DL/0408054
+Buneman, P., Cheney, J., Tan, W-C., & Vansummeren, S. (2008). Curated databases. In Proceedings of the twenty-seventh ACM SIGMOD-SIGACT- SIGART symposium on Principles of database systems (PODS '08). (pp. 1- 12). ACM: New York. DOI=10.1145/1376916.1376918. Retrieved from http://doi.acm.org/10.1145/1376916.1376918
+SCARP Project. (2009). Disciplinary Approaches to Sharing, Curation, Reuse and Preservation. SCARP Final Report. Retrieved from http://www.dcc.ac.uk/sites/default/files/documents/scarp/SCARP- FinalReport-Final-SENT.pdf
+Email
+Fran Baker (2014). Carcanet Press Email Preservation Project Phases 2-3: Final Report. The University of Manchester. Retrieved from https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226625
+Dutch Digital Preservation Testbed. (2003, April). From digital volatility to digital permanence: Preserving email. Retrieved from http://en.nationaalarchief.nl/sites/default/files/docs/kennisbank/volatility- permanence-email-en.pdf
+Web resources
+Jackson, A. (2014). What is still on the web after 10 years of archiving? Retrieved from http://britishlibrary.typepad.co.uk/webarchive/2014/10/what-is-still- on-the-web-after-10-years-of-archiving-.html
+Masanès, J. (2006). Web archiving: Issues and methods. In Web Archiving. (pp.1- 53). Springer Berlin Heidelberg. Retrieved from http://link.springer.com/book/10.1007/978-3-540-46332-0/page/1
+Wren, J.D. (2004). 404 not found: The stability and persistence of URLs published in MEDLINE. Bioinformatics 20(5), 668-672. Retrieved from http://bioinformatics.oxfordjournals.org/cgi/reprint/20/5/668.pdf
+Banos V., Kim Y., Ross S., Manolopoulos Y.: CLEAR: a credible method to evaluate website archivability, 10th International Conference on Preservation of Digital Objects (iPRES’2013), Lisbon, 2013
+Kasioumis N., Banos V., Kalb H. (2013). Towards building a blog preservation platform, World Wide Web Journal Special Issue on Social Media Preservation and Applications, Springer, DOI 10.1007/s11280-013-0234-4
+                Week 3: 28 September
+   Lifecycles, Models, Scenarios, and Abilities
+Required Readings:
+Higgins, S. (2008). The DCC curation lifecycle model. International Journal of Digital Curation 3(1), 134-140. [e-journal] http://simplelink.library.utoronto.ca/url.cfm/330573
+Lee, C. (2009, June 17). Matrix of digital curation knowledge and competencies. [website]. Retrieved from http://ils.unc.edu/digccurr/digccurr-matrix.html
+National Science Board (2005). Long-Lived Digital Data Collections: Enabling
+     Christoph Becker, iSchool at UToronto Page 11
+Syllabus for INF 2122H: Digital Preservation and Curation
+         Research and Education in the 21st Century. National Science Foundation.
+(Read sections 1-3)
+Clifford A. Lynch, “Jim Gray’s Fourth Paradigm and the Construction of the Scientific Record,” The Fourth Paradigm, edited by Tony Hey. Microsoft Research, 2009. (Available online)
+DigCurV Practitioner, Manager, and Executive Lenses (Available on the course Blackboard site).
+Supplementary Resources
+National Research Council. Preparing the Workforce for Digital Curation. Washington, DC: The National Academies Press, 2015. (Available online)
+Social Sciences and Humanities Research Council (2013). Capitalizing on Big Data: Toward a Policy Framework for Advancing Digital Scholarship in Canada. Consultation report. (Available online)
+Draft Tri-Agency Statement of Principles on Digital Data Management: http://www.science.gc.ca/default.asp?lang=En&n=547652FB-1
+Lee, C., Tibbo, H. R., & Schaefer, J.C. (2012). Defining what digital curators do and what they need to know: The DigCCurr Project. In Proceedings of the ACM IEEE Digital Preservation & Access Fall, 2012 Joint Conference on Digital Libraries. (18-23 June 2007). Vancouver, British Columbia, Canada. Retrieved from http://www.ils.unc.edu/digccurr/jcdl2007_paper.pdf
+Christoph A. Lee and Helen Tibbo (2011). Where’s the Archivist in Digital Curation? Exploring the Possibilities through a Matrix of Knowledge and Skills. Archivaria 72 (Fall 2011): 123-168 (UTL)
+         Week 4: 5 October
+       Lecture and Discussion Focus: Significant Properties and Characteristics of Digital Objects
+Team Activity: Describe significant properties of a digital object (e.g. a computer game, or a digital document). (Each team will be assigned an example digital object to work with.)
+Required Readings:
+Hockx-Yu, H. & Knight, G. (2008). What to preserve?: Significant properties of digital objects. International Journal of Digital Curation 3(1), 141-153. [e-article] doi:10.2218/ijdc.v3i1.49
+Knight, G. & Pennock, M. Data without meaning: Establishing the significant properties of digital research. International Journal of Digital Curation 4(1) (2009): 159-174. [e-article] doi:10.2218/ijdc.v4i1.86
+Giaretta, D. (2011). Advanced Digital Preservation. Springer Heidelberg, New York. Available online through http://go.utlib.ca/cat/8214530. Read chapter 13, section 6 on significant properties.
+Supplementary Sources:
+Grace, S. & Knight, G. & Montague, L. (2009). INSPECT Final Report. Retrieved from http://www.significantproperties.org.uk/inspect- finalreport.pdf
+Dappert, A. & Farquhar, A. (2009). Significance is in the eye of the stakeholder.
+        Christoph Becker, iSchool at UToronto Page 12
+Syllabus for INF 2122H: Digital Preservation and Curation
+         In Agosti, M., Borbinha, J., Kapidakis, S., Papatheodorou, C., & Tsakonas, G. (Eds.), Proceedings of the 13th European conference on Research and advanced technology for digital libraries (ECDL'09). (pp. 297-308). Wetherby: The British Library. Retrieved from http://www.planets- project.eu/docs/papers/Dappert_Significant_Characteristics_ECDL2009.pdf
+Mike Coyne, David Duce, Bob Hopgood, George Mallen & Mike Stapleton (2007). The Significant Properties of Vector Images. JISC Digital Preservation Programme: Study on the Significant Properties of Vector Images. (Available from the JISC website)
+Yeo, Geoffrey. “‘Nothing is the Same as Something Else’: Significant Properties and Notions of Identity and Originality.” Archival Science 10 (2010): 85- 116.
+       12 October
+     Thanksgiving, no class!
+    Week 5: 19 October
+    Lecture and Discussion Focus: Tools and approaches to Digital Preservation Team Activity: Team based comparison of emulation and migration Required Reading:
+Adrian Brown (2013) Practical Digital Preservation: a how-to guide for
+organizations of any size. Facet Publishing, London. Chapter 8:
+“Preserving digital objects” (scan available via Blackboard).
+The State Records Authority of New South Wales. Effectively manage the
+migration of your digital records. Last accessed September 2014. Website to review:
+The POWRR Tool Grid v2. Available at http://www.digipres.org/tools/
+Supplementary Sources:
+Guttenbrunner, M. & Rauber, A. (2012). Evaluating Emulation and Migration: Birds of a Feather? Proceedings of the 14th Conference on Asian Digital Libraries (ICADL'12), pages 158-167, Taipei, Taiwan, November 12-15 2012. Retrieved from http://link.springer.com/chapter/10.1007%2F978-3- 642-34752-8_22#page-1
+Rothenberg, J. (1998). Avoiding technological quicksand: Finding a viable technical foundation for digital preservation. (CLIR 77). Retrieved from http://www.clir.org/pubs/reports/rothenberg/contents.html
+Ross, S. & Gow, A. (1999). Digital archaeology? Rescuing neglected or damaged digital collections. (pp. 1-94). London & Bristol: British Library and JISC. Retrieved from http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/p2.pdf
+Kirschenbaum, M.G., Ovenden, R., & Redwine, G. (2010). Digital forensics and born-digital content in cultural heritage collections. (pp. 1-93). Washington, D.C.: Council on Library and Information Resources. Retrieved from: http://www.clir.org/pubs/abstract/reports/pub149, and [Inforum: 070.5797 K61D – Course Reserves - Check availability]
+Lee, C.A., Kirschenbaum, M., Chassanoff, A., Olsen, P., & Woods, K. (2012). BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions, D-Lib Magazine 18(5/6). doi:10.1045/may2012-lee. Retrieved from http://www.dlib.org/dlib/may12/lee/05lee.html
+                Christoph Becker, iSchool at UToronto Page 13
+Syllabus for INF 2122H: Digital Preservation and Curation
+               Week 6: 26 October
+ Lecture and Discussion Focus: Archival Information Systems requirements, models, systems, and services
+Required Readings:
+Lavoie, B. (2014). The Open Archival Information System (OAIS) Reference Model: Introductory Guide (2nd Edition) . Digital Preservation Coalition Technology Report. http://dx.doi.org/10.7207/TWR14-02
+Trusted Digital Repositories: Attributes and Responsibilities. An RLG-OCLC Report. Mountain View, CA: RLG, 2002. (Review sections 1-3) http://www.oclc.org/resources/research/activities/trustedrep/repositories.pdf
+Product websites to review:
+ RODA Community – Repository of Authentic Digital Objects. http://www.roda-community.org/
+ Archivemativa - https://www.archivematica.org/wiki/Main_Page
+ Preservica - http://preservica.com/
+ Islandora - http://islandora.ca/
+Supplementary Sources:
+Rosenthal, D. S. H., Robertson, T., Lipkis, T., Reich, V., & Morabito, S. (2005). Requirements for digital preservation systems, a bottom-up approach. D- Lib Magazine 11(11). doi:10.1045/dlib.magazine. [e-article] Available at http://www.dlib.org/dlib/november05/rosenthal/11rosenthal.html
+Consultative Committee on Space Data Systems. (2012). Reference model for an open archival information system (OAIS). (Magenta Book. CCSDS 650.0- M-2). [This Recommendation has been adopted as ISO 14721:2003]. Retrieved from http://public.ccsds.org/publications/archive/650x0m2.pdf
+            Week 7:
+2 November
+      Lecture and Discussion Focus: Strategy and planning Team Focus: Preservation planning
+Required Readings:
+Parliamentary Archives (2009). A Digital Preservation Policy for Parliament. Retrieved from
+http://www.parliament.uk/documents/upload/digitalpreservationpolicy1.0.pdf
+National Library of Australia. (2008). Digital preservation policy. (3rd ed). Retrieved from http://www.nla.gov.au/policy/digpres.html
+Becker, C., Hannes, K., Guttenbrunner, M., Strodl, S., Rauber, A., & Hofman, H. (2009). Systematic planning for digital preservation: Evaluating potential strategies and building preservation plans. International Journal of Digital Libraries 10(4), 133-157. http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/14325 012/v10i0004/133_spfdpepsabpp.xml or http://dx.doi.org/10.1007/s00799- 009-0057-1
+Recommended Readings:
+          Christoph Becker, iSchool at UToronto Page 14
+Syllabus for INF 2122H: Digital Preservation and Curation
+          Colin Webb, David Pearson, Paul Koerbin (2013) 'Oh, you wanted us to preserve that?!' Statements of Preservation Intent for the National Library of Australia's Digital Collections. D-Lib Magazine, January/February 2013, Volume 19, Number 1/2. http://www.dlib.org/dlib/january13/webb/01webb.html
+Supplementary sources:
+Kulovits, H., Rauber, A., Kugler, A., Brantl, M., Beinert, T. & Schoger, A. (2009) From TIFF to JPEG 2000? Preservation Planning at the Bavarian State Library Using a Collection of Digitized 16th Century Printings. Dlib Magazine Volume 15 Number 11/12. Retrieved from http://www.dlib.org/dlib/november09/kulovits/11kulovits.html
+Christoph Becker , Luis Faria , Kresimir Duretec (2014). Scalable decision support for digital preservation. OCLC Systems & Services: International digital library perspectives 2014 30:4 , 249-284
+DigitalPreservationEurope (DPE). D3.2 Repository Planning Checklist and Guidance. (Thematic Priority: IST-2005-2.5.10). Retrieved from http://www.digitalpreservationeurope.eu/publications/reports/Repository_ Planning_Checklist_and_Guidance.pdf
+Digital Preservation Working Group at the Parliamentary Archives (2008). A Digital Preservation Strategy for Parliament. Retrieved from
+http://www.parliament.uk/documents/upload/digital-preservation-strategy-final- public-version.pdf
+Beagrie, N., Semple, N., Williams, P. & Wright, R. (2008). Digital preservation policies study. Part 1: Final report October 2008. Retrieved from http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolic y_p1finalreport.pdf
+Smith, M. & Moore, R. (2008). Digital archive policies and trusted digital repositories. The International Journal of Digital Curation 2(1), 92-101. Retrieved from doi:10.2218/ijdc.v2i1.16
+Bishoff, L. (2007). Planning for digital preservation: A self-assessment tool. NEDCC. Retrieved from
+http://www.nedcc.org/assets/media/documents/DigitalPreservationSelfAss essmentfinal.pdf
+            ISACA (2007). COBIT4.1 Executive Summary, Framework. Retrieved from
+http://www.isaca.org/Knowledge-Center/cobit/Documents/COBIT4.pdf
+ Christoph Becker, Goncalo Antunes, Jose Barateiro, Ricardo Vieira and Jose Borbinha (2011). Control Objectives for DP: Digital Preservation as an Integrated Part of IT Governance. ASIST-AM 2011, New Orleans.
+   Sarah Jones (2011). How to Develop a Data Management and Sharing Plan. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: http://www.dcc.ac.uk/resources/how-guides
+Additional preservation planning case studies and analysis:
+ Christoph Becker and Andreas Rauber (2011) Four cases, three solutions: Preservation Plans for Images. Tech report, Vienna University of Technology
+        Christoph Becker, iSchool at UToronto Page 15
+Syllabus for INF 2122H: Digital Preservation and Curation
+          Christoph Becker & Andreas Rauber (2011) Preservation Decisions: Terms and Conditions apply. Challenges, Misperceptions and Lessons Learned in Preservation Planning. In: ACM/IEEE Joint Conference on Digital Libraries (JCDL 2011). June 13-17, Ottawa, Canada (DOI)
+    9 November
+      Reading week
+    Week 8: 16 November
+Lecture: Metadata
+Team Activity: Addressing Metadata challenges at pre-ingest and ingest – negotiating metadata availability
+Discussion focus: Preservation Metadata: what, how, when, who creates and who pays.
+Required Readings:
+Lavoie, B. & Gartner, R. (2005, September). Preservation Metadata. DPC Technology Watch Report 05-01. Sponsors: OCLC Online Computer Library Center, Oxford University Library Services, Digital Preservation Coalition.
+Retrieved from http://www.immagic.com/eLibrary/ARCHIVES/GENERAL/OCLC_US/O 050912L.pdf
+PREMIS Editorial Committee. (2012, July). PREMIS Data Dictionary for Preservation Metadata, Version 2.2. Retrieved from http://www.loc.gov/standards/premis/v2/premis-2-2.pdf (Read Introduction; review other sections to get an overview. You do not need to read the data dictionary in detail.)
+Supplementary Sources:
+Dappert, A. & Farquhar, A. (2011). Implementing metadata that guide digital preservation services. International Journal of Digital Curation 6(1), 238- 254. Retrieved from http://www.ijdc.net/index.php/ijdc/article/viewFile/176/245
+Caplan, P. (2009, February 1). Understanding PREMIS. Library of Congress Network Development and MARC Standards Office. Retrieved from http://www.loc.gov/standards/premis/understanding-premis.pdf
+      Dappert, A. & Enders, M. (2008).Using METS, PREMIS and MODS for Archiving eJournals. D-Lib Magazine 14(9-10). Retrieved from http://www.dlib.org/dlib/september08/dappert/09dappert.html
+Day, M. (2005). Metadata. [website manual: DCC Digital Curation Manual, (Ross, S. & Day, M (Eds.)]. Retrieved from http://www.dcc.ac.uk/resource/curation-manual/chapters/metadata/
+   van Ballegooie, M. & Duff, W. (2006). Re: Archival Metadata. [website manual: DCC Digital Curation Manual, (Ross, S. & Day, M (Eds.)]. Retrieved from http://www.dcc.ac.uk/resource/curation-manual/chapters/archival- metadata
+        Week 9: 23 November
+ Lecture and Discussion focus: Trust, risk, audit and certification Team Activity: Applying DRAMBORA
+Required Readings:
+    Christoph Becker, iSchool at UToronto Page 16
+Syllabus for INF 2122H: Digital Preservation and Curation
+         Ross, S. & McHugh, A. (2006). The role of evidence in establishing trust in repositories. D-Lib Magazine 12(7/8). [Also reprinted in Archivi e Computer, August 2006]. Retrieved from http://www.dlib.org/dlib/july06/ross/07ross.html
+Digital Curation Centre and DigitalPreservationEurope, (February 2007), DCC and DPE Digital Repository Audit Method Based on Risk Assessment, v1.0, retrieved Nov 2013 from http://www.repositoryaudit.eu/download (Available on Blackboard. Focus on Part I and Part III, but review Part II to understand the basic concepts and stages of the assessment process.)
+Websites to review:
+ Data Seal of Approval: http://datasealofapproval.org/en/
+Recommended Readings:
+Vermaaten, S., Lavoie, B., & Caplan, P. (2012). Identifying threats to successful digital preservation: The SPOT model for risk assessment. D-Lib Magazine 18(9/10). Retrieved from http://www.dlib.org/dlib/september12/vermaaten/09vermaaten.html
+Supplementary Sources:
+OCLC/CRL. (2007, February). Trustworthy repositories audit & certification (TRAC): Criteria and checklist. Retrieved from http://www.crl.edu/PDF/trac.pdf
+Consultative Committee for Space Data Systems. (2011). Audit and Certification of Trustworthy Digital Repositories: Recommended Practice. (Magenta Book. CCSDS 652.0-M-1). Retrieved from http://public.ccsds.org/publications/archive/652x0m1.pdf)
+McHugh, A., Ross, S., Innocenti, P., Ruusalepp, R., & Hofman, H. (2008). Bringing self-assessment home: Repository profiling and key lines of enquiry within DRAMBORA. International Journal of Digital Curation 3(2), 130-142. [e-journal] doi:10.2218/ijdc.v3i2.64
+José Barateiro, Gonçalo Antunes, Filipe Freitas, José Borbinha (2010) Designing Digital Preservation Solutions: A Risk Management-Based Approach. International Journal of Digital Curation Vol. 5, No. 1, pp. 4-17. doi:10.2218/ijdc.v5i1.140 http://www.ijdc.net/index.php/ijdc/article/view/143
+Nestor Working Group. (2009, November). Catalogue of Criteria for Trusted Digital Repositories. (Version 2). Retrieved from http://nbn- resolving.de/urn:nbn:de:0008-2010030806
+              Week 10: 30 November
+   Lecture focus: Costs, benefits, sustainability
+Team and discussion focus: Q&A and support for final assignments.
+Required Reading:
+The Blue Ribbon Task Force on Sustainable Digital Preservation and Access. (2010). Sustainable Economics for a Digital Planet: Ensuring Long-Term Access
+   Christoph Becker, iSchool at UToronto Page 17
+Syllabus for INF 2122H: Digital Preservation and Curation
+         to Digital Information. Retrieved from
+http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf
+Websites to review:
+ 4C project: Summary of Cost Models. http://4cproject.eu/summary-of- cost-models
+ 4C project: Evaluation of Cost Models and Needs & Gaps Analysis http://4cproject.eu/d3-1
+Supplementary Sources:
+4C project (2014). Investing in Curation: A Shared Path to Sustainability (Draft). Retrieved from http://www.4cproject.eu/d5-1-draft-roadmap
+Lavoie, B. & Grindley, N. (2013). A Draft Economic Sustainability Reference Model. Retrieved from http://www.4cproject.eu/ms9-draft-esrm
+Beagrie, N., Chruszcz, J., & Lavoie, B. (2008, April). Keeping Research Data Safe: A Cost Model and Guidance for UK Universities. Retrieved from http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatas afe0408.pdf
+Currall, J. & McKinney, P. (2006). Investing in value: A perspective on digital preservation. D-Lib Magazine, 12(4). [e-article] http://www.dlib.org/dlib/april06/mckinney/04mckinney.html
+Ayris, P., Davies, R., McLeod, R., Miao, R., Shenton, H., & Wheatley, P. (2008). The LIFE2 Final Project Report. (LIFE Project). Retrieved from http://eprints.ucl.ac.uk/11758/
+Bradley, K. (2007). Defining digital sustainability. Library Trends, 56(1), 148- 163. [e-article]
+http://muse.jhu.edu.myaccess.library.utoronto.ca/journals/library_trends/v 056/56.1bradley.html
+               Week 11: 7 December
+    Case studies part 1: Team presentations of Assignment 3
+& tool fair
+First, 5 of the case study teams will present their results, followed by a discussion and comparison of the scenarios, drawing from the concepts of all aspects covered in the course.
+After the break, the tools demonstrated previously will be shared in the style of a fair to allow everybody to get their hands on some of the tools they found most interesting.
+Recommended Reading:
+Mark Guttenbrunner, Christoph Becker and Andreas Rauber, (2010) Keeping the Game Alive: Evaluating Strategies for the Preservation of Console Video Games. International Journal of Digital Curation, Vol 5, No 1. (Available online)
+     Week 12: 14 December
+       Case studies part 2: Team presentations of Assignment 3 & future research
+Lecture and discussion focus: Summary and Future Research Directions
+    Christoph Becker, iSchool at UToronto Page 18
+Syllabus for INF 2122H: Digital Preservation and Curation
+  
+We will hear the presentations of the remaining ~4 case study teams, review & summarize the course, and discuss open questions, future research and the direction of the field.
+Required Readings:
+NDSA: National Digital Stewardship Agenda 2015. Available online at
+http://www.digitalpreservation.gov/ndsa/documents/2015NationalAgenda. pdf. See http://www.digitalpreservation.gov/ndsa/nationalagenda/
+Supplementary Sources:
+Milic-Frayling, N. (2013). Sustainable Computation—Foundation for Long Term Access to Digital. Open Research Challenges in Digital Preservation workshop at the 10th International Conference on Preservation of Digital Objects (IPRES 2013), Lisbon, Portugal. Retrieved from http://digitalpreservationchallenges.files.wordpress.com/2013/09/2013mili cfrayling.pdf
+Becker, C, Rauber, A., Paton, N., Schmidt, R., Milic-Frayling, N., & Matthews, B. (2012). D3.1 Open Research Challenges and Research Roadmap for SCAPE. SCAPE consortium, 2012. Retrieved from http://www.scape- project.eu/wp-content/uploads/2013/08/SCAPE_D3.1_TUW_V1.0.pdf
+Strodl, S., Petrov, P., & Rauber, A. (2011, May). Research on digital preservation within projects co-funded by the European Union in the ICT programme. Retrieved from http://cordis.europa.eu/fp7/ict/telearn-digicult/report- research-digital-preservation_en.pdf
+Ross, S. & Hedstrom, M. (2005). Preservation research and sustainable digital libraries. International Journal of Digital Libraries 5(4), 317-325. Digital Object Identifier (DOI) 10.1007/s00799-004-0099-3. Retrieved from http://eprints.erpanet.org/archive/00000095/
+PARSE.Insight Consortium. (2010). Science Data Infrastructure Roadmap (Deliverable 2.2). Retrieved from http://www.parse- insight.eu/downloads/PARSE-Insight_D2-2_Roadmap.pdf
+Kulovits, H., Becker, C., & Rauber, A. (2012). Roles and Responsibilities in Digital Preservation Decision Making: Towards Effective Governance. The Memory of the orld in the Digital Age: Digitization and Preservation. UNESCO: Vancouver, BC, Canada. [Available on the course blackboard site.]
+Report of the Warwick workshop. (2005, November 7-8). Digital Curation and Preservation: Defining the research agenda for the next decade. Retrieved from http://www.dcc.ac.uk/training/warwick_2005/Warwick_Workshop_report.pdf
+Hedstrom, M. (2003, April 12-13). Final Report: It's About Time: Research Challenges in Digital Archiving and Long–Term Preservation. Retrieved from http://www.digitalpreservation.gov/repor/NSF_LC_Final_Report.pdf
+

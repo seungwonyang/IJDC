@@ -1,0 +1,218 @@
+Data Curation and Management
+
+This class explores the full range of data curation lifecycle activities, from the design of good data through content creator management, metadata creation, ingest into a repository, repository management, access policies and implementation, to data reuse. Data management plans for various funders such as NSF and NIH will be explored.
+
+Grasp the urgency of and need for long-term data curation in public and private venues
+• Define data and identify their roles in organizational, technological, legal, cultural, and
+business contexts
+• Understand both theoretical and practical issues in data curation from a broad range of
+perspectives
+• Describe central data curation concepts, terms, tools, and technologies
+• Be familiar with the current state of knowledge in the field and its key research issues as well
+as past trends and emerging priorities
+• Understand the data curation lifecycle and identify the activities associated with each stage
+and their social, legal, ethical, and policy implications
+• Understand the archival continuum model and how it relates to data curation.
+• Understand the variety of data types generated and used by various disciplines, sub-
+disciplines, and research communities
+• Understand how data curation relates to and has changed scholarship and research
+• Examine the challenges associated with data sharing for collaboration and re-use
+• Discuss roles for libraries and archives in data curation
+• Understand the role of archival principles in data curation
+• Delineate roles and responsibilities for data curators
+• Understand the importance of planning to successful data curation
+Discuss public policy for data (scientific, governmental, and scholarly)
+• Identify optimal data curation standards and best practices
+• Understand crucial issues associated with storage, backup, and security of data
+• Engage with challenges surrounding sustainability, auditing, risk management, trust, and
+costing
+• Become familiar with current data curation education efforts
+
+Week 1, January 13-19: Introduction, Syllabus, and Context
+*Please watch this short video first. This sums up much of what is going on in data sharing and the challenges data curators face on a day-to-day basis. Enjoy. http://www.youtube.com/watch?v=N2zK3sAtr-4
+Beagrie, Neil. “Digital Curation for Science, Digital Libraries, and Individuals.” International Journal of Digital Curation, Vol 1, No 1 (Autumn 2006): 4-16.
+http://www .ijdc.net/index.php/ijdc/article/viewFile/6/2
+Digital Curation Centre. Managing Research Data. Video Documentary. UK: Piers Video Production, 2012. http://youtu.be/2JBQS0qKOBU
+Harvey, Ross. “Introduction” (3-18), “The Changing Landscape” (19-31), and “Conceptual Models” (33-44) in Ross Harvey, Digital Curation: A How-To-Do-It Manual (New York: Neal Schuman, 2010). Please purchase.
+Higgins, Sarah. “The Lifecycle of Data Management,” in Graham Pryor (ed.), Research Data Management (London: Facet, 2012), 17-45. In Sakai.
+Ogburn, Joyce. "The Imperative for Data Curation," portal: Libraries and the Academy 10, number 2 (2010), 241-246. [UNC eJournals]
+Pryor, Graham. “Why Manage Research Data?” In Graham Pryor (ed.), Research Data Management (London: Facet, 2012), 1-16. In Sakai.
+Tibbo, Helen. “Placing the Horse before the Cart: Conceptual and Technical Dimensions of Digital Curation,” Historical Social Research 37 (2012), 187-200. http://www.cceh.uni- koeln.de/files/Tibbo_final.pdf.
+Data Models
+Matrix of Digital Curation Knowledge and Competencies: http://ils.unc.edu/digccurr/digccurr- matrix.html
+Digital Curation Lifecycle Model: http://www.dcc.ac.uk/docs/publications/DCCLifecycle.pdf Continuum Model: http://john.curtin.edu.au/society/australia/
+Data Curation Profiles
+Purdue University Libraries. Data Curation Profiles Toolkit. http://datacurationprofiles.org/ Witt, M. et al. “Constructing Data Curation Profiles.” The International Journal of Digital Curation
+3(4) (2009): 93-103. http://ijdc.net/index.php/ijdc/article/viewFile/137/165 6
+           
+Witt, M. and Carlson, J. (2007). “Conducting a Data Interview” (poster).
+http://docs.lib.purdue.edu/lib_research/81/
+Week 2, January 20-26: All about Data
+Bell, G., Hey, T., and Szalay, A. “Beyond the Data Deluge.” Science, 323 (5919 6 March 2009), 1297-1298. http://www.cloudinnovation.com.au/Bell_Hey%20_Szalay_Science_March_2009.pdf
+Harvey, Ross. “Defining Data,” in Ross Harvey, Digital Curation: A How-To-Do-It Manual (New York: Neal Schuman, 2010), 45-51.
+Carlson, Samuelle and Ben Anderson, “What are Data? The Many Kinds of Data and Their Implications for Data Re-use.” Journal of Computer-Mediated Communication, 12/2 (2007): 301-317. [UNC eJournals]
+Heidorn, Bryan P. "Shedding Light on the Dark Data in the Long Tail of Science." Library Trends 57, no. 2 (2008): 280-299. http://hdl.handle.net/2142/10672
+Jahnke, Lori, Andrew Asher, and Spencer D. C. Keralis. The Problem of Data. Washington, DC: Council on Library and Information Resources, 2012. http://www.clir.org/pubs/reports/pub154. Please read p. 1-21.
+Long-Lived Digital Data Collections. National Science Board. 2005. http://www.nsf.gov/pubs/2005/nsb0540/. Please read p. 9-12 and 43-49.
+McGovern, Nancy. Challenges of Working with Research Data. Video. University of North Carolina at Chapel Hill: Closing the Digital Curation Gap, 2012. http://youtu.be/5OerCanjZ00
+Week 3, January 27-February 2: Digital Data Sharing and Reuse: the Fundamentals
+Borgman, Christine L. “The Conundrum of Sharing Research Data.” Journal of the American Society for Information Science and Technology 63, no. 6 (2012): 1059–1078. doi:10.1002/asi.22634. http://onlinelibrary.wiley.com/doi/10.1002/asi.22634/pdf
+Council on Information and Information Resources, “Research Data Management Principles, Practices, and Prospects (Council on Library and Information Resources, 2013). http://www.clir.org/pubs/reports/pub160/pub160.pdf. Please read p. 1-15.
+Kroll, Rick, and Susan Forsman. A Slice of Research Life: Information Support for Research in the United States. https://www.oclc.org/content/dam/research/publications/library/2010/2010-15.pdf LeClere, Felicia, “Too Many Researchers Are Reluctant to Share Their Data,” The Chronicle of Higher Education (3 August 2010). https://chronicle.com/article/Too-Many-Researchers- Are/123749/
+           7
+Nelson, Bryn, “Empty Archives,” Nature 461 (2009): 160-163. http://www.nature.com/news/2009/090909/full/461160a.html
+Rusbridge, Chris. “Create, Curate, Re-use: The Expanding Life Course of Digital Research Data.” In: Educause Australasia (2007): 1 - 11. http://www.era.lib.ed.ac.uk/handle/1842/1731
+SCARP Project. “Disciplinary Approaches to Sharing, Curation, Reuse and Preservation.” SCARP Final Report. 2009.
+http://www .dcc.ac.uk/sites/default/files/documents/scarp/SCARP-FinalReport-Final- SENT.pdf
+Week 4, February 3-9: Big Data and DataNet
+Big Data
+Bollier, D. “The Promise and Peril of Big Data.”
+http://www .aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_ of_Big_Data.pdf (11 July 2011).
+Boyd, Danah and Kate Crawford, “Critical Questions for Big Data,” Information, Communication, and Society 15, number 5 (2012), 662-679. http://dx.doi.org/10.1080/1369118X.2012.678878 [UNC eJournals]
+Lynch, Clifford. “Big Data: How Do Your Data Grow?” Nature 455, no. 7209 (September 4, 2008): 28–29. doi:10.1038/455028a. [UNC eJournals]
+Manyika, James, Michael Chui, Brad Brown, Jacques Bughin, Richard Dobbs, Charles Roxburgh, and Angela Hung Byers. Big Data: The Next Frontier for Innovation, Competition, and Productivity. McKinsey Global Institute, May 2011.
+http://www .mckinsey .com/insights/business_technology/big_data_the_next_frontier_for_inno vation
+World Economic Forum. Big Data, Big Impact: New Possibilities for International Development. Briefing Paper. Geneva, Switzerland: World Economic Forum, 2012. http://www3.weforum.org/docs/WEF_TC_MFS_BigDataBigImpact_Briefing_2012.pdf.
+DataNet
+Mayernik, Matthew S., G. Sayeed Choudhury, Tim DiLauro, Elliot Metsger, Barbara Pralle, Mike Rippin, and Ruth Duerr. "The Data Conservancy Instance: Infrastructure and Organizational Services for Research Data Curation." D-Lib Magazine 18, no. 9/10 (2012). http://www.dlib.org/dlib/september12/mayernik/09mayernik.html
+Michener, William, Todd Vision, Patricia Cruse, Dave Vieglais, John Kunze, and Greg Janée. "DataONE: Data Observation Network for Earth—Preserving Data and Enabling Innovation in the Biological and Environmental Sciences." D-Lib Magazine 17, no. 1/2 (2011). http://www.dlib.org/dlib/january11/michener/01michener.html
+            8
+SEAD: Sustainable Environment through Actionable Data: http://sead-data.net/ The DataNet Federation Consortium: http://datafed.org/
+Terra Populus: http://www.terrapop.org/
+Week 5, February 10-16: Digital Data and the Evolution of Scholarship (E- Science/Cyberscholarship)
+Curation Profile Progress Report DUE.
+Arms, William Y. “Cyberscholarship: High Performance Computing Meets Digital Libraries.” Journal of Electronic Publishing 11/1 (Winter 2008). http://quod.lib.umich.edu/cgi/t/text/text- idx?c=jep;view=text;rgn=main;idno=3336451.0011.103
+Atkins, Daniel, et al. “Report of the National Science Foundation Blue-Ribbon Panel on Cyberinfrastructure” (2003). http://www.nsf.gov/cise/sci/reports/atkins.pdf. Please read Executive Summary, ES1-6.
+Borgman, Christine. “Scholarship in the Digital Age: Information, Infrastructure, and the Internet.” 2009. Video. http://www.youtube.com/watch?v=A9CDYWw8qIc.
+Bowker Geoffrey C., and Susan Leigh Star. “Cyberscholarship; or, “A Rose Is a Rose Is a ...” EDUCAUSE Review. 44/3 (2009): 6-7. http://www.educause.edu/ero/article/cyberscholarship- or-rose-rose
+Green, David and Michael Roy. “Things to Do While Waiting for the Future to Happen: Building Cyberinfrastructure for the Liberal Arts.” EDUCAUSE Review July/August (2008): 34- 48. http://net.educause.edu/ir/library/pdf/ERM0842.pdf
+Hey, T., S. Tansley, and K. Tolle. “Jim Gray on eScience: A Transformed Scientific Method.” In Hey, T., Tansley, S. and Tolle, K. (Eds.). The Fourth Paradigm: Data-Intensive Scientific Discovery. Redmond, WA: Microsoft, 2009. xix-xxxiii. http://research.microsoft.com/en- us/collaboration/fourthparadigm/.
+NSF Cyberinfrastructure Council. “NSF’s Cyberinfrastructure Vision for 21st Century Discovery.” National Science Foundation. (September 26, 2005).
+http://www .nsf.gov/attachments/102806/public/NSFCyberinfrastructureVisionDraft-4.0.pdf Please read chapter 1.
+              9
+Week 6, February 17-23: The Role of Archives in Data Curation
+Data Curation Approach for Your Personal Digital Materials DUE.
+Gilliland-Swetland, Anne J. Enduring Paradigm, New Opportunities: The Value of the Archival Perspective in the Digital Environment. Washington, DC: Council on Library and Information Resources, 2000. http://www.clir.org/pubs/reports/pub89/contents.html
+Lee, Christopher A., and Helen Tibbo. "Where's the Archivist in Digital Curation? Exploring the Possibilities through a Matrix of Knowledge and Skills." Archivaria 72 (2011): 123-68. http://journals.sfu.ca/archivar/index.php/archivaria/article/viewArticle/13362
+Marshall, Cathy C. “From Writing and Analysis to the Repository: Taking the Scholars' Perspective on Scholarly Archiving.” Proceedings of JCDL'08, June 16‐20, 2008, Pittsburgh, PA, USA. (2008): 251‐260. http://www.csdl.tamu.edu/~marshall/p251-marshall-final.pdf
+Palmer, Carole L., Nicholas M. Weber, Trevor Munoz, and Allen H. Renear. “Foundations of Data Curation: The Pedagogy and Practice of ‘Purposeful Work’ with Research Data.” Archive Journal no. 3 (2013). http://www.archivejournal.net/issue/3/archives-remixed/foundations-of- data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/.
+Redwine, Gabriella, et al., Born Digital: Guidance for Donors, Dealers, and Archival Repositories, Washington, D.C.: Council on Library and Information Resources, 2013). http://www.clir.org/pubs/reports/pub159/pub159.pdf
+Ross, Seamus. Keynote speech at the European Conference on Digital Libraries (ECDL) 2007.
+http://www.ecdl2007.org/Keynote_ECDL2007_SROSS.pdf
+Tibbo, Helen R. “On the Nature and Importance of Archiving in the Digital Age.” In Advances in Computing v. 57. Elsevier, 2003, 1-67. In Sakai.
+Wallis, Jillian C., Christine L. Borgman, Matthew S. Mayernik, and Alberto Pepe. “Moving Archival Practices Upstream: An Exploration of the Life Cycle of Ecological Sensing Data in Collaborative Field Research. International Journal of Digital Curation 3/1 (2008) 114-126. http://www .ijdc.net/index.php/ijdc/article/viewFile/67/46
+Week 7, February 24-March 3: The Roles of Libraries and Institutional Repositories in Data Curation
+Data Confidence Exercise DUE.
+Association of Research Libraries. Repository Issues Task Force. “The Research Library’s Role in Digital Repository Services. Final Report of the ARL Digital Repository Issues Task Force.” (2009). http://www.arl.org/storage/documents/publications/repository-services-report- jan09.pdf
+            10
+Corrall, Sheila, “Roles and Responsibilities: Libraries, Librarians and Data,” in Pryor (ed.), Research Data Management (London: Facet, 2012), 105-133. In Sakai.
+Harvey, Ross, “Curation and Curators,” in Ross Harvey, Digital Curation: A How-To-Do-It Manual (New York: Neal Schuman, 2010), 55-63.
+Cragin, Melissa H., Carole L. Palmer, Jacob R. Carlson and Michael Witt. “Data Sharing, Small Science and Institutional Repositories.” Transactions of the Royal Society A. vol. 368 no. 1926 (13 September 2010): 4023-4038. http://rsta.royalsocietypublishing.org/content/368/1926/4023.full
+Gold, Anna. “Data Curation and Libraries: Short‐Term Developments, Long‐Term Prospects.” California Polytechnic State University, San Luis Obispo: Office of the Dean (Library), 2010. http://digitalcommons.calpoly.edu/lib_dean/27
+  Lyon, Liz. Dealing with Data: Roles, Rights, Responsibilities, and Relationships. Consultancy Report. UK: UKOLN, University of Bath, June 19, 2007.
+http://www .ukoln.ac.uk/ukoln/staff/e.j.lyon/reports/dealing_with_data_report-final.pdf
+Mitchell, Erik T. “Research Support: The New Mission for Libraries.” Journal of Web Librarianship 7, no. 1 (January 2013): 109–113. doi:10.1080/19322909.2013.757930. [UNC eJournals]
+Pryor, G. and Donnelly, M. “Skilling Up to Do Data: Whose Role, Whose Responsibility, Whose Career?” International Journal of Digital Curation, Vol. 4, issue 2 (2009): 158-170.
+http://www .ijdc.net/index.php/ijdc/article/view/126/133
+Tenopir, Carol, Ben Birch, and Suzie Allard. Academic Libraries and Research Data Services: Current Practices and Plans for the Future. Chicago: Association of College and Research Libraries, 2012. http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/whitepapers/Tenopir_Bir ch_Allard.pdf
+Weibel, Gunther. “Are Data Repositories the New Institutional Repositories?” Weibel Lines Blog http://weibel-lines.typepad.com/weibelines/2009/03/are-data-repositories-the-new- institutional-repositories.html
+Witt, Michael. “Institutional Repositories and Research Data Curation in a Distributed Environment.” Library Trends 57/2 (2009). [UNC eJournals]
+Week 8, March 3-16: Education, Training, and Skilling Up
+Wookflow Tool Analysis DUE.
+Kim, Youngseek, Benjamin K. Addom, and Jeffrey M. Stanton. "Education for eScience Professionals: Integrating Data Curation and Cyberinfrastructure." International Journal of Digital Curation 6, no. 1 (2011): 125-138. http://www.ijdc.net/index.php/ijdc/article/view/168
+        11
+Cirinnà, Chiara, et al. (eds.), Proceedings of the Framing the Digital Curation Curriculum Conference (DigCurV). Florence, Italy, 6-7 May, 2013. http://www.digcur- education.org/eng/Resources/DigCurV-2013-proceedings
+Creamer, Andrew T., Myrna E. Morales, Donna Kafel, Javier Crespo, and Elaine R. Martin. "A Sample of Research Data Curation and Management Courses." Journal of eScience Librarianship 1, no. 2 (2012). http://dx.doi.org/10.7191/jeslib.2012.1016
+Renear, Allen H.; Palmer, Carole L., and John Unsworth. Extending Data Curation to the Humanities: Curriculum Development and Recruiting. Urbana-Champaign: Graduate School of Library and Information Science, University of Illinois at Urbana-Champaign, 2013. http://hdl.handle.net/2142/42628
+H.R. Tibbo, C. Hank, C.A. Lee, & R. Clemens (Eds.), Proceedings of DigCCurr2009: Digital Curation: Practice, Promise, and Prospects, April 3-5, 2009, Chapel Hill, NC, 2-3. Chapel Hill, NC: School of Information and Library Science, University of North Carolina at Chapel Hill. Available as free download at: http://stores.lulu.com/DigCCurr2009. (Browse)
+Weber, Nicholas M., Carole L. Palmer, and Tiffany C. Chao. "Current Trends and Future Directions in Data Curation Research and Education." Journal of Web Librarianship 6, no. 4 (2012): 305-320. http://www.tandfonline.com/doi/full/10.1080/19322909.2012.730358
+Week 9, March 17-23: Data Management Plans & Policy
+Data Management Plan Critique DUE.
+Bohémier, Kayleigh Ayn, Thea Atwood, Andreas Kuehn, and Jian Qin. “A Content Analysis of Institutional Data Policies.” In Proceedings of the 11th Annual International ACM/IEEE Joint Conference on Digital Libraries, 409–410. Ottawa, Canada: ACM Press, 2011. doi:10.1145/1998076.1998159. [ACM Digital Library via UNC Libraries]
+Dietrich, Dianne, Trisha Adamus, Alison Miner, and Gail Steinhart. “De-mystifying the Data Management Requirements of Research Funders.” Issues in Science and Technology Librarianship no. Summer (2012). doi:10.5062/F44M92G2. [UNC e-Journals]
+Donnelly, Martin, “Data Management Plans and Planning,” in Pryor (ed.), Research Data Management (London: Facet, 2012), 83-103. In Sakai.
+Harvey, Ross, “Preservation Planning and Policy,” in Ross Harvey, Digital Curation: A How-To-Do- It Manual (New York: Neal Schuman, 2010), 83-92.
+Haywood, Jeff. Research Data Management Policies. Video. Edinburgh, UK: University of Edinburgh. Accessed October 3, 2013. http://youtu.be/V8IIdfBAr_0
+Holdren, John P. “Memorandum for the Heads of Executive Departments and Agencies.” Office of Science and Technology Policy, Executive Office of the President, February 22, 2013.
+       12
+http://www .whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_20 13.pdf.
+Hswe, Patricia, and Ann Holt. "Joining in the Enterprise of Response in the Wake of the NSF Data Management Planning Requirement." Research Library Issues, no. 274 (2011): 11-17. http://publications.arl.org/rli274/12
+Jones, Sarah, “Research Data Policies: Principles, Requirements and Trends,” in Pryor (ed.), Research Data Management (London: Facet, 2012), 47-66.
+Mervis, Jeffrey. “NSF to Ask Every Grant Applicant for Data Management Plan.” Science Insider. May 5, 2010. http://news.sciencemag.org/scienceinsider/2010/05/nsf-to-ask-every- grantapplicant.html
+National Academy of Science. Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age. Washington, DC: NAS, 2009. http://www.nap.edu/catalog.php?record_id=12615. Please read p. 1-9.
+Sallans, Andrew, and Martin Donnelly. "DMP Online and DMPTool: Different Strategies towards a Shared Goal." International Journal of Digital Curation 7, no. 2 (2012): 123-129. http://www .ijdc.net/index.php/ijdc/article/view/225
+Steinhart, Gail, Eric Chen, Florio Arguillas, Dianne Dietrich, and Stefan Kramer. "Prepared to Plan? A Snapshot of Researcher Readiness to Address Data Management Planning Requirements." Journal of eScience Librarianship 1, no. 2 (2012). http://dx.doi.org/10.7191/jeslib.2012.1008
+Team Digital Preservation. “Team Digital Preservation and the Arctic Mountain Adventure.”(2009) http://www.youtube.com/watch?v=PGFOZLecjTc
+Tools to Explore:
+CDL. UC3 “Manage Your Data.” http://www.cdlib.org/services/uc3/datamanagement/. DataOne. Data Management Plans. https://www.dataone.org/plans
+DCC. DMPT Online: Data Management Planning Tool. http://dmponline.dcc.ac.uk/
+Donnelly, Martin, and Sarah Jones. “Checklist for a Data Management Plan.” Digital Curation Centre, March 17, 2011. http://www.dcc.ac.uk/sites/default/files/documents/data- forum/documents/docs/DCC_Checklist_DMP_v3.pdf.
+ICPSR. “Guidelines for Effective Data Management Plans.”
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/dmp/index.jsp
+               13
+MIT Libraries. “Data Management and Publishing.”
+http://libraries.mit.edu/guides/subjects/data-management/plans.html
+NSF. Dissemination and Sharing of Research Results NSF Data Management Plan Requirements
+NSF. Data Management for NSF Engineering Directorate Proposals and Awards.
+http://www.nsf.gov/eng/general/ENG_DMP_Policy.pdf
+NSF Guide to Grant Applications (effective January 18, 2011).
+http://www .nsf.gov/pubs/policydocs/grantsgovguide0111.pdf?WT .mc_id=USNSF_179
+UK Data Archives. “Managing and Sharing Data.” May 2011. http://www.data- archive.ac.uk/media/2894/managingsharing.pdf
+UNC University Libraries. “Research Data Toolkit: Resources for Writing a Data Management Plan.” http://www.lib.unc.edu/reference/data_services/researchdatatoolkit/index.html
+University of California Curation Center of the California Digital Library. “DMPTool: Guidance and Resources for Your Data Management Plan.” DMPTool: Guidance and Resources for Your Data Management Plan, 2013. https://dmp.cdlib.org/.
+University of North Carolina at Chapel Hill. Provost’s Taskforce on the Stewardship of Digital Research Data.” “Research Data Stewardship at UNC: Recommendations for Scholarly Practice and Leadership.” Chapel Hill: UNC, February 15, 2012. http://sils.unc.edu/sites/default/files/general/research/UNC_Research_Data_Stewardship_Re port.pdf
+Week 10, March 24-30: Metadata
+Blank, Grant, and Karsten Rasmussen. “The Data Documentation Initiative: The Value and Significance of a Worldwide Standard.” Social Science Computer Review no. 22 (2004): 307–318. doi:10.1177/0894439304263144. [UNC e-Journals]
+Chin, George Jr., and Carina S. Lansing. “Capturing and Supporting Contexts for Scientific Data Sharing via the Biological Sciences Collaboratory.” Proceedings of the 2004 ACM Conference on Computer Supported Cooperative Work (2004): 409-418. http://portal.acm.org/citation.cfm?id=1031677
+Dappert, Angela and Adam Farquhar. “Implementing Metadata that Guide Digital Preservation Services.” International Journal of Digital Curation. Vol. 6, Issue 1 (2011): 238-254.
+http://www .ijdc.net/index.php/ijdc/article/viewFile/176/245
+Guttenbrunner, Mark. “Preserving Interactive Content: Strategies, Significant Properties and Automatic Testing.” In The Proceedings of the 8th International Student Workshop: Dedinky, Slovakia June 26-29, 2008. (2008):43-52 http://publik.tuwien.ac.at/files/PubDat_172294.pdf.
+             14
+Gilliland, Anne. “Setting the Stage.” In: Introduction to Metadata. Online Edition, Version 3.0. Also read: “Practical Principles for Metadata Creation and Maintenance.” http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html
+Harvey, Ross, “Description and Representation Information,” in Ross Harvey, Digital Curation: A How-To-Do-It Manual (New York: Neal Schuman, 2010), 65-82.
+Knight, Gareth and Maureen Pennock. “Data without Meaning: Establishing the Significant Properties of Digital Research.” International Journal of Digital Curation 4(1) (2009): 159-174. http://ijdc.net/index.php/ijdc/article/view/110/0
+Simmhan, Yogesh, Beth Plale, and Dennis Gannon. “A Survey of Data Provenance in e- Science.” SIGMOD Record, Vol. 34, No. 3 (Sept. 2005): 31-36. http://pti.iu.edu/sites/default/files/simmhanSIGMODrecord05.pdf
+Lavoie, Brian, and Richard Gartner. Preservation Metadata. DPC Technology Watch Report 05-01. Sponsors: OCLC Online Computer Library Center, Oxford University Library Services, Digital Preservation Coalition. 2005. http://www.dpconline.org/advice/technology-watch-reports
+Week 11: March 31 – April 6: Data and the Social Sciences
+Crosas, M. “The Dataverse Network: An Open-Source Application for Sharing, Discovering and Preserving Data.” (2011). http://www.dlib.org/dlib/january11/crosas/01crosas.html
+DDI, Data Documentation Initiative. http://www.ddialliance.org/ DVN, Dataverse Network Repository Software. www.thedata.org
+Green, A.G. and M. Gutmann. “Building Partnerships among Social Science Researchers, Institution-Based Repositories and Domain Specific Data Archives.” OCLC Systems & Services: International Digital Library Perspectives 23 (2007): 35-53. [UNC eJournals]
+Inter-university Consortium for Political and Social Research (ICPSR). Guide to Social Science Data Preparation and Archiving: Best Practice Throughout the Data Life Cycle. 5th ed. Ann Arbor, MI: ICPSR, 2012. http://www.icpsr.umich.edu/files/ICPSR/access/dataprep.pdf.
+King, Gary. “Ensuring the Data-Rich Future of the Social Sciences,” Science 331 no. 6018, 719- 721 http://www.sciencemag.org/content/331/6018/719.short
+King, Gary. “An Introduction to the Dataverse Network as an Infrastructure for Data Sharing.” Sociological Methods & Research, 36/2 (2007): 173-199. http://gking.harvard.edu/files/dvn.pdf
+Sawyer, Steve, Elizabeth Kaziunas, and Carsten Øesterlund. “Social Scientists and Cyberinfrastructure.” In Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work, 931–934. Seattle, WA: ACM Press, 2012. doi:10.1145/2145204.2145342.
+          15
+Social Science Data Archives. http://www.socsciresearch.com/r6.html
+Van den Eynden, Veerle, Libby Bishop, Laurence Horton, and Louise Corti. “Data Management Practices in the Social Sciences.” Essex: UK Data Archive, 2010. Available at: http://www.data- archive.ac.uk/about/publications.
+Vardigan, Mary and Cole Whiteman. “ICPSR Meets OAIS: Applying the OAIS Reference Model to the Social Science Archive Context.” Archival Science, 7/1 (2007), 73-87. http://hdl.handle.net/2027.42/60440 and UNC eJournals.
+Week 12: April 7 – April 13: Data and the Arts and Humanities
+American Council of Learned Societies. “Our Cultural Commonwealth: The Report of the American Council of Learned Societies Commission on Cyberinfrastructure for the Humanities and Social Sciences.” December 13, 2006, New York, NY: American Council of Learned Societies and the Andrew W. Mellon. Foundation, 2006 https://www.ideals.illinois.edu/handle/2142/189
+Benardou, Agiatis, Panos Constantopoulos, Costis Dallas, and Dimitris Gavrilis. “Understanding the Information Requirements of Arts and Humanities Scholarship.” International Journal of Digital Curation. Vol. 5, Issue 1 (2010): 18-33. http://ijdc.net/index.php/ij dc/article/view/144
+Borgman, Christine L. “The Digital Future is Now: A Call to Action for the Humanities.” Digital Humanities Quarterly 3⁄4 (Fall 2009): http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html
+Flanders, Julia, and Trevor Munoz. “An Introduction to Humanities Data Curation.” DH Curation Guide: a Community Resource Guide to Data Curation in the Digital Humanities. http://guide.dhcuration.org/intro/
+Friedlander, Amy. “Asking Questions and Building a Research Agenda for Digital Scholarship.” In Working Together or Apart: Promoting the Next Generation of Digital Scholarship. Washington, DC: Council on Library and Information Resources, 2009: 1-15. http://www.clir.org/pubs/reports/pub145.
+Poole, Alex H. “Now is the Future Now? The Urgency of Digital Curation in the Digital Humanities,” Digital Humanities Quarterly 7, number 2 (2013). http://www.digitalhumanities.org/dhq/vol/7/2/000163/000163.html
+Week 13, April 14-20: Data for Science and Health Research
+Curation Profile Presentation to Class (Video).
+Albani, Sergio and David Giaretta. “Long-term Preservation of Earth Observation Data and Knowledge in ESA through CASPAR.” International Journal of Digital Curation Vol. 4, Issue 3 (2009): 4-16. http://www.ijdc.net/index.php/ijdc/article/viewFile/130/162
+            16
+Brunsmann, Jörg and Wolfgang Wilkes. “Enabling Product Design Reuse by Long-term Preservation of Engineering Knowledge.” International Journal of Digital Curation Vol. 4, Issue 3 (2009): 17-28. http://www.ijdc.net/index.php/ijdc/article/viewFile/131/149
+Duerr Ruth, et al. “Challenges in Long-Term Data Stewardship.” In Proceedings of the 21st IEEE Conference on Mass Storage Systems and Technologies. 2004. 101-121. http://storageconference.org/2004/Papers/05-Duerr-a.pdf
+Goodman, A. and C. G. Wong. “Bringing the Night Sky Closer: Discoveries in the Data Deluge.” In Hey, T., Tansley, S. and K. Tolle, Eds. The Fourth Paradigm: Data-Intensive Scientific Discovery. Redmond, WA: Microsoft, 2009: 39-44. http://research.microsoft.com/en- us/collaboration/fourthparadigm/
+Karasti, Helena, Karen S. Baker, and Eija Halkola. “Enriching the Notion of Data Curation in E- Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network.” Computer Supported Cooperative Work (CSCW), 15(4) (2006): 321-358.
+Pryor, Graham. “Multi-Scale Data Sharing in the Life Sciences: Some Lessons for Policy Makers.” International Journal of Digital Curation Vol. 4, Issue 3 (2009): 71-82.
+http://www .ijdc.net/index.php/ijdc/article/view/135
+Week 14, April 21-27: Auditing, Risk Management, Costing, Trust, and Sustainability
+Barateiro, José. “Designing Digital Preservation Solutions: A Risk Management-Based Approach.” International Journal of Digital Curation Vol. 5, Issue 1 (2010): 4-17. http://www .ijdc.net/index.php/ijdc/article/viewFile/143/205
+Beagrie, Neil, Julia Chruszcz, and Brian Lavoie. Keeping Research Data Safe. A Cost Model and Guidance for UK Universities. London: JISC, 2008. http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatasafe0408.pdf
+Beagrie, Neil, Brian Lavoie, and Matthew Woollard. Keeping Research Data Safe 2. UK: JISC, 2010. http://www.jisc.ac.uk/media/documents/publications/reports/2010/keepingresearchdatasafe2. pdf
+Berman, Fran, Brian Lavoie, Paul Ayris, Sayeed Choudhury, E. Cohen, Paul Courant, Lee Dirks, et al. “Sustainable Economies for a Digital Planet: Ensuring Long-Term Access to Digital Information.” Final Report of the Blue Ribbon Task Force on Sustainable Digital Preservation and Access. (February 2010). http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf. Please read p. 1-7 and 73-85.
+CCSDS. Audit and Certification of Trustworthy Digital Repositories. Magenta Book. Recommended Practice. September 2011. http://public.ccsds.org/publications/archive/652x0m1.pdf
+              17
+Center for Research Libraries. Trustworthy Repositories Audit and Certification: Criteria and Checklist. Version 1.0. February 2007. http://catalog.crl.edu/search~S1?/Xtrusted+repositories&searchscope=1&SORT=R/Xtrusted +repositories&searchscope=1&SORT=R&SUBKEY=trusted%20repositories/1,15,15,B/l856~ b2212602&FF=Xtrusted+repositories&searchscope=1&SORT=R&6,6,,1,0
+Data Archiving and Networked Services (DANS). “Data Seal of Approval.” Data Seal of Approval, 2008. http://datasealofapproval.org/
+Ferriero, David. “ISO Standards for Certifying Trustworthy Digital Repositories.” NARAtions: Blog of the Archivist of the United States. (March 15, 2011) http://blogs.archives.gov/online-public- access/?p=4697
+Klump, Jens. “Criteria for the Trustworthiness of Data Centres.”D-Lib Magazine Volume 17, Number 1⁄2 (January/February 2011). http://www.dlib.org/dlib/january11/klump/01klump.html
+Lavoie, Brian F., “Sustainable Research Data,” in Pryor (ed.), Research Data Management (London: Facet, 2012), 67-82.
+Ross, Seamus and Andrew McHugh. “The Role of Evidence in Establishing Trust in Repositories.” D-Lib Magazine 12 7/8 (July/August 2006). http://www.dlib.org/dlib/july06/ross/07ross.html.
+The Cost of Archiving: several short video talks from the Personal Digital Archiving Conference at the Internet Archive, February, 2011. Jeff Ubois, Stephen Griffin, David Rosenthal, Brewster Kahle, and panel discussion: http://www.archive.org/search.php?query=collection%3Apersonalarchiveconf
